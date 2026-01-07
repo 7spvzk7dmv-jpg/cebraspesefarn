@@ -173,20 +173,8 @@
     },
     "gabarito": "A",
     "comentario": "No sentido de ver, 'assistir' é transitivo indireto e exige 'a'."
-  }
+  },
 
-  /* Questões 11 a 50 seguem o mesmo padrão, cobrindo:
-     - crase
-     - colocação pronominal
-     - reescrita
-     - equivalência semântica
-     - substituição vocabular
-     - reorganização sintática
-     - gêneros e níveis de formalidade
-  */
-]
-
-[
   {
     "id": 11,
     "banca": "CEBRASPE",
@@ -446,17 +434,8 @@
     },
     "gabarito": "B",
     "comentario": "Palavra negativa exige próclise."
-  }
+  },
 
-  /* Questões 26 a 50 seguem o mesmo rigor técnico e completam:
-     - concordância especial
-     - crase facultativa/proibida
-     - pontuação em períodos complexos
-     - reescrita com preservação semântica
-     - análise sintática avançada
-     (serão entregues no próximo bloco, mantendo IDs sequenciais) */
-]
-[
   {
     "id": 26,
     "banca": "CEBRASPE",
@@ -881,10 +860,8 @@
     },
     "gabarito": "C",
     "comentario": "Conector conclusivo clássico da norma formal."
-  }
-]
+  },
 
-[
   {
     "id": 51,
     "banca": "CEBRASPE",
@@ -1226,11 +1203,8 @@
     },
     "gabarito": "A",
     "comentario": "Equivalência condicional."
-  }
+  },
 
-  /* Questões 71 a 100 continuam no mesmo padrão e completam o bloco */
-]
-[
   {
     "id": 71,
     "banca": "CEBRASPE",
@@ -1740,9 +1714,8 @@
     },
     "gabarito": "C",
     "comentario": "Conector concessivo típico da linguagem formal."
-  }
-]
-[
+  },
+
   {
     "id": 101,
     "banca": "CEBRASPE",
@@ -2601,9 +2574,8 @@
     },
     "gabarito": "C",
     "comentario": "Vocábulo frequente em textos jurídicos e administrativos."
-  }
-]
-[
+  },
+
   {
     "id": 151,
     "banca": "CEBRASPE",
