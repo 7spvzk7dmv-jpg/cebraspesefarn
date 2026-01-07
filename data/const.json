@@ -1,0 +1,3442 @@
+[
+  {
+    "id": 1,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Constitucional",
+    "conteudo": "Aplicabilidade das normas constitucionais",
+    "dificuldade": "média",
+    "enunciado": "As normas constitucionais de eficácia plena caracterizam-se por",
+    "alternativas": {
+      "A": "dependerem de regulamentação infraconstitucional",
+      "B": "produzirem efeitos apenas após edição de lei",
+      "C": "terem aplicabilidade imediata, direta e integral",
+      "D": "admitirem restrição legislativa ampla",
+      "E": "terem conteúdo programático"
+    },
+    "gabarito": "C",
+    "comentario": "Normas de eficácia plena são autoaplicáveis e não admitem restrição."
+  },
+  {
+    "id": 2,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Constitucional",
+    "conteudo": "Normas de eficácia contida",
+    "dificuldade": "difícil",
+    "enunciado": "As normas constitucionais de eficácia contida distinguem-se das de eficácia plena porque",
+    "alternativas": {
+      "A": "não produzem efeitos imediatos",
+      "B": "dependem de regulamentação para existir",
+      "C": "admitem restrição por lei infraconstitucional",
+      "D": "possuem conteúdo meramente programático",
+      "E": "são inaplicáveis no plano jurídico"
+    },
+    "gabarito": "C",
+    "comentario": "Produzem efeitos imediatos, mas podem ser restringidas por lei."
+  },
+  {
+    "id": 3,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Constitucional",
+    "conteudo": "Normas de eficácia limitada",
+    "dificuldade": "difícil",
+    "enunciado": "As normas constitucionais de eficácia limitada",
+    "alternativas": {
+      "A": "produzem todos os seus efeitos desde a promulgação",
+      "B": "são normas completas e autoexecutáveis",
+      "C": "dependem de regulamentação para plena eficácia",
+      "D": "não possuem qualquer efeito jurídico",
+      "E": "não vinculam o legislador"
+    },
+    "gabarito": "C",
+    "comentario": "Exigem atuação legislativa para produzir efeitos plenos."
+  },
+  {
+    "id": 4,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Constitucional",
+    "conteudo": "Normas programáticas",
+    "dificuldade": "difícil",
+    "enunciado": "As normas constitucionais programáticas",
+    "alternativas": {
+      "A": "são juridicamente irrelevantes",
+      "B": "não produzem qualquer efeito imediato",
+      "C": "estabelecem programas de atuação para o Estado",
+      "D": "são sempre de eficácia plena",
+      "E": "dispensam atuação legislativa"
+    },
+    "gabarito": "C",
+    "comentario": "Fixam objetivos e diretrizes a serem concretizados pelo Estado."
+  },
+  {
+    "id": 5,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Constitucional",
+    "conteudo": "Interpretação constitucional",
+    "dificuldade": "difícil",
+    "enunciado": "O princípio da máxima efetividade das normas constitucionais impõe que",
+    "alternativas": {
+      "A": "se interprete a Constituição de forma literal",
+      "B": "se privilegie a intenção do legislador ordinário",
+      "C": "se atribua o maior alcance possível às normas constitucionais",
+      "D": "se restrinja a aplicação das normas programáticas",
+      "E": "se admita interpretação conforme apenas em controle concentrado"
+    },
+    "gabarito": "C",
+    "comentario": "Busca extrair o máximo de eficácia das normas constitucionais."
+  },
+
+  {
+    "id": 6,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Constitucional",
+    "conteudo": "Princípios fundamentais",
+    "dificuldade": "média",
+    "enunciado": "Constitui fundamento da República Federativa do Brasil",
+    "alternativas": {
+      "A": "a prevalência dos direitos humanos",
+      "B": "a cidadania",
+      "C": "a erradicação da pobreza",
+      "D": "a defesa da paz",
+      "E": "a cooperação entre os povos"
+    },
+    "gabarito": "B",
+    "comentario": "Art. 1º da CF: fundamentos incluem soberania, cidadania, dignidade da pessoa humana, valores sociais do trabalho e pluralismo político."
+  },
+  {
+    "id": 7,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Constitucional",
+    "conteudo": "Objetivos fundamentais",
+    "dificuldade": "média",
+    "enunciado": "Constitui objetivo fundamental da República Federativa do Brasil",
+    "alternativas": {
+      "A": "a cidadania",
+      "B": "a soberania",
+      "C": "a dignidade da pessoa humana",
+      "D": "erradicar a pobreza e a marginalização",
+      "E": "os valores sociais do trabalho"
+    },
+    "gabarito": "D",
+    "comentario": "Objetivos fundamentais estão no art. 3º da CF."
+  },
+  {
+    "id": 8,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Constitucional",
+    "conteudo": "Direitos e garantias fundamentais",
+    "dificuldade": "difícil",
+    "enunciado": "Os direitos e garantias fundamentais previstos na Constituição",
+    "alternativas": {
+      "A": "são taxativos",
+      "B": "aplicam-se apenas aos brasileiros",
+      "C": "têm aplicação imediata",
+      "D": "dependem sempre de regulamentação",
+      "E": "não vinculam o legislador"
+    },
+    "gabarito": "C",
+    "comentario": "Art. 5º, §1º: aplicação imediata."
+  },
+  {
+    "id": 9,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Constitucional",
+    "conteudo": "Direitos individuais",
+    "dificuldade": "difícil",
+    "enunciado": "O direito à vida, segundo a Constituição Federal,",
+    "alternativas": {
+      "A": "é absoluto",
+      "B": "não admite qualquer restrição",
+      "C": "admite restrições em hipóteses excepcionais",
+      "D": "aplica-se apenas aos brasileiros natos",
+      "E": "não possui proteção penal"
+    },
+    "gabarito": "C",
+    "comentario": "Direito fundamental não é absoluto."
+  },
+  {
+    "id": 10,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Constitucional",
+    "conteudo": "Direitos sociais",
+    "dificuldade": "média",
+    "enunciado": "São direitos sociais previstos expressamente na Constituição",
+    "alternativas": {
+      "A": "vida e liberdade",
+      "B": "trabalho, saúde e educação",
+      "C": "voto e elegibilidade",
+      "D": "propriedade e herança",
+      "E": "nacionalidade e cidadania"
+    },
+    "gabarito": "B",
+    "comentario": "Art. 6º da CF."
+  },
+
+  {
+    "id": 11,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Constitucional",
+    "conteudo": "Direitos fundamentais",
+    "dificuldade": "difícil",
+    "enunciado": "Segundo a Constituição Federal, os direitos e garantias fundamentais",
+    "alternativas": {
+      "A": "não podem ser objeto de emenda constitucional",
+      "B": "aplicam-se apenas aos brasileiros natos",
+      "C": "não se estendem aos estrangeiros",
+      "D": "têm aplicação imediata",
+      "E": "dependem sempre de regulamentação legal"
+    },
+    "gabarito": "D",
+    "comentario": "Art. 5º, §1º, CF: aplicação imediata dos direitos fundamentais."
+  },
+  {
+    "id": 12,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Constitucional",
+    "conteudo": "Direitos fundamentais",
+    "dificuldade": "difícil",
+    "enunciado": "O rol de direitos fundamentais previsto no art. 5º da Constituição Federal é",
+    "alternativas": {
+      "A": "taxativo",
+      "B": "exemplificativo",
+      "C": "aplicável apenas aos brasileiros",
+      "D": "restrito aos direitos individuais",
+      "E": "imutável"
+    },
+    "gabarito": "B",
+    "comentario": "Art. 5º, §2º, CF: admite direitos decorrentes de tratados e princípios."
+  },
+  {
+    "id": 13,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Constitucional",
+    "conteudo": "Cláusulas pétreas",
+    "dificuldade": "difícil",
+    "enunciado": "Constitui cláusula pétrea expressa na Constituição Federal",
+    "alternativas": {
+      "A": "o sistema financeiro nacional",
+      "B": "a forma federativa de Estado",
+      "C": "o sistema tributário nacional",
+      "D": "a ordem econômica",
+      "E": "a política urbana"
+    },
+    "gabarito": "B",
+    "comentario": "Art. 60, §4º, I, CF."
+  },
+  {
+    "id": 14,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Constitucional",
+    "conteudo": "Cláusulas pétreas",
+    "dificuldade": "difícil",
+    "enunciado": "É vedada emenda constitucional tendente a abolir",
+    "alternativas": {
+      "A": "a livre iniciativa",
+      "B": "a ordem econômica",
+      "C": "os direitos e garantias individuais",
+      "D": "os direitos sociais",
+      "E": "a soberania popular"
+    },
+    "gabarito": "C",
+    "comentario": "Direitos e garantias individuais são cláusulas pétreas."
+  },
+  {
+    "id": 15,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Constitucional",
+    "conteudo": "Organização do Estado",
+    "dificuldade": "média",
+    "enunciado": "A República Federativa do Brasil é formada pela união indissolúvel de",
+    "alternativas": {
+      "A": "Estados soberanos",
+      "B": "Estados, Municípios e Distrito Federal",
+      "C": "Estados, Municípios, Distrito Federal e Territórios",
+      "D": "Estados e Municípios apenas",
+      "E": "Estados, Distrito Federal e União"
+    },
+    "gabarito": "B",
+    "comentario": "Art. 1º da CF."
+  },
+  {
+    "id": 16,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Constitucional",
+    "conteudo": "Organização político-administrativa",
+    "dificuldade": "difícil",
+    "enunciado": "Os municípios brasileiros",
+    "alternativas": {
+      "A": "possuem soberania",
+      "B": "integram a federação como entes autônomos",
+      "C": "não possuem autonomia política",
+      "D": "subordinam-se aos estados",
+      "E": "podem se separar da federação"
+    },
+    "gabarito": "B",
+    "comentario": "Municípios são entes federativos autônomos."
+  },
+  {
+    "id": 17,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Constitucional",
+    "conteudo": "Supremacia da Constituição",
+    "dificuldade": "média",
+    "enunciado": "O princípio da supremacia da Constituição implica que",
+    "alternativas": {
+      "A": "todas as normas infraconstitucionais devem ser compatíveis com a Constituição",
+      "B": "a Constituição pode ser livremente modificada",
+      "C": "as leis complementares se sobrepõem à Constituição",
+      "D": "a Constituição não possui hierarquia normativa",
+      "E": "a Constituição só se aplica subsidiariamente"
+    },
+    "gabarito": "A",
+    "comentario": "A Constituição ocupa o ápice do ordenamento jurídico."
+  },
+  {
+    "id": 18,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Constitucional",
+    "conteudo": "Controle de constitucionalidade",
+    "dificuldade": "difícil",
+    "enunciado": "O controle de constitucionalidade tem por finalidade",
+    "alternativas": {
+      "A": "avaliar a conveniência política das leis",
+      "B": "garantir a supremacia da Constituição",
+      "C": "substituir o legislador",
+      "D": "impedir a atuação do Poder Executivo",
+      "E": "restringir a atuação do Judiciário"
+    },
+    "gabarito": "B",
+    "comentario": "Finalidade central do controle de constitucionalidade."
+  },
+  {
+    "id": 19,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Constitucional",
+    "conteudo": "Controle de constitucionalidade",
+    "dificuldade": "difícil",
+    "enunciado": "O controle concentrado de constitucionalidade no Brasil é exercido, em regra, pelo",
+    "alternativas": {
+      "A": "Superior Tribunal de Justiça",
+      "B": "Congresso Nacional",
+      "C": "Supremo Tribunal Federal",
+      "D": "Tribunal de Contas da União",
+      "E": "Conselho Nacional de Justiça"
+    },
+    "gabarito": "C",
+    "comentario": "Competência do STF."
+  },
+  {
+    "id": 20,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Constitucional",
+    "conteudo": "Ação Direta de Inconstitucionalidade",
+    "dificuldade": "difícil",
+    "enunciado": "A Ação Direta de Inconstitucionalidade tem por objeto",
+    "alternativas": {
+      "A": "ato administrativo concreto",
+      "B": "lei ou ato normativo em tese",
+      "C": "decisão judicial transitada em julgado",
+      "D": "omissão administrativa",
+      "E": "ato político interno"
+    },
+    "gabarito": "B",
+    "comentario": "ADI é controle abstrato de normas."
+  },
+
+  {
+    "id": 21,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Constitucional",
+    "conteudo": "Ação Declaratória de Constitucionalidade",
+    "dificuldade": "difícil",
+    "enunciado": "A Ação Declaratória de Constitucionalidade tem como finalidade",
+    "alternativas": {
+      "A": "retirar norma do ordenamento",
+      "B": "declarar a inconstitucionalidade por omissão",
+      "C": "confirmar a constitucionalidade de lei federal",
+      "D": "analisar ato administrativo",
+      "E": "controlar leis municipais"
+    },
+    "gabarito": "C",
+    "comentario": "ADC busca afastar controvérsia judicial."
+  },
+  {
+    "id": 22,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Constitucional",
+    "conteudo": "ADPF",
+    "dificuldade": "difícil",
+    "enunciado": "A Arguição de Descumprimento de Preceito Fundamental",
+    "alternativas": {
+      "A": "somente cabe contra leis federais",
+      "B": "não admite controle de atos anteriores à CF/88",
+      "C": "possui caráter subsidiário",
+      "D": "substitui a ADI",
+      "E": "não admite medida cautelar"
+    },
+    "gabarito": "C",
+    "comentario": "ADPF é subsidiária."
+  },
+  {
+    "id": 23,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Constitucional",
+    "conteudo": "Direitos políticos",
+    "dificuldade": "difícil",
+    "enunciado": "A soberania popular é exercida, nos termos da Constituição, por meio de",
+    "alternativas": {
+      "A": "representação indireta apenas",
+      "B": "plebiscito, referendo e iniciativa popular",
+      "C": "voto censitário",
+      "D": "eleições indiretas obrigatórias",
+      "E": "decisões do STF"
+    },
+    "gabarito": "B",
+    "comentario": "Art. 14 da CF."
+  },
+  {
+    "id": 24,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Constitucional",
+    "conteudo": "Direitos políticos",
+    "dificuldade": "difícil",
+    "enunciado": "O alistamento eleitoral é obrigatório para",
+    "alternativas": {
+      "A": "maiores de 16 anos",
+      "B": "analfabetos",
+      "C": "maiores de 18 anos",
+      "D": "militares conscritos",
+      "E": "estrangeiros"
+    },
+    "gabarito": "C",
+    "comentario": "Obrigatório dos 18 aos 70 anos."
+  },
+  {
+    "id": 25,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Constitucional",
+    "conteudo": "Nacionalidade",
+    "dificuldade": "difícil",
+    "enunciado": "São brasileiros natos, EXCETO",
+    "alternativas": {
+      "A": "nascidos no Brasil, ainda que de pais estrangeiros",
+      "B": "nascidos no exterior, de pai brasileiro, a serviço do Brasil",
+      "C": "nascidos no exterior, registrados em repartição brasileira",
+      "D": "nascidos no exterior, que venham residir no Brasil e optem",
+      "E": "nascidos no Brasil, salvo se pais estrangeiros estiverem a serviço de seu país"
+    },
+    "gabarito": "D",
+    "comentario": "Hipótese de brasileiro naturalizado."
+  },
+
+  {
+    "id": 26,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Constitucional",
+    "conteudo": "Nacionalidade",
+    "dificuldade": "difícil",
+    "enunciado": "A perda da nacionalidade brasileira ocorre",
+    "alternativas": {
+      "A": "automaticamente com naturalização estrangeira",
+      "B": "sempre que houver dupla nacionalidade",
+      "C": "nas hipóteses taxativas previstas na Constituição",
+      "D": "por decisão administrativa",
+      "E": "por sentença de juiz estadual"
+    },
+    "gabarito": "C",
+    "comentario": "Art. 12, §4º, CF."
+  },
+  {
+    "id": 27,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Constitucional",
+    "conteudo": "Ordem econômica",
+    "dificuldade": "média",
+    "enunciado": "A ordem econômica, segundo a Constituição Federal, funda-se",
+    "alternativas": {
+      "A": "na intervenção mínima do Estado",
+      "B": "na valorização do trabalho humano e na livre iniciativa",
+      "C": "na supremacia do interesse privado",
+      "D": "na exclusividade da iniciativa estatal",
+      "E": "no dirigismo econômico absoluto"
+    },
+    "gabarito": "B",
+    "comentario": "Art. 170 da CF."
+  },
+  {
+    "id": 28,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Constitucional",
+    "conteudo": "Princípios da ordem econômica",
+    "dificuldade": "difícil",
+    "enunciado": "Constitui princípio da ordem econômica",
+    "alternativas": {
+      "A": "pleno emprego",
+      "B": "soberania nacional",
+      "C": "livre concorrência",
+      "D": "redução das desigualdades regionais",
+      "E": "defesa da paz"
+    },
+    "gabarito": "C",
+    "comentario": "Princípios do art. 170."
+  },
+  {
+    "id": 29,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Constitucional",
+    "conteudo": "Sistema Financeiro Nacional",
+    "dificuldade": "difícil",
+    "enunciado": "O Sistema Financeiro Nacional tem por finalidade",
+    "alternativas": {
+      "A": "garantir lucro às instituições financeiras",
+      "B": "promover o desenvolvimento equilibrado do País",
+      "C": "assegurar exclusividade estatal",
+      "D": "restringir o crédito",
+      "E": "centralizar a arrecadação tributária"
+    },
+    "gabarito": "B",
+    "comentario": "Art. 192 da CF."
+  },
+  {
+    "id": 30,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Constitucional",
+    "conteudo": "Sistema Financeiro Nacional",
+    "dificuldade": "difícil",
+    "enunciado": "As normas que regulam o Sistema Financeiro Nacional",
+    "alternativas": {
+      "A": "dependem exclusivamente de lei complementar",
+      "B": "não admitem regulamentação infralegal",
+      "C": "são de competência dos estados",
+      "D": "podem ser disciplinadas por leis ordinárias",
+      "E": "não se submetem à Constituição"
+    },
+    "gabarito": "D",
+    "comentario": "Após EC 40/2003."
+  },
+
+  {
+    "id": 31,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Constitucional",
+    "conteudo": "Interpretação constitucional",
+    "dificuldade": "difícil",
+    "enunciado": "O princípio da unidade da Constituição impõe que",
+    "alternativas": {
+      "A": "as normas constitucionais sejam interpretadas isoladamente",
+      "B": "prevaleça sempre a norma mais recente",
+      "C": "a Constituição seja interpretada como um sistema harmônico",
+      "D": "as normas programáticas sejam afastadas",
+      "E": "a interpretação literal prevaleça"
+    },
+    "gabarito": "C",
+    "comentario": "Busca coerência interna do texto constitucional."
+  },
+  {
+    "id": 32,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Constitucional",
+    "conteudo": "Interpretação constitucional",
+    "dificuldade": "difícil",
+    "enunciado": "O princípio da interpretação conforme a Constituição visa",
+    "alternativas": {
+      "A": "afastar a aplicação da Constituição",
+      "B": "declarar nulidade de lei sempre",
+      "C": "preservar a norma infraconstitucional compatível",
+      "D": "substituir o legislador",
+      "E": "restringir direitos fundamentais"
+    },
+    "gabarito": "C",
+    "comentario": "Técnica de controle de constitucionalidade."
+  },
+  {
+    "id": 33,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Constitucional",
+    "conteudo": "Supremacia constitucional",
+    "dificuldade": "média",
+    "enunciado": "A rigidez constitucional decorre",
+    "alternativas": {
+      "A": "da supremacia da Constituição",
+      "B": "da flexibilidade do texto",
+      "C": "da inexistência de emendas",
+      "D": "da atuação do Judiciário",
+      "E": "do controle político"
+    },
+    "gabarito": "A",
+    "comentario": "Rigidez é consequência da supremacia."
+  },
+  {
+    "id": 34,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Constitucional",
+    "conteudo": "Controle de constitucionalidade",
+    "dificuldade": "difícil",
+    "enunciado": "O controle difuso de constitucionalidade caracteriza-se por",
+    "alternativas": {
+      "A": "efeitos erga omnes automáticos",
+      "B": "ser exercido apenas pelo STF",
+      "C": "ocorrer no caso concreto",
+      "D": "ter natureza abstrata",
+      "E": "não admitir recurso"
+    },
+    "gabarito": "C",
+    "comentario": "Controle incidental."
+  },
+  {
+    "id": 35,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Constitucional",
+    "conteudo": "Controle de constitucionalidade",
+    "dificuldade": "difícil",
+    "enunciado": "No controle difuso, a decisão do STF",
+    "alternativas": {
+      "A": "produz efeitos vinculantes imediatos",
+      "B": "produz efeitos apenas inter partes",
+      "C": "produz efeitos erga omnes automaticamente",
+      "D": "revoga a lei",
+      "E": "dispensa comunicação ao Senado"
+    },
+    "gabarito": "B",
+    "comentario": "Efeitos inter partes, salvo modulação."
+  },
+
+  {
+    "id": 36,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Constitucional",
+    "conteudo": "Controle de constitucionalidade",
+    "dificuldade": "difícil",
+    "enunciado": "Compete ao Senado Federal",
+    "alternativas": {
+      "A": "julgar ADI",
+      "B": "suspender a execução de lei declarada inconstitucional em controle difuso",
+      "C": "julgar ADC",
+      "D": "controlar constitucionalidade municipal",
+      "E": "exercer controle preventivo exclusivo"
+    },
+    "gabarito": "B",
+    "comentario": "Art. 52, X, CF."
+  },
+  {
+    "id": 37,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Constitucional",
+    "conteudo": "Direitos fundamentais",
+    "dificuldade": "difícil",
+    "enunciado": "O direito de propriedade",
+    "alternativas": {
+      "A": "é absoluto",
+      "B": "não admite desapropriação",
+      "C": "deve atender à função social",
+      "D": "é cláusula pétrea expressa",
+      "E": "não admite restrições legais"
+    },
+    "gabarito": "C",
+    "comentario": "Função social é princípio constitucional."
+  },
+  {
+    "id": 38,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Constitucional",
+    "conteudo": "Direitos fundamentais",
+    "dificuldade": "difícil",
+    "enunciado": "O mandado de segurança coletivo pode ser impetrado por",
+    "alternativas": {
+      "A": "qualquer cidadão",
+      "B": "partido político com representação no Congresso",
+      "C": "qualquer associação",
+      "D": "empresa pública",
+      "E": "Ministério Público"
+    },
+    "gabarito": "B",
+    "comentario": "Art. 5º, LXX, CF."
+  },
+  {
+    "id": 39,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Constitucional",
+    "conteudo": "Direitos fundamentais",
+    "dificuldade": "difícil",
+    "enunciado": "O habeas corpus é cabível",
+    "alternativas": {
+      "A": "para proteger direito líquido e certo",
+      "B": "contra ilegalidade que ameace a liberdade de locomoção",
+      "C": "para proteger patrimônio público",
+      "D": "contra ato administrativo normativo",
+      "E": "para tutela de direitos difusos"
+    },
+    "gabarito": "B",
+    "comentario": "Protege liberdade de locomoção."
+  },
+  {
+    "id": 40,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Constitucional",
+    "conteudo": "Direitos fundamentais",
+    "dificuldade": "difícil",
+    "enunciado": "O mandado de injunção é cabível quando",
+    "alternativas": {
+      "A": "houver ilegalidade administrativa",
+      "B": "faltarem normas regulamentadoras",
+      "C": "houver abuso de poder",
+      "D": "houver ato normativo inconstitucional",
+      "E": "se pretender indenização"
+    },
+    "gabarito": "B",
+    "comentario": "Visa suprir omissão normativa."
+  },
+
+  {
+    "id": 41,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Constitucional",
+    "conteudo": "Direitos fundamentais",
+    "dificuldade": "difícil",
+    "enunciado": "O mandado de injunção pode ser concedido",
+    "alternativas": {
+      "A": "apenas com efeitos individuais",
+      "B": "apenas com efeitos erga omnes",
+      "C": "com efeitos concretistas ou não concretistas",
+      "D": "somente pelo STF",
+      "E": "somente em controle concentrado"
+    },
+    "gabarito": "C",
+    "comentario": "Jurisprudência do STF."
+  },
+  {
+    "id": 42,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Constitucional",
+    "conteudo": "Ordem econômica",
+    "dificuldade": "difícil",
+    "enunciado": "A intervenção do Estado na ordem econômica",
+    "alternativas": {
+      "A": "é vedada",
+      "B": "é regra geral",
+      "C": "é admitida nos termos da Constituição",
+      "D": "depende de autorização judicial",
+      "E": "somente ocorre por meio de empresas estatais"
+    },
+    "gabarito": "C",
+    "comentario": "CF admite intervenção excepcional."
+  },
+  {
+    "id": 43,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Constitucional",
+    "conteudo": "Princípios da ordem econômica",
+    "dificuldade": "difícil",
+    "enunciado": "A defesa do consumidor é",
+    "alternativas": {
+      "A": "direito social apenas",
+      "B": "princípio da ordem econômica",
+      "C": "objetivo fundamental",
+      "D": "cláusula pétrea",
+      "E": "norma programática sem eficácia"
+    },
+    "gabarito": "B",
+    "comentario": "Art. 170, V, CF."
+  },
+  {
+    "id": 44,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Constitucional",
+    "conteudo": "Sistema Financeiro Nacional",
+    "dificuldade": "difícil",
+    "enunciado": "O Sistema Financeiro Nacional",
+    "alternativas": {
+      "A": "é regulado exclusivamente por lei complementar",
+      "B": "não admite participação privada",
+      "C": "visa ao desenvolvimento equilibrado",
+      "D": "é competência exclusiva dos estados",
+      "E": "não se submete ao controle estatal"
+    },
+    "gabarito": "C",
+    "comentario": "Art. 192 da CF."
+  },
+  {
+    "id": 45,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Constitucional",
+    "conteudo": "Sistema Financeiro Nacional",
+    "dificuldade": "difícil",
+    "enunciado": "A Constituição Federal estabelece que o Sistema Financeiro Nacional",
+    "alternativas": {
+      "A": "é imune à tributação",
+      "B": "é estruturado para atender apenas ao mercado",
+      "C": "promove o desenvolvimento equilibrado do País",
+      "D": "não admite controle do Banco Central",
+      "E": "funciona sem normas infraconstitucionais"
+    },
+    "gabarito": "C",
+    "comentario": "Finalidade constitucional expressa."
+  },
+
+  {
+    "id": 46,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Constitucional",
+    "conteudo": "Direitos fundamentais",
+    "dificuldade": "difícil",
+    "enunciado": "Os direitos fundamentais possuem eficácia vertical e horizontal, o que significa que",
+    "alternativas": {
+      "A": "aplicam-se apenas ao Estado",
+      "B": "não alcançam relações privadas",
+      "C": "vinculam o Estado e os particulares",
+      "D": "só se aplicam mediante lei",
+      "E": "não admitem ponderação"
+    },
+    "gabarito": "C",
+    "comentario": "Eficácia horizontal reconhecida pelo STF."
+  },
+  {
+    "id": 47,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Constitucional",
+    "conteudo": "Interpretação constitucional",
+    "dificuldade": "difícil",
+    "enunciado": "O princípio da proporcionalidade é utilizado para",
+    "alternativas": {
+      "A": "eliminar direitos fundamentais",
+      "B": "resolver conflitos entre princípios",
+      "C": "substituir o legislador",
+      "D": "afastar controle judicial",
+      "E": "garantir supremacia do Executivo"
+    },
+    "gabarito": "B",
+    "comentario": "Ferramenta de ponderação."
+  },
+  {
+    "id": 48,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Constitucional",
+    "conteudo": "Controle de constitucionalidade",
+    "dificuldade": "difícil",
+    "enunciado": "A modulação de efeitos das decisões em controle concentrado",
+    "alternativas": {
+      "A": "é vedada",
+      "B": "é automática",
+      "C": "depende de quórum qualificado",
+      "D": "produz apenas efeitos ex nunc",
+      "E": "é competência do Senado"
+    },
+    "gabarito": "C",
+    "comentario": "Exige 2/3 dos ministros."
+  },
+  {
+    "id": 49,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Constitucional",
+    "conteudo": "Controle de constitucionalidade",
+    "dificuldade": "difícil",
+    "enunciado": "As decisões definitivas de mérito em ADI e ADC",
+    "alternativas": {
+      "A": "produzem efeitos apenas inter partes",
+      "B": "não possuem efeito vinculante",
+      "C": "possuem efeito vinculante e erga omnes",
+      "D": "dependem de homologação do Senado",
+      "E": "não admitem modulação"
+    },
+    "gabarito": "C",
+    "comentario": "Art. 102, §2º, CF."
+  },
+  {
+    "id": 50,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Constitucional",
+    "conteudo": "Supremacia constitucional",
+    "dificuldade": "difícil",
+    "enunciado": "A inconstitucionalidade pode ser declarada quando",
+    "alternativas": {
+      "A": "houver inconveniência política",
+      "B": "a norma contrariar a Constituição",
+      "C": "a lei for ineficiente",
+      "D": "houver omissão administrativa simples",
+      "E": "o juiz discordar do legislador"
+    },
+    "gabarito": "B",
+    "comentario": "Critério jurídico de validade."
+  },
+
+  {
+    "id": 51,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Constitucional",
+    "conteudo": "Normas constitucionais",
+    "dificuldade": "difícil",
+    "enunciado": "As normas constitucionais de eficácia limitada",
+    "alternativas": {
+      "A": "são plenamente aplicáveis desde a promulgação",
+      "B": "produzem efeitos concretos independentemente de lei",
+      "C": "dependem de complementação legislativa",
+      "D": "não vinculam o legislador",
+      "E": "não possuem eficácia jurídica"
+    },
+    "gabarito": "C",
+    "comentario": "Necessitam de atuação legislativa para plena eficácia."
+  },
+  {
+    "id": 52,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Constitucional",
+    "conteudo": "Interpretação constitucional",
+    "dificuldade": "difícil",
+    "enunciado": "O princípio da força normativa da Constituição estabelece que",
+    "alternativas": {
+      "A": "a Constituição tem valor político, não jurídico",
+      "B": "a Constituição deve ser interpretada como norma efetiva",
+      "C": "a Constituição depende da vontade do legislador",
+      "D": "as normas constitucionais são meramente simbólicas",
+      "E": "a Constituição é fonte secundária"
+    },
+    "gabarito": "B",
+    "comentario": "A CF possui força normativa e vocação à efetividade."
+  },
+  {
+    "id": 53,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Constitucional",
+    "conteudo": "Princípios fundamentais",
+    "dificuldade": "média",
+    "enunciado": "Constitui fundamento da República Federativa do Brasil",
+    "alternativas": {
+      "A": "a erradicação da pobreza",
+      "B": "a prevalência dos direitos humanos",
+      "C": "o pluralismo político",
+      "D": "a defesa da paz",
+      "E": "a cooperação entre os povos"
+    },
+    "gabarito": "C",
+    "comentario": "Art. 1º, V, CF."
+  },
+  {
+    "id": 54,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Constitucional",
+    "conteudo": "Objetivos fundamentais",
+    "dificuldade": "média",
+    "enunciado": "É objetivo fundamental da República Federativa do Brasil",
+    "alternativas": {
+      "A": "a dignidade da pessoa humana",
+      "B": "a soberania",
+      "C": "construir uma sociedade livre, justa e solidária",
+      "D": "o pluralismo político",
+      "E": "a cidadania"
+    },
+    "gabarito": "C",
+    "comentario": "Art. 3º, I, CF."
+  },
+  {
+    "id": 55,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Constitucional",
+    "conteudo": "Direitos fundamentais",
+    "dificuldade": "difícil",
+    "enunciado": "Os direitos fundamentais caracterizam-se, entre outros aspectos, pela",
+    "alternativas": {
+      "A": "absolutividade",
+      "B": "irrevogabilidade",
+      "C": "relatividade",
+      "D": "incondicionalidade",
+      "E": "indivisibilidade absoluta"
+    },
+    "gabarito": "C",
+    "comentario": "Direitos fundamentais não são absolutos."
+  },
+
+  {
+    "id": 56,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Constitucional",
+    "conteudo": "Direitos individuais",
+    "dificuldade": "difícil",
+    "enunciado": "O direito à intimidade e à vida privada",
+    "alternativas": {
+      "A": "não admite restrições",
+      "B": "é absoluto",
+      "C": "pode ser relativizado em casos específicos",
+      "D": "não possui proteção constitucional",
+      "E": "depende de lei para existir"
+    },
+    "gabarito": "C",
+    "comentario": "Pode ceder diante de outros valores constitucionais."
+  },
+  {
+    "id": 57,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Constitucional",
+    "conteudo": "Direitos sociais",
+    "dificuldade": "média",
+    "enunciado": "A saúde, segundo a Constituição Federal, é",
+    "alternativas": {
+      "A": "serviço privado facultativo",
+      "B": "direito social e dever do Estado",
+      "C": "direito exclusivo dos contribuintes",
+      "D": "competência exclusiva dos estados",
+      "E": "atividade econômica comum"
+    },
+    "gabarito": "B",
+    "comentario": "Art. 196 da CF."
+  },
+  {
+    "id": 58,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Constitucional",
+    "conteudo": "Direitos políticos",
+    "dificuldade": "difícil",
+    "enunciado": "O voto no Brasil é",
+    "alternativas": {
+      "A": "obrigatório para todos",
+      "B": "facultativo apenas para analfabetos",
+      "C": "facultativo para maiores de 16 e menores de 18 anos",
+      "D": "proibido aos maiores de 70 anos",
+      "E": "censitário"
+    },
+    "gabarito": "C",
+    "comentario": "Art. 14, §1º, CF."
+  },
+  {
+    "id": 59,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Constitucional",
+    "conteudo": "Nacionalidade",
+    "dificuldade": "difícil",
+    "enunciado": "É correto afirmar que o brasileiro naturalizado",
+    "alternativas": {
+      "A": "pode ocupar qualquer cargo público",
+      "B": "não pode perder a nacionalidade",
+      "C": "não pode ser extraditado em nenhuma hipótese",
+      "D": "pode ser extraditado em caso de crime comum anterior à naturalização",
+      "E": "possui mais direitos que o nato"
+    },
+    "gabarito": "D",
+    "comentario": "Art. 5º, LI, CF."
+  },
+  {
+    "id": 60,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Constitucional",
+    "conteudo": "Cláusulas pétreas",
+    "dificuldade": "difícil",
+    "enunciado": "Não constitui cláusula pétrea",
+    "alternativas": {
+      "A": "a forma federativa de Estado",
+      "B": "o voto direto, secreto, universal e periódico",
+      "C": "a separação dos Poderes",
+      "D": "os direitos e garantias individuais",
+      "E": "os direitos sociais"
+    },
+    "gabarito": "E",
+    "comentario": "Direitos sociais não são cláusulas pétreas expressas."
+  },
+
+  {
+    "id": 61,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Constitucional",
+    "conteudo": "Organização do Estado",
+    "dificuldade": "média",
+    "enunciado": "A autonomia dos entes federativos compreende",
+    "alternativas": {
+      "A": "soberania",
+      "B": "autogoverno, auto-organização e autoadministração",
+      "C": "poder constituinte originário",
+      "D": "independência absoluta",
+      "E": "competência internacional"
+    },
+    "gabarito": "B",
+    "comentario": "Características clássicas da autonomia federativa."
+  },
+  {
+    "id": 62,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Constitucional",
+    "conteudo": "Supremacia constitucional",
+    "dificuldade": "média",
+    "enunciado": "A supremacia da Constituição decorre",
+    "alternativas": {
+      "A": "da rigidez constitucional",
+      "B": "do controle judicial",
+      "C": "da posição hierárquica superior",
+      "D": "da atuação do STF",
+      "E": "do poder constituinte derivado"
+    },
+    "gabarito": "C",
+    "comentario": "A CF ocupa o ápice do sistema normativo."
+  },
+  {
+    "id": 63,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Constitucional",
+    "conteudo": "Controle de constitucionalidade",
+    "dificuldade": "difícil",
+    "enunciado": "O controle preventivo de constitucionalidade é exercido, principalmente, pelo",
+    "alternativas": {
+      "A": "STF",
+      "B": "STJ",
+      "C": "Poder Judiciário",
+      "D": "Poder Legislativo",
+      "E": "Ministério Público"
+    },
+    "gabarito": "D",
+    "comentario": "Exercido no processo legislativo."
+  },
+  {
+    "id": 64,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Constitucional",
+    "conteudo": "ADI",
+    "dificuldade": "difícil",
+    "enunciado": "São legitimados para propor ADI, EXCETO",
+    "alternativas": {
+      "A": "Presidente da República",
+      "B": "Mesa do Senado Federal",
+      "C": "Governador de Estado",
+      "D": "Prefeito Municipal",
+      "E": "Procurador-Geral da República"
+    },
+    "gabarito": "D",
+    "comentario": "Prefeito não possui legitimidade."
+  },
+  {
+    "id": 65,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Constitucional",
+    "conteudo": "ADC",
+    "dificuldade": "difícil",
+    "enunciado": "A Ação Declaratória de Constitucionalidade",
+    "alternativas": {
+      "A": "somente admite objeto estadual",
+      "B": "visa retirar norma do ordenamento",
+      "C": "exige controvérsia judicial relevante",
+      "D": "não possui efeito vinculante",
+      "E": "não admite medida cautelar"
+    },
+    "gabarito": "C",
+    "comentario": "Requisito específico da ADC."
+  },
+
+  {
+    "id": 66,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Constitucional",
+    "conteudo": "ADPF",
+    "dificuldade": "difícil",
+    "enunciado": "A ADPF pode ser utilizada para",
+    "alternativas": {
+      "A": "substituir recurso extraordinário",
+      "B": "controlar atos anteriores à CF/88",
+      "C": "impugnar lei municipal em qualquer caso",
+      "D": "questionar atos meramente administrativos",
+      "E": "substituir a ADC"
+    },
+    "gabarito": "B",
+    "comentario": "Cabível contra normas pré-constitucionais."
+  },
+  {
+    "id": 67,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Constitucional",
+    "conteudo": "Ordem econômica",
+    "dificuldade": "difícil",
+    "enunciado": "A livre iniciativa, segundo a Constituição,",
+    "alternativas": {
+      "A": "é absoluta",
+      "B": "afasta a intervenção estatal",
+      "C": "coexiste com a valorização do trabalho humano",
+      "D": "impede a atuação do Estado",
+      "E": "não é princípio constitucional"
+    },
+    "gabarito": "C",
+    "comentario": "Princípios coexistentes do art. 170."
+  },
+  {
+    "id": 68,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Constitucional",
+    "conteudo": "Princípios da ordem econômica",
+    "dificuldade": "difícil",
+    "enunciado": "A defesa do meio ambiente é",
+    "alternativas": {
+      "A": "direito individual",
+      "B": "direito político",
+      "C": "princípio da ordem econômica",
+      "D": "cláusula pétrea",
+      "E": "norma sem eficácia"
+    },
+    "gabarito": "C",
+    "comentario": "Art. 170, VI, CF."
+  },
+  {
+    "id": 69,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Constitucional",
+    "conteudo": "Sistema Financeiro Nacional",
+    "dificuldade": "difícil",
+    "enunciado": "O Sistema Financeiro Nacional é regulado",
+    "alternativas": {
+      "A": "exclusivamente por lei complementar",
+      "B": "por lei ordinária e normas infralegais",
+      "C": "pelos estados",
+      "D": "sem participação do Congresso",
+      "E": "por normas internacionais"
+    },
+    "gabarito": "B",
+    "comentario": "Após EC 40/2003."
+  },
+  {
+    "id": 70,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Constitucional",
+    "conteudo": "Sistema Financeiro Nacional",
+    "dificuldade": "difícil",
+    "enunciado": "O Banco Central do Brasil",
+    "alternativas": {
+      "A": "integra o Poder Judiciário",
+      "B": "não exerce função regulatória",
+      "C": "atua como autoridade monetária",
+      "D": "é subordinado aos estados",
+      "E": "não integra a administração pública"
+    },
+    "gabarito": "C",
+    "comentario": "Autoridade monetária nacional."
+  },
+
+  {
+    "id": 71,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Constitucional",
+    "conteudo": "Direitos fundamentais",
+    "dificuldade": "difícil",
+    "enunciado": "A eficácia horizontal dos direitos fundamentais implica que",
+    "alternativas": {
+      "A": "aplicam-se apenas às relações entre Estado e indivíduo",
+      "B": "não alcançam relações privadas",
+      "C": "podem incidir nas relações entre particulares",
+      "D": "dependem sempre de lei específica",
+      "E": "não admitem ponderação"
+    },
+    "gabarito": "C",
+    "comentario": "Reconhecida pela jurisprudência do STF."
+  },
+  {
+    "id": 72,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Constitucional",
+    "conteudo": "Interpretação constitucional",
+    "dificuldade": "difícil",
+    "enunciado": "O princípio da proporcionalidade é composto pelos subprincípios da",
+    "alternativas": {
+      "A": "legalidade, moralidade e eficiência",
+      "B": "adequação, necessidade e proporcionalidade em sentido estrito",
+      "C": "razoabilidade e economicidade",
+      "D": "supremacia e indisponibilidade",
+      "E": "autonomia e soberania"
+    },
+    "gabarito": "B",
+    "comentario": "Estrutura clássica do princípio."
+  },
+  {
+    "id": 73,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Constitucional",
+    "conteudo": "Controle de constitucionalidade",
+    "dificuldade": "difícil",
+    "enunciado": "A declaração de inconstitucionalidade com redução de texto",
+    "alternativas": {
+      "A": "retira a norma do ordenamento",
+      "B": "preserva a norma sem alteração",
+      "C": "afasta interpretação inconstitucional",
+      "D": "é vedada no Brasil",
+      "E": "é exclusiva do controle difuso"
+    },
+    "gabarito": "C",
+    "comentario": "Técnica decisória do STF."
+  },
+  {
+    "id": 74,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Constitucional",
+    "conteudo": "Controle de constitucionalidade",
+    "dificuldade": "difícil",
+    "enunciado": "A decisão em ADI possui, como regra, efeitos",
+    "alternativas": {
+      "A": "ex nunc",
+      "B": "inter partes",
+      "C": "erga omnes e vinculantes",
+      "D": "somente prospectivos",
+      "E": "limitados ao caso concreto"
+    },
+    "gabarito": "C",
+    "comentario": "Efeitos típicos do controle concentrado."
+  },
+  {
+    "id": 75,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Constitucional",
+    "conteudo": "Controle de constitucionalidade",
+    "dificuldade": "difícil",
+    "enunciado": "A modulação de efeitos visa",
+    "alternativas": {
+      "A": "impedir controle judicial",
+      "B": "preservar a supremacia da Constituição",
+      "C": "atender à segurança jurídica e ao interesse social",
+      "D": "beneficiar o legislador",
+      "E": "retirar efeitos vinculantes"
+    },
+    "gabarito": "C",
+    "comentario": "Art. 27 da Lei 9.868/99."
+  },
+
+  {
+    "id": 76,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Constitucional",
+    "conteudo": "Direitos fundamentais",
+    "dificuldade": "difícil",
+    "enunciado": "O mandado de segurança não é cabível",
+    "alternativas": {
+      "A": "contra ato ilegal de autoridade",
+      "B": "para proteger direito líquido e certo",
+      "C": "contra lei em tese",
+      "D": "com efeito preventivo",
+      "E": "com efeito repressivo"
+    },
+    "gabarito": "C",
+    "comentario": "Lei em tese não pode ser atacada por MS."
+  },
+  {
+    "id": 77,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Constitucional",
+    "conteudo": "Remédios constitucionais",
+    "dificuldade": "difícil",
+    "enunciado": "O habeas data destina-se a",
+    "alternativas": {
+      "A": "proteger liberdade de locomoção",
+      "B": "assegurar conhecimento e retificação de dados",
+      "C": "proteger direito líquido e certo",
+      "D": "combater abuso de poder",
+      "E": "suprir omissão legislativa"
+    },
+    "gabarito": "B",
+    "comentario": "Art. 5º, LXXII, CF."
+  },
+  {
+    "id": 78,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Constitucional",
+    "conteudo": "Ordem econômica",
+    "dificuldade": "difícil",
+    "enunciado": "A função social da propriedade",
+    "alternativas": {
+      "A": "é incompatível com a livre iniciativa",
+      "B": "afasta o direito de propriedade",
+      "C": "condiciona o exercício do direito de propriedade",
+      "D": "é princípio apenas urbano",
+      "E": "não possui eficácia jurídica"
+    },
+    "gabarito": "C",
+    "comentario": "Limitação constitucional ao direito de propriedade."
+  },
+  {
+    "id": 79,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Constitucional",
+    "conteudo": "Sistema Financeiro Nacional",
+    "dificuldade": "difícil",
+    "enunciado": "A Constituição Federal permite que o capital estrangeiro",
+    "alternativas": {
+      "A": "não atue no sistema financeiro",
+      "B": "atue livremente sem regulação",
+      "C": "participe conforme lei",
+      "D": "controle integralmente o sistema",
+      "E": "seja proibido permanentemente"
+    },
+    "gabarito": "C",
+    "comentario": "Participação condicionada à lei."
+  },
+  {
+    "id": 80,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Constitucional",
+    "conteudo": "Sistema Financeiro Nacional",
+    "dificuldade": "difícil",
+    "enunciado": "A atuação estatal no domínio econômico",
+    "alternativas": {
+      "A": "é regra absoluta",
+      "B": "é vedada pela Constituição",
+      "C": "é admitida nos casos previstos na CF",
+      "D": "depende de autorização judicial",
+      "E": "ocorre apenas por empresas privadas"
+    },
+    "gabarito": "C",
+    "comentario": "Intervenção estatal é excepcional."
+  },
+
+  {
+    "id": 81,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Constitucional",
+    "conteudo": "Princípios fundamentais",
+    "dificuldade": "difícil",
+    "enunciado": "A dignidade da pessoa humana",
+    "alternativas": {
+      "A": "é objetivo fundamental",
+      "B": "é princípio implícito",
+      "C": "é fundamento da República",
+      "D": "é direito social",
+      "E": "é cláusula pétrea implícita"
+    },
+    "gabarito": "C",
+    "comentario": "Art. 1º, III, CF."
+  },
+  {
+    "id": 82,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Constitucional",
+    "conteudo": "Direitos fundamentais",
+    "dificuldade": "difícil",
+    "enunciado": "Os direitos fundamentais de segunda dimensão relacionam-se",
+    "alternativas": {
+      "A": "à liberdade",
+      "B": "à igualdade material",
+      "C": "à fraternidade",
+      "D": "aos direitos difusos",
+      "E": "aos direitos políticos"
+    },
+    "gabarito": "B",
+    "comentario": "Direitos sociais e prestações estatais."
+  },
+  {
+    "id": 83,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Constitucional",
+    "conteudo": "Direitos fundamentais",
+    "dificuldade": "difícil",
+    "enunciado": "Os direitos fundamentais de terceira dimensão relacionam-se",
+    "alternativas": {
+      "A": "à igualdade formal",
+      "B": "à liberdade individual",
+      "C": "à solidariedade",
+      "D": "ao sufrágio",
+      "E": "à propriedade"
+    },
+    "gabarito": "C",
+    "comentario": "Direitos difusos e coletivos."
+  },
+  {
+    "id": 84,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Constitucional",
+    "conteudo": "Cláusulas pétreas",
+    "dificuldade": "difícil",
+    "enunciado": "As cláusulas pétreas",
+    "alternativas": {
+      "A": "não podem ser modificadas em nenhuma hipótese",
+      "B": "impedem emendas tendentes à sua abolição",
+      "C": "não admitem interpretação",
+      "D": "impedem revisão constitucional",
+      "E": "não vinculam o poder constituinte derivado"
+    },
+    "gabarito": "B",
+    "comentario": "Vedação é à abolição ou tendência à abolição."
+  },
+  {
+    "id": 85,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Constitucional",
+    "conteudo": "Organização do Estado",
+    "dificuldade": "média",
+    "enunciado": "Os territórios federais",
+    "alternativas": {
+      "A": "integram a federação",
+      "B": "possuem autonomia política",
+      "C": "não são entes federativos",
+      "D": "possuem poder constituinte",
+      "E": "são entes soberanos"
+    },
+    "gabarito": "C",
+    "comentario": "Territórios não são entes federativos."
+  },
+
+  {
+    "id": 86,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Constitucional",
+    "conteudo": "Supremacia constitucional",
+    "dificuldade": "difícil",
+    "enunciado": "A Constituição rígida caracteriza-se por",
+    "alternativas": {
+      "A": "facilidade de alteração",
+      "B": "procedimento legislativo comum",
+      "C": "processo de reforma mais complexo",
+      "D": "inexistência de controle",
+      "E": "submissão à lei ordinária"
+    },
+    "gabarito": "C",
+    "comentario": "Rigidez decorre do procedimento especial de emenda."
+  },
+  {
+    "id": 87,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Constitucional",
+    "conteudo": "Controle de constitucionalidade",
+    "dificuldade": "difícil",
+    "enunciado": "A reserva de plenário exige que",
+    "alternativas": {
+      "A": "qualquer juiz declare inconstitucionalidade",
+      "B": "a decisão seja tomada por órgão fracionário",
+      "C": "a declaração seja feita pela maioria absoluta do tribunal",
+      "D": "o Senado aprove a decisão",
+      "E": "o STF julgue originariamente"
+    },
+    "gabarito": "C",
+    "comentario": "Art. 97 da CF."
+  },
+  {
+    "id": 88,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Constitucional",
+    "conteudo": "Controle de constitucionalidade",
+    "dificuldade": "difícil",
+    "enunciado": "A súmula vinculante",
+    "alternativas": {
+      "A": "é editada pelo STJ",
+      "B": "possui efeito apenas persuasivo",
+      "C": "vincula o Judiciário e a Administração",
+      "D": "dispensa reiteradas decisões",
+      "E": "não admite revisão"
+    },
+    "gabarito": "C",
+    "comentario": "Art. 103-A da CF."
+  },
+  {
+    "id": 89,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Constitucional",
+    "conteudo": "Ordem econômica",
+    "dificuldade": "difícil",
+    "enunciado": "A exploração direta de atividade econômica pelo Estado",
+    "alternativas": {
+      "A": "é regra constitucional",
+      "B": "é vedada em qualquer hipótese",
+      "C": "é admitida por imperativos de segurança nacional ou relevante interesse coletivo",
+      "D": "independe de lei",
+      "E": "ocorre apenas no regime de monopólio"
+    },
+    "gabarito": "C",
+    "comentario": "Art. 173 da CF."
+  },
+  {
+    "id": 90,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Constitucional",
+    "conteudo": "Sistema Financeiro Nacional",
+    "dificuldade": "difícil",
+    "enunciado": "A política monetária nacional é executada",
+    "alternativas": {
+      "A": "pelo Congresso Nacional",
+      "B": "pelos estados",
+      "C": "pelo Banco Central",
+      "D": "pelo STF",
+      "E": "pelos bancos privados"
+    },
+    "gabarito": "C",
+    "comentario": "Função típica do Banco Central."
+  },
+
+  {
+    "id": 91,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Constitucional",
+    "conteudo": "Direitos fundamentais",
+    "dificuldade": "difícil",
+    "enunciado": "A vedação ao retrocesso social",
+    "alternativas": {
+      "A": "é expressamente prevista na CF",
+      "B": "impede qualquer alteração legislativa",
+      "C": "protege o núcleo essencial dos direitos sociais",
+      "D": "afasta a atuação do legislador",
+      "E": "é incompatível com o Estado Democrático"
+    },
+    "gabarito": "C",
+    "comentario": "Princípio reconhecido pela doutrina e STF."
+  },
+  {
+    "id": 92,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Constitucional",
+    "conteudo": "Interpretação constitucional",
+    "dificuldade": "difícil",
+    "enunciado": "A interpretação conforme a Constituição",
+    "alternativas": {
+      "A": "afasta a lei do ordenamento",
+      "B": "preserva a norma compatível",
+      "C": "é exclusiva do controle difuso",
+      "D": "dispensa controle judicial",
+      "E": "substitui o legislador"
+    },
+    "gabarito": "B",
+    "comentario": "Técnica de preservação da norma."
+  },
+  {
+    "id": 93,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Constitucional",
+    "conteudo": "Controle de constitucionalidade",
+    "dificuldade": "difícil",
+    "enunciado": "A decisão em controle difuso pode adquirir efeitos erga omnes",
+    "alternativas": {
+      "A": "automaticamente",
+      "B": "por decisão do STF com modulação",
+      "C": "por resolução do Senado Federal",
+      "D": "por lei ordinária",
+      "E": "por súmula vinculante imediata"
+    },
+    "gabarito": "C",
+    "comentario": "Art. 52, X, CF."
+  },
+  {
+    "id": 94,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Constitucional",
+    "conteudo": "Ordem econômica",
+    "dificuldade": "difícil",
+    "enunciado": "A redução das desigualdades regionais",
+    "alternativas": {
+      "A": "é fundamento da República",
+      "B": "é objetivo fundamental",
+      "C": "é princípio da ordem econômica",
+      "D": "não possui previsão constitucional",
+      "E": "é cláusula pétrea"
+    },
+    "gabarito": "C",
+    "comentario": "Art. 170, VII, CF."
+  },
+  {
+    "id": 95,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Constitucional",
+    "conteudo": "Sistema Financeiro Nacional",
+    "dificuldade": "difícil",
+    "enunciado": "O Conselho Monetário Nacional",
+    "alternativas": {
+      "A": "julga ações constitucionais",
+      "B": "exerce função legislativa",
+      "C": "define diretrizes da política monetária",
+      "D": "executa diretamente a política monetária",
+      "E": "integra o Poder Judiciário"
+    },
+    "gabarito": "C",
+    "comentario": "Órgão normativo do SFN."
+  },
+
+  {
+    "id": 96,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Constitucional",
+    "conteudo": "Direitos fundamentais",
+    "dificuldade": "difícil",
+    "enunciado": "O princípio da igualdade",
+    "alternativas": {
+      "A": "impõe tratamento idêntico em qualquer situação",
+      "B": "admite diferenciações razoáveis",
+      "C": "veda políticas públicas diferenciadas",
+      "D": "é meramente formal",
+      "E": "não se aplica ao legislador"
+    },
+    "gabarito": "B",
+    "comentario": "Igualdade material."
+  },
+  {
+    "id": 97,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Constitucional",
+    "conteudo": "Controle de constitucionalidade",
+    "dificuldade": "difícil",
+    "enunciado": "A ação direta de inconstitucionalidade por omissão",
+    "alternativas": {
+      "A": "tem natureza repressiva",
+      "B": "não admite medida cautelar",
+      "C": "visa suprir omissão normativa",
+      "D": "retira norma do ordenamento",
+      "E": "não possui previsão constitucional"
+    },
+    "gabarito": "C",
+    "comentario": "Art. 103, §2º, CF."
+  },
+  {
+    "id": 98,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Constitucional",
+    "conteudo": "Controle de constitucionalidade",
+    "dificuldade": "difícil",
+    "enunciado": "A legitimidade ativa universal no controle concentrado",
+    "alternativas": {
+      "A": "é admitida no Brasil",
+      "B": "é vedada pela CF",
+      "C": "aplica-se à ADPF",
+      "D": "aplica-se à ADC",
+      "E": "aplica-se à ADI"
+    },
+    "gabarito": "B",
+    "comentario": "Legitimados são taxativos."
+  },
+  {
+    "id": 99,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Constitucional",
+    "conteudo": "Ordem econômica",
+    "dificuldade": "difícil",
+    "enunciado": "A busca do pleno emprego é",
+    "alternativas": {
+      "A": "fundamento da República",
+      "B": "objetivo fundamental",
+      "C": "princípio da ordem econômica",
+      "D": "direito individual",
+      "E": "cláusula pétrea"
+    },
+    "gabarito": "C",
+    "comentario": "Art. 170, VIII, CF."
+  },
+  {
+    "id": 100,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Constitucional",
+    "conteudo": "Sistema Financeiro Nacional",
+    "dificuldade": "difícil",
+    "enunciado": "O Sistema Financeiro Nacional submete-se",
+    "alternativas": {
+      "A": "apenas à legislação infraconstitucional",
+      "B": "apenas a normas internacionais",
+      "C": "aos princípios constitucionais",
+      "D": "exclusivamente ao mercado",
+      "E": "à autorregulação privada"
+    },
+    "gabarito": "C",
+    "comentario": "Subordinação à Constituição."
+  },
+
+  {
+    "id": 101,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Constitucional",
+    "conteudo": "Aplicabilidade das normas constitucionais",
+    "dificuldade": "difícil",
+    "enunciado": "As normas constitucionais de eficácia limitada",
+    "alternativas": {
+      "A": "não produzem qualquer efeito jurídico",
+      "B": "produzem efeitos mínimos desde a promulgação",
+      "C": "dependem de atuação legislativa para plena eficácia",
+      "D": "são sempre programáticas",
+      "E": "não vinculam o legislador"
+    },
+    "gabarito": "C",
+    "comentario": "Possuem eficácia jurídica mínima e exigem complementação normativa."
+  },
+  {
+    "id": 102,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Constitucional",
+    "conteudo": "Normas programáticas",
+    "dificuldade": "difícil",
+    "enunciado": "As normas constitucionais programáticas",
+    "alternativas": {
+      "A": "são destituídas de eficácia jurídica",
+      "B": "têm aplicabilidade imediata plena",
+      "C": "vinculam o legislador e a administração pública",
+      "D": "não admitem controle judicial",
+      "E": "possuem eficácia contida"
+    },
+    "gabarito": "C",
+    "comentario": "Geram dever de atuação estatal e controle por omissão."
+  },
+  {
+    "id": 103,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Constitucional",
+    "conteudo": "Interpretação constitucional",
+    "dificuldade": "difícil",
+    "enunciado": "O princípio da concordância prática impõe que",
+    "alternativas": {
+      "A": "um princípio constitucional sempre prevaleça sobre outro",
+      "B": "se elimine o conflito entre normas",
+      "C": "se busque harmonizar bens e valores constitucionais em conflito",
+      "D": "a interpretação literal seja priorizada",
+      "E": "direitos fundamentais sejam afastados"
+    },
+    "gabarito": "C",
+    "comentario": "Princípio típico de resolução de colisões constitucionais."
+  },
+  {
+    "id": 104,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Constitucional",
+    "conteudo": "Princípios fundamentais",
+    "dificuldade": "média",
+    "enunciado": "A soberania, como fundamento da República, refere-se",
+    "alternativas": {
+      "A": "à autonomia dos municípios",
+      "B": "à independência do Estado brasileiro no plano internacional",
+      "C": "à supremacia do Congresso Nacional",
+      "D": "à separação dos Poderes",
+      "E": "ao pluralismo político"
+    },
+    "gabarito": "B",
+    "comentario": "Soberania é atributo do Estado no plano externo."
+  },
+  {
+    "id": 105,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Constitucional",
+    "conteudo": "Direitos fundamentais",
+    "dificuldade": "difícil",
+    "enunciado": "A teoria do núcleo essencial dos direitos fundamentais",
+    "alternativas": {
+      "A": "impede qualquer restrição a direitos fundamentais",
+      "B": "autoriza a supressão total do direito",
+      "C": "veda a eliminação do conteúdo mínimo do direito",
+      "D": "aplica-se apenas aos direitos sociais",
+      "E": "não é aceita pelo STF"
+    },
+    "gabarito": "C",
+    "comentario": "Restrições não podem atingir o núcleo essencial."
+  },
+
+  {
+    "id": 106,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Constitucional",
+    "conteudo": "Direitos fundamentais",
+    "dificuldade": "difícil",
+    "enunciado": "O princípio da vedação ao confisco aplica-se",
+    "alternativas": {
+      "A": "apenas aos impostos",
+      "B": "apenas às taxas",
+      "C": "aos tributos em geral",
+      "D": "somente às contribuições",
+      "E": "exclusivamente às multas"
+    },
+    "gabarito": "C",
+    "comentario": "Vedação ao confisco alcança espécies tributárias."
+  },
+  {
+    "id": 107,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Constitucional",
+    "conteudo": "Direitos sociais",
+    "dificuldade": "difícil",
+    "enunciado": "Os direitos sociais previstos na Constituição Federal",
+    "alternativas": {
+      "A": "não possuem eficácia jurídica",
+      "B": "dependem exclusivamente de lei para existir",
+      "C": "são direitos fundamentais de segunda dimensão",
+      "D": "não se submetem à reserva do possível",
+      "E": "não admitem controle judicial"
+    },
+    "gabarito": "C",
+    "comentario": "Relacionam-se à igualdade material."
+  },
+  {
+    "id": 108,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Constitucional",
+    "conteudo": "Reserva do possível",
+    "dificuldade": "difícil",
+    "enunciado": "A reserva do possível",
+    "alternativas": {
+      "A": "afasta automaticamente direitos sociais",
+      "B": "impede controle judicial de políticas públicas",
+      "C": "deve ser ponderada com o mínimo existencial",
+      "D": "é cláusula pétrea",
+      "E": "é princípio explícito da Constituição"
+    },
+    "gabarito": "C",
+    "comentario": "STF exige compatibilização com o mínimo existencial."
+  },
+  {
+    "id": 109,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Constitucional",
+    "conteudo": "Direitos políticos",
+    "dificuldade": "difícil",
+    "enunciado": "A perda ou suspensão dos direitos políticos",
+    "alternativas": {
+      "A": "pode ocorrer por decisão administrativa",
+      "B": "pode ocorrer apenas nos casos previstos na CF",
+      "C": "é automática em qualquer condenação penal",
+      "D": "aplica-se apenas aos brasileiros naturalizados",
+      "E": "é vedada pela Constituição"
+    },
+    "gabarito": "B",
+    "comentario": "Hipóteses taxativas do art. 15 da CF."
+  },
+  {
+    "id": 110,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Constitucional",
+    "conteudo": "Nacionalidade",
+    "dificuldade": "difícil",
+    "enunciado": "A reaquisição da nacionalidade brasileira",
+    "alternativas": {
+      "A": "é vedada pela Constituição",
+      "B": "ocorre automaticamente",
+      "C": "depende de procedimento legal",
+      "D": "é possível apenas aos natos",
+      "E": "independe de ato estatal"
+    },
+    "gabarito": "C",
+    "comentario": "Regida por lei e ato administrativo."
+  },
+
+  {
+    "id": 111,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Constitucional",
+    "conteudo": "Cláusulas pétreas",
+    "dificuldade": "difícil",
+    "enunciado": "O controle de constitucionalidade de emenda constitucional",
+    "alternativas": {
+      "A": "é vedado",
+      "B": "é possível apenas quanto a vício formal",
+      "C": "admite análise de violação a cláusulas pétreas",
+      "D": "é exclusivo do Congresso Nacional",
+      "E": "não admite controle judicial"
+    },
+    "gabarito": "C",
+    "comentario": "STF controla emendas que violem cláusulas pétreas."
+  },
+  {
+    "id": 112,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Constitucional",
+    "conteudo": "Organização do Estado",
+    "dificuldade": "média",
+    "enunciado": "A intervenção federal nos estados",
+    "alternativas": {
+      "A": "é regra geral",
+      "B": "depende de autorização judicial",
+      "C": "constitui medida excepcional",
+      "D": "é vedada pela Constituição",
+      "E": "ocorre por ato do governador"
+    },
+    "gabarito": "C",
+    "comentario": "Intervenção é exceção ao princípio federativo."
+  },
+  {
+    "id": 113,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Constitucional",
+    "conteudo": "Supremacia da Constituição",
+    "dificuldade": "difícil",
+    "enunciado": "A recepção de normas anteriores à CF/88 ocorre quando",
+    "alternativas": {
+      "A": "forem formalmente compatíveis",
+      "B": "forem materialmente compatíveis",
+      "C": "forem aprovadas pelo Congresso",
+      "D": "forem declaradas válidas pelo STF",
+      "E": "forem regulamentadas por lei"
+    },
+    "gabarito": "B",
+    "comentario": "Critério é material, não formal."
+  },
+  {
+    "id": 114,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Constitucional",
+    "conteudo": "Controle de constitucionalidade",
+    "dificuldade": "difícil",
+    "enunciado": "A inconstitucionalidade superveniente",
+    "alternativas": {
+      "A": "é admitida no Brasil",
+      "B": "ocorre quando a Constituição é alterada",
+      "C": "não é reconhecida pelo STF",
+      "D": "decorre de lei posterior incompatível",
+      "E": "aplica-se apenas a normas infralegais"
+    },
+    "gabarito": "C",
+    "comentario": "Lei incompatível deixa de ser recepcionada."
+  },
+  {
+    "id": 115,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Constitucional",
+    "conteudo": "Controle de constitucionalidade",
+    "dificuldade": "difícil",
+    "enunciado": "O controle abstrato de constitucionalidade",
+    "alternativas": {
+      "A": "analisa caso concreto",
+      "B": "possui natureza incidental",
+      "C": "tem como objeto lei em tese",
+      "D": "é exercido por qualquer juiz",
+      "E": "não produz efeitos vinculantes"
+    },
+    "gabarito": "C",
+    "comentario": "Controle concentrado incide sobre normas em abstrato."
+  },
+
+  {
+    "id": 116,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Constitucional",
+    "conteudo": "ADI e ADC",
+    "dificuldade": "difícil",
+    "enunciado": "A decisão em ADC",
+    "alternativas": {
+      "A": "retira a norma do ordenamento",
+      "B": "possui apenas efeito inter partes",
+      "C": "declara a constitucionalidade da norma",
+      "D": "não possui efeito vinculante",
+      "E": "depende de resolução do Senado"
+    },
+    "gabarito": "C",
+    "comentario": "Finalidade típica da ADC."
+  },
+  {
+    "id": 117,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Constitucional",
+    "conteudo": "ADPF",
+    "dificuldade": "difícil",
+    "enunciado": "A ADPF não é cabível quando",
+    "alternativas": {
+      "A": "houver outro meio eficaz",
+      "B": "o ato for anterior à CF",
+      "C": "houver controvérsia relevante",
+      "D": "estiver em jogo preceito fundamental",
+      "E": "inexistir outro meio"
+    },
+    "gabarito": "A",
+    "comentario": "Subsidiariedade é requisito essencial."
+  },
+  {
+    "id": 118,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Constitucional",
+    "conteudo": "Efeitos das decisões",
+    "dificuldade": "difícil",
+    "enunciado": "A modulação de efeitos em controle concentrado",
+    "alternativas": {
+      "A": "é automática",
+      "B": "é vedada",
+      "C": "exige maioria qualificada",
+      "D": "produz apenas efeitos ex nunc",
+      "E": "depende do Senado"
+    },
+    "gabarito": "C",
+    "comentario": "Quórum de 2/3 dos ministros."
+  },
+  {
+    "id": 119,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Constitucional",
+    "conteudo": "Controle difuso",
+    "dificuldade": "difícil",
+    "enunciado": "No controle difuso, a declaração de inconstitucionalidade",
+    "alternativas": {
+      "A": "revoga a lei",
+      "B": "tem efeitos erga omnes imediatos",
+      "C": "produz efeitos inter partes",
+      "D": "depende de ADI",
+      "E": "é vedada aos tribunais"
+    },
+    "gabarito": "C",
+    "comentario": "Efeitos restritos às partes."
+  },
+  {
+    "id": 120,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Constitucional",
+    "conteudo": "Reserva de plenário",
+    "dificuldade": "difícil",
+    "enunciado": "A reserva de plenário exige",
+    "alternativas": {
+      "A": "decisão monocrática",
+      "B": "órgão fracionário",
+      "C": "maioria absoluta do tribunal",
+      "D": "resolução do Senado",
+      "E": "quórum simples"
+    },
+    "gabarito": "C",
+    "comentario": "Art. 97 da CF."
+  },
+
+  {
+    "id": 121,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Constitucional",
+    "conteudo": "Ordem econômica",
+    "dificuldade": "difícil",
+    "enunciado": "A livre concorrência",
+    "alternativas": {
+      "A": "afasta a regulação estatal",
+      "B": "é princípio da ordem econômica",
+      "C": "é objetivo fundamental",
+      "D": "é fundamento da República",
+      "E": "é cláusula pétrea"
+    },
+    "gabarito": "B",
+    "comentario": "Art. 170, IV, CF."
+  },
+  {
+    "id": 122,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Constitucional",
+    "conteudo": "Ordem econômica",
+    "dificuldade": "difícil",
+    "enunciado": "A intervenção do Estado no domínio econômico",
+    "alternativas": {
+      "A": "é vedada",
+      "B": "é regra geral",
+      "C": "é admitida em hipóteses constitucionais",
+      "D": "depende de plebiscito",
+      "E": "é ilimitada"
+    },
+    "gabarito": "C",
+    "comentario": "Arts. 170 a 174 da CF."
+  },
+  {
+    "id": 123,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Constitucional",
+    "conteudo": "Função social",
+    "dificuldade": "difícil",
+    "enunciado": "A função social da propriedade rural é aferida",
+    "alternativas": {
+      "A": "apenas pelo tamanho da área",
+      "B": "pelos critérios constitucionais",
+      "C": "exclusivamente pela produtividade",
+      "D": "por decisão do proprietário",
+      "E": "sem critérios objetivos"
+    },
+    "gabarito": "B",
+    "comentario": "Art. 186 da CF."
+  },
+  {
+    "id": 124,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Constitucional",
+    "conteudo": "Sistema Financeiro Nacional",
+    "dificuldade": "difícil",
+    "enunciado": "O Sistema Financeiro Nacional visa",
+    "alternativas": {
+      "A": "lucro das instituições",
+      "B": "equilíbrio concorrencial apenas",
+      "C": "desenvolvimento equilibrado do País",
+      "D": "controle exclusivo do mercado",
+      "E": "arrecadação tributária"
+    },
+    "gabarito": "C",
+    "comentario": "Finalidade constitucional expressa."
+  },
+  {
+    "id": 125,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Constitucional",
+    "conteudo": "Sistema Financeiro Nacional",
+    "dificuldade": "difícil",
+    "enunciado": "A política de crédito no Brasil",
+    "alternativas": {
+      "A": "é definida pelo Judiciário",
+      "B": "é função típica do Banco Central",
+      "C": "é fixada pelo Conselho Monetário Nacional",
+      "D": "é exercida pelos estados",
+      "E": "é função do STF"
+    },
+    "gabarito": "C",
+    "comentario": "CMN define diretrizes."
+  },
+
+  {
+    "id": 126,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Constitucional",
+    "conteudo": "Direitos fundamentais",
+    "dificuldade": "difícil",
+    "enunciado": "O princípio da legalidade, na Administração Pública,",
+    "alternativas": {
+      "A": "permite atuação discricionária ampla",
+      "B": "autoriza tudo o que não for proibido",
+      "C": "restringe a atuação ao que a lei autoriza",
+      "D": "não possui estatura constitucional",
+      "E": "é exclusivo do Poder Judiciário"
+    },
+    "gabarito": "C",
+    "comentario": "Legalidade estrita administrativa."
+  },
+  {
+    "id": 127,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Constitucional",
+    "conteudo": "Direitos fundamentais",
+    "dificuldade": "difícil",
+    "enunciado": "O devido processo legal substancial permite",
+    "alternativas": {
+      "A": "controle apenas formal",
+      "B": "controle de razoabilidade e proporcionalidade",
+      "C": "afastamento do Judiciário",
+      "D": "decisão política discricionária",
+      "E": "supressão de garantias"
+    },
+    "gabarito": "B",
+    "comentario": "Controle material dos atos estatais."
+  },
+  {
+    "id": 128,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Constitucional",
+    "conteudo": "Acesso à justiça",
+    "dificuldade": "difícil",
+    "enunciado": "O princípio da inafastabilidade da jurisdição",
+    "alternativas": {
+      "A": "admite exclusão por lei",
+      "B": "afasta arbitragem",
+      "C": "garante acesso ao Judiciário",
+      "D": "é absoluto",
+      "E": "é princípio implícito"
+    },
+    "gabarito": "C",
+    "comentario": "Art. 5º, XXXV, CF."
+  },
+  {
+    "id": 129,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Constitucional",
+    "conteudo": "Controle de constitucionalidade",
+    "dificuldade": "difícil",
+    "enunciado": "A técnica da interpretação conforme",
+    "alternativas": {
+      "A": "retira a norma do ordenamento",
+      "B": "preserva a norma compatível",
+      "C": "cria norma nova",
+      "D": "é vedada em ADI",
+      "E": "depende do Senado"
+    },
+    "gabarito": "B",
+    "comentario": "Técnica conservadora do STF."
+  },
+  {
+    "id": 130,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Constitucional",
+    "conteudo": "Efeitos das decisões",
+    "dificuldade": "difícil",
+    "enunciado": "A decisão em controle concentrado, como regra, possui efeitos",
+    "alternativas": {
+      "A": "ex nunc",
+      "B": "inter partes",
+      "C": "erga omnes",
+      "D": "prospectivos apenas",
+      "E": "limitados"
+    },
+    "gabarito": "C",
+    "comentario": "Efeito geral típico."
+  },
+
+  {
+    "id": 131,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Constitucional",
+    "conteudo": "Direitos fundamentais",
+    "dificuldade": "difícil",
+    "enunciado": "O direito de greve dos servidores públicos",
+    "alternativas": {
+      "A": "é vedado",
+      "B": "é livre e irrestrito",
+      "C": "depende de lei específica",
+      "D": "não possui previsão constitucional",
+      "E": "é direito político"
+    },
+    "gabarito": "C",
+    "comentario": "Art. 37, VII, CF."
+  },
+  {
+    "id": 132,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Constitucional",
+    "conteudo": "Ordem econômica",
+    "dificuldade": "difícil",
+    "enunciado": "A exploração de serviços públicos",
+    "alternativas": {
+      "A": "é exclusiva do Estado",
+      "B": "é vedada a particulares",
+      "C": "pode ocorrer por concessão ou permissão",
+      "D": "é sempre direta",
+      "E": "não possui regime constitucional"
+    },
+    "gabarito": "C",
+    "comentario": "Art. 175 da CF."
+  },
+  {
+    "id": 133,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Constitucional",
+    "conteudo": "Ordem econômica",
+    "dificuldade": "difícil",
+    "enunciado": "O princípio da livre iniciativa",
+    "alternativas": {
+      "A": "exclui a função regulatória do Estado",
+      "B": "convive com a justiça social",
+      "C": "afasta a função social",
+      "D": "é absoluto",
+      "E": "não possui previsão constitucional"
+    },
+    "gabarito": "B",
+    "comentario": "Compatibilização no art. 170."
+  },
+  {
+    "id": 134,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Constitucional",
+    "conteudo": "Sistema Financeiro Nacional",
+    "dificuldade": "difícil",
+    "enunciado": "A Constituição Federal atribui ao Sistema Financeiro Nacional",
+    "alternativas": {
+      "A": "finalidade arrecadatória",
+      "B": "finalidade meramente privada",
+      "C": "papel de desenvolvimento equilibrado",
+      "D": "controle exclusivo do mercado",
+      "E": "autonomia absoluta"
+    },
+    "gabarito": "C",
+    "comentario": "Art. 192 da CF."
+  },
+  {
+    "id": 135,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Constitucional",
+    "conteudo": "Controle de constitucionalidade",
+    "dificuldade": "difícil",
+    "enunciado": "A declaração de inconstitucionalidade sem redução de texto",
+    "alternativas": {
+      "A": "retira a norma do ordenamento",
+      "B": "preserva o texto legal",
+      "C": "suprime palavras da lei",
+      "D": "é vedada",
+      "E": "não possui efeitos vinculantes"
+    },
+    "gabarito": "B",
+    "comentario": "Afasta interpretação incompatível."
+  },
+
+  {
+    "id": 136,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Constitucional",
+    "conteudo": "Direitos fundamentais",
+    "dificuldade": "difícil",
+    "enunciado": "A eficácia vertical dos direitos fundamentais significa que",
+    "alternativas": {
+      "A": "aplicam-se apenas entre particulares",
+      "B": "vinculam o Estado em relação ao indivíduo",
+      "C": "não vinculam o Poder Público",
+      "D": "dependem de lei ordinária",
+      "E": "não admitem restrições"
+    },
+    "gabarito": "B",
+    "comentario": "Vinculação do Estado aos direitos fundamentais."
+  },
+  {
+    "id": 137,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Constitucional",
+    "conteudo": "Remédios constitucionais",
+    "dificuldade": "difícil",
+    "enunciado": "O habeas corpus pode ser impetrado",
+    "alternativas": {
+      "A": "apenas por advogado",
+      "B": "somente pelo Ministério Público",
+      "C": "por qualquer pessoa",
+      "D": "apenas pelo próprio paciente",
+      "E": "somente em caso de prisão efetiva"
+    },
+    "gabarito": "C",
+    "comentario": "Ação constitucional gratuita e informal."
+  },
+  {
+    "id": 138,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Constitucional",
+    "conteudo": "Controle de constitucionalidade",
+    "dificuldade": "difícil",
+    "enunciado": "O efeito vinculante das decisões do STF",
+    "alternativas": {
+      "A": "alcança apenas o Judiciário",
+      "B": "alcança apenas a Administração",
+      "C": "alcança Judiciário e Administração",
+      "D": "depende de resolução do Senado",
+      "E": "é meramente persuasivo"
+    },
+    "gabarito": "C",
+    "comentario": "Art. 102, §2º, CF."
+  },
+  {
+    "id": 139,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Constitucional",
+    "conteudo": "Ordem econômica",
+    "dificuldade": "difícil",
+    "enunciado": "O Estado atua como agente normativo e regulador da atividade econômica",
+    "alternativas": {
+      "A": "de forma excepcional",
+      "B": "apenas no setor público",
+      "C": "nos termos do art. 174 da CF",
+      "D": "sem fundamento constitucional",
+      "E": "somente por empresas estatais"
+    },
+    "gabarito": "C",
+    "comentario": "Função regulatória do Estado."
+  },
+  {
+    "id": 140,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Constitucional",
+    "conteudo": "Sistema Financeiro Nacional",
+    "dificuldade": "difícil",
+    "enunciado": "O Banco Central do Brasil",
+    "alternativas": {
+      "A": "integra o Poder Legislativo",
+      "B": "não possui autonomia técnica",
+      "C": "exerce funções típicas de autoridade monetária",
+      "D": "define diretrizes da política econômica",
+      "E": "atua sem base constitucional"
+    },
+    "gabarito": "C",
+    "comentario": "Autoridade monetária nacional."
+  },
+
+  {
+    "id": 141,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Constitucional",
+    "conteudo": "Direitos fundamentais",
+    "dificuldade": "difícil",
+    "enunciado": "O princípio da razoabilidade",
+    "alternativas": {
+      "A": "é sinônimo de legalidade",
+      "B": "não possui aplicação judicial",
+      "C": "controla excessos do poder estatal",
+      "D": "afasta o controle jurisdicional",
+      "E": "é exclusivo do Poder Legislativo"
+    },
+    "gabarito": "C",
+    "comentario": "Parâmetro de controle dos atos estatais."
+  },
+  {
+    "id": 142,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Constitucional",
+    "conteudo": "Controle de constitucionalidade",
+    "dificuldade": "difícil",
+    "enunciado": "A declaração de inconstitucionalidade por omissão",
+    "alternativas": {
+      "A": "retira norma do ordenamento",
+      "B": "substitui o legislador",
+      "C": "comunica o órgão competente",
+      "D": "produz efeitos erga omnes imediatos",
+      "E": "é exclusiva da ADPF"
+    },
+    "gabarito": "C",
+    "comentario": "STF comunica para suprir omissão."
+  },
+  {
+    "id": 143,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Constitucional",
+    "conteudo": "Direitos fundamentais",
+    "dificuldade": "difícil",
+    "enunciado": "A proteção ao ato jurídico perfeito",
+    "alternativas": {
+      "A": "é princípio implícito",
+      "B": "é direito fundamental",
+      "C": "não possui exceções",
+      "D": "é cláusula pétrea expressa",
+      "E": "não vincula o legislador"
+    },
+    "gabarito": "B",
+    "comentario": "Art. 5º, XXXVI, CF."
+  },
+  {
+    "id": 144,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Constitucional",
+    "conteudo": "Direitos fundamentais",
+    "dificuldade": "difícil",
+    "enunciado": "A coisa julgada",
+    "alternativas": {
+      "A": "não é protegida constitucionalmente",
+      "B": "pode ser afastada por lei",
+      "C": "é garantia fundamental",
+      "D": "é princípio implícito",
+      "E": "não admite exceções"
+    },
+    "gabarito": "C",
+    "comentario": "Proteção constitucional expressa."
+  },
+  {
+    "id": 145,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Constitucional",
+    "conteudo": "Ordem econômica",
+    "dificuldade": "difícil",
+    "enunciado": "O tratamento favorecido às microempresas",
+    "alternativas": {
+      "A": "é vedado",
+      "B": "é princípio da ordem econômica",
+      "C": "é direito individual",
+      "D": "é cláusula pétrea",
+      "E": "não possui previsão constitucional"
+    },
+    "gabarito": "B",
+    "comentario": "Art. 170, IX, CF."
+  },
+
+  {
+    "id": 146,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Constitucional",
+    "conteudo": "Sistema Financeiro Nacional",
+    "dificuldade": "difícil",
+    "enunciado": "A fiscalização das instituições financeiras",
+    "alternativas": {
+      "A": "é exclusiva do Congresso",
+      "B": "é função do Banco Central",
+      "C": "é competência dos estados",
+      "D": "é do STF",
+      "E": "é inexistente"
+    },
+    "gabarito": "B",
+    "comentario": "Competência típica do Bacen."
+  },
+  {
+    "id": 147,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Constitucional",
+    "conteudo": "Interpretação constitucional",
+    "dificuldade": "difícil",
+    "enunciado": "O princípio da máxima efetividade",
+    "alternativas": {
+      "A": "reduz o alcance das normas",
+      "B": "atribui maior eficácia possível às normas",
+      "C": "afasta normas programáticas",
+      "D": "impede controle judicial",
+      "E": "é exclusivo de direitos sociais"
+    },
+    "gabarito": "B",
+    "comentario": "Busca extrair o máximo da norma constitucional."
+  },
+  {
+    "id": 148,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Constitucional",
+    "conteudo": "Controle de constitucionalidade",
+    "dificuldade": "difícil",
+    "enunciado": "A técnica da declaração de nulidade parcial",
+    "alternativas": {
+      "A": "mantém toda a norma",
+      "B": "retira parte da norma do ordenamento",
+      "C": "é vedada",
+      "D": "não possui efeitos vinculantes",
+      "E": "depende de lei ordinária"
+    },
+    "gabarito": "B",
+    "comentario": "Nulidade parcial com redução de texto."
+  },
+  {
+    "id": 149,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Constitucional",
+    "conteudo": "Ordem econômica",
+    "dificuldade": "difícil",
+    "enunciado": "A repressão ao abuso do poder econômico",
+    "alternativas": {
+      "A": "não possui previsão constitucional",
+      "B": "é objetivo fundamental",
+      "C": "é princípio da ordem econômica",
+      "D": "é cláusula pétrea",
+      "E": "é direito político"
+    },
+    "gabarito": "C",
+    "comentario": "Art. 173, §4º, CF."
+  },
+  {
+    "id": 150,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Constitucional",
+    "conteudo": "Sistema Financeiro Nacional",
+    "dificuldade": "difícil",
+    "enunciado": "O Sistema Financeiro Nacional deve observar",
+    "alternativas": {
+      "A": "exclusivamente critérios de mercado",
+      "B": "somente normas infraconstitucionais",
+      "C": "os princípios constitucionais",
+      "D": "a autonomia absoluta das instituições",
+      "E": "a autorregulação privada"
+    },
+    "gabarito": "C",
+    "comentario": "Submissão integral à Constituição."
+  },
+
+
+  {
+    "id": 151,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Constitucional",
+    "conteudo": "Normas constitucionais",
+    "dificuldade": "difícil",
+    "enunciado": "As normas constitucionais de eficácia contida",
+    "alternativas": {
+      "A": "dependem de regulamentação para existir",
+      "B": "produzem efeitos apenas após lei",
+      "C": "são normas programáticas",
+      "D": "têm aplicabilidade imediata, podendo sofrer restrições",
+      "E": "não possuem eficácia jurídica"
+    },
+    "gabarito": "D",
+    "comentario": "Produzem efeitos desde logo, mas admitem restrição por lei."
+  },
+  {
+    "id": 152,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Constitucional",
+    "conteudo": "Interpretação constitucional",
+    "dificuldade": "difícil",
+    "enunciado": "O princípio da unidade da Constituição exige que",
+    "alternativas": {
+      "A": "as normas sejam interpretadas isoladamente",
+      "B": "se privilegie sempre a literalidade",
+      "C": "se interprete a Constituição como um sistema harmônico",
+      "D": "normas programáticas sejam afastadas",
+      "E": "direitos fundamentais cedam sempre"
+    },
+    "gabarito": "C",
+    "comentario": "Interpretação sistêmica e coerente do texto constitucional."
+  },
+  {
+    "id": 153,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Constitucional",
+    "conteudo": "Direitos fundamentais",
+    "dificuldade": "difícil",
+    "enunciado": "A restrição a direitos fundamentais",
+    "alternativas": {
+      "A": "é sempre inconstitucional",
+      "B": "pode ocorrer, respeitado o núcleo essencial",
+      "C": "é vedada às normas infraconstitucionais",
+      "D": "não admite ponderação",
+      "E": "só ocorre por emenda constitucional"
+    },
+    "gabarito": "B",
+    "comentario": "Restrições são admitidas desde que proporcionais."
+  },
+  {
+    "id": 154,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Constitucional",
+    "conteudo": "Cláusulas pétreas",
+    "dificuldade": "difícil",
+    "enunciado": "A separação dos Poderes",
+    "alternativas": {
+      "A": "é princípio implícito",
+      "B": "é objetivo fundamental",
+      "C": "é cláusula pétrea",
+      "D": "pode ser abolida por emenda",
+      "E": "não admite exceções"
+    },
+    "gabarito": "C",
+    "comentario": "Art. 60, §4º, III, CF."
+  },
+  {
+    "id": 155,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Constitucional",
+    "conteudo": "Organização do Estado",
+    "dificuldade": "média",
+    "enunciado": "A soberania é atributo",
+    "alternativas": {
+      "A": "da União apenas",
+      "B": "dos estados",
+      "C": "dos municípios",
+      "D": "do Estado brasileiro",
+      "E": "do Congresso Nacional"
+    },
+    "gabarito": "D",
+    "comentario": "Soberania é característica do Estado no plano externo."
+  },
+
+  {
+    "id": 156,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Constitucional",
+    "conteudo": "Supremacia constitucional",
+    "dificuldade": "difícil",
+    "enunciado": "A rigidez constitucional decorre",
+    "alternativas": {
+      "A": "do controle difuso",
+      "B": "da supremacia da Constituição",
+      "C": "do poder constituinte derivado",
+      "D": "do controle preventivo",
+      "E": "da atuação do STF"
+    },
+    "gabarito": "B",
+    "comentario": "Supremacia implica procedimento mais rigoroso de alteração."
+  },
+  {
+    "id": 157,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Constitucional",
+    "conteudo": "Controle de constitucionalidade",
+    "dificuldade": "difícil",
+    "enunciado": "O controle concentrado de constitucionalidade",
+    "alternativas": {
+      "A": "é exercido por qualquer juiz",
+      "B": "analisa casos concretos",
+      "C": "tem como objeto normas em tese",
+      "D": "produz efeitos apenas inter partes",
+      "E": "é exclusivo do Legislativo"
+    },
+    "gabarito": "C",
+    "comentario": "Controle abstrato."
+  },
+  {
+    "id": 158,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Constitucional",
+    "conteudo": "ADI",
+    "dificuldade": "difícil",
+    "enunciado": "A Ação Direta de Inconstitucionalidade",
+    "alternativas": {
+      "A": "exige caso concreto",
+      "B": "tem natureza preventiva",
+      "C": "possui objeto estadual e federal",
+      "D": "não produz efeito vinculante",
+      "E": "não admite cautelar"
+    },
+    "gabarito": "C",
+    "comentario": "ADI pode impugnar leis federais e estaduais."
+  },
+  {
+    "id": 159,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Constitucional",
+    "conteudo": "ADC",
+    "dificuldade": "difícil",
+    "enunciado": "A Ação Declaratória de Constitucionalidade",
+    "alternativas": {
+      "A": "afasta norma do ordenamento",
+      "B": "visa confirmar constitucionalidade de lei federal",
+      "C": "é subsidiária",
+      "D": "não possui efeito vinculante",
+      "E": "não admite cautelar"
+    },
+    "gabarito": "B",
+    "comentario": "Busca estabilizar controvérsia judicial."
+  },
+  {
+    "id": 160,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Constitucional",
+    "conteudo": "ADPF",
+    "dificuldade": "difícil",
+    "enunciado": "A ADPF caracteriza-se por",
+    "alternativas": {
+      "A": "natureza repressiva exclusiva",
+      "B": "controle concreto",
+      "C": "subsidiariedade",
+      "D": "controle apenas estadual",
+      "E": "efeitos inter partes"
+    },
+    "gabarito": "C",
+    "comentario": "Só cabe se não houver outro meio eficaz."
+  },
+
+  {
+    "id": 161,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Constitucional",
+    "conteudo": "Direitos fundamentais",
+    "dificuldade": "difícil",
+    "enunciado": "O direito à vida",
+    "alternativas": {
+      "A": "é absoluto",
+      "B": "não admite restrições",
+      "C": "pode ser relativizado em hipóteses excepcionais",
+      "D": "aplica-se apenas a brasileiros",
+      "E": "não possui proteção constitucional"
+    },
+    "gabarito": "C",
+    "comentario": "Nenhum direito fundamental é absoluto."
+  },
+  {
+    "id": 162,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Constitucional",
+    "conteudo": "Direitos sociais",
+    "dificuldade": "média",
+    "enunciado": "A educação, segundo a Constituição Federal, é",
+    "alternativas": {
+      "A": "atividade econômica",
+      "B": "direito social",
+      "C": "direito político",
+      "D": "direito individual",
+      "E": "direito coletivo apenas"
+    },
+    "gabarito": "B",
+    "comentario": "Art. 6º da CF."
+  },
+  {
+    "id": 163,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Constitucional",
+    "conteudo": "Direitos políticos",
+    "dificuldade": "difícil",
+    "enunciado": "A suspensão dos direitos políticos ocorre",
+    "alternativas": {
+      "A": "por decisão administrativa",
+      "B": "automaticamente",
+      "C": "nas hipóteses taxativas da Constituição",
+      "D": "por decreto presidencial",
+      "E": "em qualquer condenação penal"
+    },
+    "gabarito": "C",
+    "comentario": "Art. 15 da CF."
+  },
+  {
+    "id": 164,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Constitucional",
+    "conteudo": "Nacionalidade",
+    "dificuldade": "difícil",
+    "enunciado": "O brasileiro naturalizado",
+    "alternativas": {
+      "A": "não pode perder a nacionalidade",
+      "B": "não pode ser extraditado em nenhuma hipótese",
+      "C": "pode ser extraditado por crime comum anterior",
+      "D": "possui mais direitos que o nato",
+      "E": "não pode exercer cargos públicos"
+    },
+    "gabarito": "C",
+    "comentario": "Art. 5º, LI, CF."
+  },
+  {
+    "id": 165,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Constitucional",
+    "conteudo": "Organização do Estado",
+    "dificuldade": "média",
+    "enunciado": "Os municípios",
+    "alternativas": {
+      "A": "possuem soberania",
+      "B": "são entes federativos autônomos",
+      "C": "subordinam-se aos estados",
+      "D": "não possuem autonomia política",
+      "E": "podem se separar da federação"
+    },
+    "gabarito": "B",
+    "comentario": "Autonomia política, administrativa e financeira."
+  },
+
+  {
+    "id": 166,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Constitucional",
+    "conteudo": "Controle de constitucionalidade",
+    "dificuldade": "difícil",
+    "enunciado": "No controle difuso",
+    "alternativas": {
+      "A": "a decisão tem efeito erga omnes",
+      "B": "o Senado suspende execução da lei",
+      "C": "há efeito vinculante automático",
+      "D": "a decisão revoga a lei",
+      "E": "não cabe recurso"
+    },
+    "gabarito": "B",
+    "comentario": "Art. 52, X, CF."
+  },
+  {
+    "id": 167,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Constitucional",
+    "conteudo": "Reserva de plenário",
+    "dificuldade": "difícil",
+    "enunciado": "A cláusula de reserva de plenário exige",
+    "alternativas": {
+      "A": "decisão monocrática",
+      "B": "órgão fracionário",
+      "C": "maioria absoluta do tribunal",
+      "D": "quórum simples",
+      "E": "ato administrativo"
+    },
+    "gabarito": "C",
+    "comentario": "Art. 97 da CF."
+  },
+  {
+    "id": 168,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Constitucional",
+    "conteudo": "Súmula vinculante",
+    "dificuldade": "difícil",
+    "enunciado": "A súmula vinculante",
+    "alternativas": {
+      "A": "vincula apenas o Judiciário",
+      "B": "vincula Judiciário e Administração",
+      "C": "tem efeito apenas persuasivo",
+      "D": "é editada pelo STJ",
+      "E": "não admite revisão"
+    },
+    "gabarito": "B",
+    "comentario": "Art. 103-A da CF."
+  },
+  {
+    "id": 169,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Constitucional",
+    "conteudo": "Interpretação constitucional",
+    "dificuldade": "difícil",
+    "enunciado": "O princípio da proporcionalidade é composto pelos critérios de",
+    "alternativas": {
+      "A": "legalidade e moralidade",
+      "B": "necessidade e eficiência",
+      "C": "adequação, necessidade e proporcionalidade em sentido estrito",
+      "D": "razoabilidade e legalidade",
+      "E": "equidade e justiça"
+    },
+    "gabarito": "C",
+    "comentario": "Estrutura clássica."
+  },
+  {
+    "id": 170,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Constitucional",
+    "conteudo": "Efeitos das decisões",
+    "dificuldade": "difícil",
+    "enunciado": "A modulação de efeitos exige",
+    "alternativas": {
+      "A": "maioria simples",
+      "B": "decisão do Senado",
+      "C": "quórum de dois terços",
+      "D": "lei complementar",
+      "E": "controle preventivo"
+    },
+    "gabarito": "C",
+    "comentario": "Lei 9.868/99."
+  },
+
+  {
+    "id": 171,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Constitucional",
+    "conteudo": "Ordem econômica",
+    "dificuldade": "difícil",
+    "enunciado": "A livre concorrência",
+    "alternativas": {
+      "A": "afasta a atuação estatal",
+      "B": "é princípio da ordem econômica",
+      "C": "é objetivo fundamental",
+      "D": "é cláusula pétrea",
+      "E": "é direito político"
+    },
+    "gabarito": "B",
+    "comentario": "Art. 170, IV, CF."
+  },
+  {
+    "id": 172,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Constitucional",
+    "conteudo": "Ordem econômica",
+    "dificuldade": "difícil",
+    "enunciado": "A função social da propriedade",
+    "alternativas": {
+      "A": "afasta o direito de propriedade",
+      "B": "condiciona o exercício do direito",
+      "C": "é exclusiva do meio urbano",
+      "D": "não possui eficácia",
+      "E": "é objetivo fundamental"
+    },
+    "gabarito": "B",
+    "comentario": "Limitação constitucional legítima."
+  },
+  {
+    "id": 173,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Constitucional",
+    "conteudo": "Ordem econômica",
+    "dificuldade": "difícil",
+    "enunciado": "A repressão ao abuso do poder econômico",
+    "alternativas": {
+      "A": "é vedada",
+      "B": "é princípio constitucional",
+      "C": "é direito individual",
+      "D": "é cláusula pétrea",
+      "E": "é objetivo fundamental"
+    },
+    "gabarito": "B",
+    "comentario": "Art. 173, §4º, CF."
+  },
+  {
+    "id": 174,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Constitucional",
+    "conteudo": "Sistema Financeiro Nacional",
+    "dificuldade": "difícil",
+    "enunciado": "O Sistema Financeiro Nacional visa",
+    "alternativas": {
+      "A": "arrecadação tributária",
+      "B": "lucro das instituições",
+      "C": "desenvolvimento equilibrado do País",
+      "D": "controle do mercado",
+      "E": "autonomia absoluta"
+    },
+    "gabarito": "C",
+    "comentario": "Art. 192 da CF."
+  },
+  {
+    "id": 175,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Constitucional",
+    "conteudo": "Sistema Financeiro Nacional",
+    "dificuldade": "difícil",
+    "enunciado": "O Conselho Monetário Nacional",
+    "alternativas": {
+      "A": "executa a política monetária",
+      "B": "define diretrizes da política monetária",
+      "C": "julga ações constitucionais",
+      "D": "integra o Judiciário",
+      "E": "atua sem previsão constitucional"
+    },
+    "gabarito": "B",
+    "comentario": "Órgão normativo do SFN."
+  },
+
+  {
+    "id": 176,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Constitucional",
+    "conteudo": "Sistema Financeiro Nacional",
+    "dificuldade": "difícil",
+    "enunciado": "O Banco Central do Brasil",
+    "alternativas": {
+      "A": "define a política fiscal",
+      "B": "é autoridade monetária",
+      "C": "integra o Judiciário",
+      "D": "não possui base constitucional",
+      "E": "atua apenas como banco comercial"
+    },
+    "gabarito": "B",
+    "comentario": "Execução da política monetária."
+  },
+  {
+    "id": 177,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Constitucional",
+    "conteudo": "Direitos fundamentais",
+    "dificuldade": "difícil",
+    "enunciado": "A eficácia horizontal dos direitos fundamentais",
+    "alternativas": {
+      "A": "é vedada",
+      "B": "aplica-se apenas ao Estado",
+      "C": "alcança relações entre particulares",
+      "D": "depende de lei complementar",
+      "E": "não é reconhecida pelo STF"
+    },
+    "gabarito": "C",
+    "comentario": "Incidência nas relações privadas."
+  },
+  {
+    "id": 178,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Constitucional",
+    "conteudo": "Remédios constitucionais",
+    "dificuldade": "difícil",
+    "enunciado": "O mandado de segurança não cabe",
+    "alternativas": {
+      "A": "contra ato ilegal",
+      "B": "para proteger direito líquido e certo",
+      "C": "contra lei em tese",
+      "D": "preventivamente",
+      "E": "repressivamente"
+    },
+    "gabarito": "C",
+    "comentario": "Súmula 266 do STF."
+  },
+  {
+    "id": 179,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Constitucional",
+    "conteudo": "Acesso à justiça",
+    "dificuldade": "difícil",
+    "enunciado": "O princípio da inafastabilidade da jurisdição",
+    "alternativas": {
+      "A": "é absoluto",
+      "B": "admite exceções legais",
+      "C": "garante acesso ao Judiciário",
+      "D": "é princípio implícito",
+      "E": "afasta arbitragem"
+    },
+    "gabarito": "C",
+    "comentario": "Art. 5º, XXXV, CF."
+  },
+  {
+    "id": 180,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Constitucional",
+    "conteudo": "Direitos fundamentais",
+    "dificuldade": "difícil",
+    "enunciado": "O devido processo legal substancial",
+    "alternativas": {
+      "A": "controla apenas forma",
+      "B": "afasta controle judicial",
+      "C": "permite controle de razoabilidade",
+      "D": "é princípio implícito",
+      "E": "aplica-se apenas ao processo penal"
+    },
+    "gabarito": "C",
+    "comentario": "Controle material dos atos estatais."
+  },
+
+  {
+    "id": 181,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Constitucional",
+    "conteudo": "Direitos fundamentais",
+    "dificuldade": "difícil",
+    "enunciado": "A coisa julgada",
+    "alternativas": {
+      "A": "pode ser afastada por lei",
+      "B": "não possui proteção constitucional",
+      "C": "é garantia fundamental",
+      "D": "é princípio implícito",
+      "E": "não admite exceções"
+    },
+    "gabarito": "C",
+    "comentario": "Art. 5º, XXXVI, CF."
+  },
+  {
+    "id": 182,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Constitucional",
+    "conteudo": "Direitos fundamentais",
+    "dificuldade": "difícil",
+    "enunciado": "O direito adquirido",
+    "alternativas": {
+      "A": "não possui proteção constitucional",
+      "B": "é cláusula pétrea",
+      "C": "é direito fundamental",
+      "D": "pode ser afastado por lei",
+      "E": "é princípio implícito"
+    },
+    "gabarito": "C",
+    "comentario": "Proteção expressa no art. 5º, XXXVI."
+  },
+  {
+    "id": 183,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Constitucional",
+    "conteudo": "Intervenção estatal",
+    "dificuldade": "difícil",
+    "enunciado": "A intervenção do Estado na economia",
+    "alternativas": {
+      "A": "é regra geral",
+      "B": "é vedada",
+      "C": "é excepcional e prevista na CF",
+      "D": "depende de plebiscito",
+      "E": "é ilimitada"
+    },
+    "gabarito": "C",
+    "comentario": "Arts. 170 a 174 da CF."
+  },
+  {
+    "id": 184,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Constitucional",
+    "conteudo": "Sistema Financeiro Nacional",
+    "dificuldade": "difícil",
+    "enunciado": "A fiscalização do sistema financeiro é exercida",
+    "alternativas": {
+      "A": "pelo Congresso",
+      "B": "pelo Banco Central",
+      "C": "pelos estados",
+      "D": "pelo STF",
+      "E": "pelos bancos privados"
+    },
+    "gabarito": "B",
+    "comentario": "Competência típica do Bacen."
+  },
+  {
+    "id": 185,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Constitucional",
+    "conteudo": "Interpretação constitucional",
+    "dificuldade": "difícil",
+    "enunciado": "O princípio da máxima efetividade",
+    "alternativas": {
+      "A": "reduz alcance da norma",
+      "B": "atribui maior eficácia possível",
+      "C": "afasta normas programáticas",
+      "D": "impede controle judicial",
+      "E": "é exclusivo de direitos sociais"
+    },
+    "gabarito": "B",
+    "comentario": "Busca extrair o máximo potencial normativo."
+  },
+
+  {
+    "id": 186,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Constitucional",
+    "conteudo": "Controle de constitucionalidade",
+    "dificuldade": "difícil",
+    "enunciado": "A decisão em ADI",
+    "alternativas": {
+      "A": "produz efeito apenas inter partes",
+      "B": "não possui efeito vinculante",
+      "C": "produz efeito erga omnes",
+      "D": "depende do Senado",
+      "E": "não admite modulação"
+    },
+    "gabarito": "C",
+    "comentario": "Efeito típico do controle concentrado."
+  },
+  {
+    "id": 187,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Constitucional",
+    "conteudo": "Efeitos das decisões",
+    "dificuldade": "difícil",
+    "enunciado": "A modulação de efeitos visa",
+    "alternativas": {
+      "A": "afastar controle judicial",
+      "B": "beneficiar o legislador",
+      "C": "preservar segurança jurídica",
+      "D": "retirar efeito vinculante",
+      "E": "impedir controle concentrado"
+    },
+    "gabarito": "C",
+    "comentario": "Fundamento: segurança jurídica e interesse social."
+  },
+  {
+    "id": 188,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Constitucional",
+    "conteudo": "Direitos fundamentais",
+    "dificuldade": "difícil",
+    "enunciado": "A igualdade material",
+    "alternativas": {
+      "A": "veda tratamento desigual",
+      "B": "permite diferenciações razoáveis",
+      "C": "é apenas formal",
+      "D": "não possui base constitucional",
+      "E": "é direito político"
+    },
+    "gabarito": "B",
+    "comentario": "Tratamento desigual aos desiguais."
+  },
+  {
+    "id": 189,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Constitucional",
+    "conteudo": "Direitos fundamentais",
+    "dificuldade": "difícil",
+    "enunciado": "O princípio da dignidade da pessoa humana",
+    "alternativas": {
+      "A": "é objetivo fundamental",
+      "B": "é fundamento da República",
+      "C": "é direito social",
+      "D": "é cláusula pétrea expressa",
+      "E": "é princípio implícito"
+    },
+    "gabarito": "B",
+    "comentario": "Art. 1º, III, CF."
+  },
+  {
+    "id": 190,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Constitucional",
+    "conteudo": "Direitos fundamentais",
+    "dificuldade": "difícil",
+    "enunciado": "A vedação ao retrocesso social",
+    "alternativas": {
+      "A": "é expressa na CF",
+      "B": "impede qualquer alteração legislativa",
+      "C": "protege o núcleo essencial dos direitos sociais",
+      "D": "afasta atuação do legislador",
+      "E": "é incompatível com a CF"
+    },
+    "gabarito": "C",
+    "comentario": "Princípio reconhecido pelo STF."
+  },
+
+  {
+    "id": 191,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Constitucional",
+    "conteudo": "Ordem econômica",
+    "dificuldade": "difícil",
+    "enunciado": "A busca do pleno emprego",
+    "alternativas": {
+      "A": "é fundamento da República",
+      "B": "é objetivo fundamental",
+      "C": "é princípio da ordem econômica",
+      "D": "é cláusula pétrea",
+      "E": "é direito político"
+    },
+    "gabarito": "C",
+    "comentario": "Art. 170, VIII, CF."
+  },
+  {
+    "id": 192,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Constitucional",
+    "conteudo": "Ordem econômica",
+    "dificuldade": "difícil",
+    "enunciado": "O tratamento favorecido às microempresas",
+    "alternativas": {
+      "A": "é vedado",
+      "B": "é princípio da ordem econômica",
+      "C": "é direito individual",
+      "D": "é cláusula pétrea",
+      "E": "não possui previsão constitucional"
+    },
+    "gabarito": "B",
+    "comentario": "Art. 170, IX, CF."
+  },
+  {
+    "id": 193,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Constitucional",
+    "conteudo": "Sistema Financeiro Nacional",
+    "dificuldade": "difícil",
+    "enunciado": "A participação do capital estrangeiro no SFN",
+    "alternativas": {
+      "A": "é vedada",
+      "B": "é livre",
+      "C": "depende de lei",
+      "D": "é automática",
+      "E": "é irrestrita"
+    },
+    "gabarito": "C",
+    "comentario": "Art. 192 da CF."
+  },
+  {
+    "id": 194,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Constitucional",
+    "conteudo": "Sistema Financeiro Nacional",
+    "dificuldade": "difícil",
+    "enunciado": "O Sistema Financeiro Nacional submete-se",
+    "alternativas": {
+      "A": "à autorregulação privada",
+      "B": "apenas ao mercado",
+      "C": "aos princípios constitucionais",
+      "D": "somente à lei ordinária",
+      "E": "a normas internacionais"
+    },
+    "gabarito": "C",
+    "comentario": "Subordinação integral à CF."
+  },
+  {
+    "id": 195,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Constitucional",
+    "conteudo": "Supremacia constitucional",
+    "dificuldade": "difícil",
+    "enunciado": "A recepção de normas pré-constitucionais ocorre quando",
+    "alternativas": {
+      "A": "forem formalmente compatíveis",
+      "B": "forem materialmente compatíveis",
+      "C": "forem aprovadas pelo Congresso",
+      "D": "forem regulamentadas",
+      "E": "forem declaradas válidas"
+    },
+    "gabarito": "B",
+    "comentario": "Critério material."
+  },
+
+  {
+    "id": 196,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Constitucional",
+    "conteudo": "Controle de constitucionalidade",
+    "dificuldade": "difícil",
+    "enunciado": "A inconstitucionalidade superveniente",
+    "alternativas": {
+      "A": "é admitida",
+      "B": "é reconhecida pelo STF",
+      "C": "não é admitida",
+      "D": "é regra geral",
+      "E": "aplica-se a atos administrativos"
+    },
+    "gabarito": "C",
+    "comentario": "Norma incompatível deixa de ser recepcionada."
+  },
+  {
+    "id": 197,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Constitucional",
+    "conteudo": "Interpretação constitucional",
+    "dificuldade": "difícil",
+    "enunciado": "O princípio da concordância prática",
+    "alternativas": {
+      "A": "elimina conflitos",
+      "B": "hierarquiza direitos",
+      "C": "harmoniza valores constitucionais",
+      "D": "afasta direitos fundamentais",
+      "E": "prioriza literalidade"
+    },
+    "gabarito": "C",
+    "comentario": "Harmonização entre princípios."
+  },
+  {
+    "id": 198,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Constitucional",
+    "conteudo": "Controle de constitucionalidade",
+    "dificuldade": "difícil",
+    "enunciado": "A interpretação conforme a Constituição",
+    "alternativas": {
+      "A": "retira norma do ordenamento",
+      "B": "preserva a norma compatível",
+      "C": "cria norma nova",
+      "D": "é vedada em ADI",
+      "E": "depende do Senado"
+    },
+    "gabarito": "B",
+    "comentario": "Técnica conservadora."
+  },
+  {
+    "id": 199,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Constitucional",
+    "conteudo": "Efeitos das decisões",
+    "dificuldade": "difícil",
+    "enunciado": "As decisões definitivas de mérito em ADI",
+    "alternativas": {
+      "A": "não possuem efeito vinculante",
+      "B": "produzem efeito inter partes",
+      "C": "produzem efeito erga omnes",
+      "D": "dependem do Senado",
+      "E": "não admitem modulação"
+    },
+    "gabarito": "C",
+    "comentario": "Efeitos gerais e vinculantes."
+  },
+  {
+    "id": 200,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Constitucional",
+    "conteudo": "Direitos fundamentais",
+    "dificuldade": "difícil",
+    "enunciado": "O princípio da proporcionalidade em sentido estrito exige",
+    "alternativas": {
+      "A": "adequação do meio",
+      "B": "necessidade da medida",
+      "C": "ponderação entre custos e benefícios",
+      "D": "legalidade formal",
+      "E": "eficiência administrativa"
+    },
+    "gabarito": "C",
+    "comentario": "Balanceamento final entre sacrifícios e ganhos."
+  }
+]
+
