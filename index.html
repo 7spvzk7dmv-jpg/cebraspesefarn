@@ -1,0 +1,236 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <title>Sistema de Questões</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-gray-100 min-h-screen flex">
+
+  <!-- Sidebar -->
+  <aside class="w-64 bg-gray-900 text-white p-4 space-y-2 overflow-y-auto">
+    <h2 class="text-lg font-bold mb-4">Disciplinas</h2>
+    <button onclick="loadDiscipline('ALL')" class="disc-btn">📚 Todas</button>
+    <button onclick="loadDiscipline('port')" class="disc-btn">Português</button>
+    <button onclick="loadDiscipline('const')" class="disc-btn">Constitucional</button>
+    <button onclick="loadDiscipline('adm')" class="disc-btn">Administrativo</button>
+    <button onclick="loadDiscipline('tg')" class="disc-btn">Tributário</button>
+    <!-- Repita para as demais -->
+  </aside>
+
+  <!-- Main -->
+  <main class="flex-1 p-6 space-y-6">
+    <!-- Placar -->
+    <div class="bg-white p-4 rounded shadow flex justify-between">
+      <div>
+        <strong>Geral:</strong>
+        <span id="geral"></span>
+      </div>
+      <div>
+        <strong>Disciplina:</strong>
+        <span id="disciplina"></span>
+      </div>
+    </div>
+
+    <!-- Questão -->
+    <div id="questaoBox" class="bg-white p-6 rounded shadow space-y-4 hidden">
+      <div id="enunciado" class="font-semibold"></div>
+
+      <div id="alternativas" class="space-y-2"></div>
+
+      <button onclick="confirmar()" class="bg-blue-600 text-white px-4 py-2 rounded">
+        Confirmar
+      </button>
+
+      <button onclick="mostrarGabarito()" id="btnGabarito"
+        class="bg-gray-600 text-white px-4 py-2 rounded hidden">
+        Ver gabarito e comentário
+      </button>
+
+      <div id="feedback" class="font-semibold"></div>
+      <div id="comentario" class="text-sm text-gray-700"></div>
+    </div>
+  </main>
+
+<script>
+/* =======================
+   CONFIG
+======================= */
+const disciplinas = {
+  port: "Língua Portuguesa",
+  const: "Constitucional",
+  adm: "Administrativo",
+  tg: "Tributário"
+  // continue...
+};
+
+let questoes = [];
+let questaoAtual = null;
+let disciplinaAtual = "ALL";
+let respondeu = false;
+
+/* =======================
+   UTIL STORAGE
+======================= */
+function getStats() {
+  return JSON.parse(localStorage.getItem("stats")) || {
+    geral: { acertos: 0, erros: 0 },
+    disciplinas: {},
+    errosQuestao: {}
+  };
+}
+
+function saveStats(stats) {
+  localStorage.setItem("stats", JSON.stringify(stats));
+}
+
+/* =======================
+   LOAD QUESTÕES
+======================= */
+async function loadDiscipline(disc) {
+  disciplinaAtual = disc;
+  questoes = [];
+
+  const files = disc === "ALL"
+    ? Object.keys(disciplinas)
+    : [disc];
+
+  for (let f of files) {
+    const res = await fetch(`data/${f}.json`);
+    const data = await res.json();
+    questoes.push(...data.map(q => ({ ...q, _disc: f })));
+  }
+
+  sorteiaQuestao();
+}
+
+/* =======================
+   SORTEIO PONDERADO
+======================= */
+function sorteiaQuestao() {
+  respondeu = false;
+  document.getElementById("btnGabarito").classList.add("hidden");
+  document.getElementById("feedback").textContent = "";
+  document.getElementById("comentario").textContent = "";
+
+  const stats = getStats();
+
+  const pool = questoes.map(q => {
+    const erros = stats.errosQuestao[q.id] || 0;
+    return { q, peso: 1 + erros * 2 };
+  });
+
+  const total = pool.reduce((s, p) => s + p.peso, 0);
+  let r = Math.random() * total;
+
+  for (let p of pool) {
+    if (r < p.peso) {
+      questaoAtual = p.q;
+      break;
+    }
+    r -= p.peso;
+  }
+
+  renderQuestao();
+}
+
+/* =======================
+   RENDER
+======================= */
+function renderQuestao() {
+  document.getElementById("questaoBox").classList.remove("hidden");
+  document.getElementById("enunciado").textContent = questaoAtual.enunciado;
+
+  const altDiv = document.getElementById("alternativas");
+  altDiv.innerHTML = "";
+
+  for (let k in questaoAtual.alternativas) {
+    altDiv.innerHTML += `
+      <label class="block">
+        <input type="radio" name="alt" value="${k}">
+        <span class="ml-2">${k}) ${questaoAtual.alternativas[k]}</span>
+      </label>`;
+  }
+
+  atualizaPlacar();
+}
+
+/* =======================
+   CONFIRMAR
+======================= */
+function confirmar() {
+  if (respondeu) return;
+
+  const marcada = document.querySelector('input[name="alt"]:checked');
+  if (!marcada) return alert("Marque uma alternativa.");
+
+  respondeu = true;
+  const stats = getStats();
+  const correta = questaoAtual.gabarito;
+
+  stats.disciplinas[questaoAtual._disc] ??= { acertos: 0, erros: 0 };
+
+  if (marcada.value === correta) {
+    stats.geral.acertos++;
+    stats.disciplinas[questaoAtual._disc].acertos++;
+    document.getElementById("feedback").textContent = "✅ Correta";
+  } else {
+    stats.geral.erros++;
+    stats.disciplinas[questaoAtual._disc].erros++;
+    stats.errosQuestao[questaoAtual.id] =
+      (stats.errosQuestao[questaoAtual.id] || 0) + 1;
+
+    document.getElementById("feedback").textContent =
+      `❌ Errada (correta: ${correta})`;
+  }
+
+  saveStats(stats);
+  document.getElementById("btnGabarito").classList.remove("hidden");
+  atualizaPlacar();
+}
+
+/* =======================
+   GABARITO
+======================= */
+function mostrarGabarito() {
+  document.getElementById("comentario").textContent =
+    questaoAtual.comentario;
+}
+
+/* =======================
+   PLACAR
+======================= */
+function atualizaPlacar() {
+  const stats = getStats();
+  document.getElementById("geral").textContent =
+    `✔ ${stats.geral.acertos} | ❌ ${stats.geral.erros}`;
+
+  if (disciplinaAtual !== "ALL") {
+    const d = stats.disciplinas[disciplinaAtual] || { acertos: 0, erros: 0 };
+    document.getElementById("disciplina").textContent =
+      `✔ ${d.acertos} | ❌ ${d.erros}`;
+  } else {
+    document.getElementById("disciplina").textContent = "-";
+  }
+}
+
+/* =======================
+   INIT
+======================= */
+loadDiscipline("ALL");
+</script>
+
+<style>
+.disc-btn {
+  width: 100%;
+  background: #1f2937;
+  padding: 0.5rem;
+  border-radius: 0.375rem;
+}
+.disc-btn:hover {
+  background: #374151;
+}
+</style>
+
+</body>
+</html>

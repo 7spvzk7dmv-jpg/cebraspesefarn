@@ -1,0 +1,3466 @@
+[
+  {
+    "id": 1,
+    "banca": "CEBRASPE",
+    "disciplina": "Língua Portuguesa",
+    "conteudo": "Compreensão e interpretação de textos",
+    "dificuldade": "fácil",
+    "enunciado": "Em textos argumentativos, a tese corresponde",
+    "alternativas": {
+      "A": "à enumeração de exemplos apresentados pelo autor",
+      "B": "à opinião central defendida ao longo do texto",
+      "C": "à conclusão final do texto",
+      "D": "ao tema abordado de forma neutra",
+      "E": "ao resumo das ideias secundárias"
+    },
+    "gabarito": "B",
+    "comentario": "A tese é a posição principal do autor, defendida por argumentos ao longo do texto."
+  },
+  {
+    "id": 2,
+    "banca": "CEBRASPE",
+    "disciplina": "Língua Portuguesa",
+    "conteudo": "Tipos e gêneros textuais",
+    "dificuldade": "fácil",
+    "enunciado": "O gênero textual que tem por finalidade orientar procedimentos é o",
+    "alternativas": {
+      "A": "editorial",
+      "B": "artigo de opinião",
+      "C": "manual de instruções",
+      "D": "conto",
+      "E": "crônica"
+    },
+    "gabarito": "C",
+    "comentario": "Manuais têm função instrucional, característica essencial do gênero."
+  },
+  {
+    "id": 3,
+    "banca": "CEBRASPE",
+    "disciplina": "Língua Portuguesa",
+    "conteudo": "Ortografia oficial",
+    "dificuldade": "média",
+    "enunciado": "Assinale a alternativa cujas palavras estão todas grafadas corretamente.",
+    "alternativas": {
+      "A": "idéia, assembléia, heróico",
+      "B": "plateia, heroico, voo",
+      "C": "anti-social, auto-escola, micro-ondas",
+      "D": "infra-estrutura, co-autor, antiinflamatório",
+      "E": "auto-estima, antiinflamatório, microondas"
+    },
+    "gabarito": "B",
+    "comentario": "Após o Acordo Ortográfico, desapareceram o acento em ditongos abertos e vários hífens."
+  },
+  {
+    "id": 4,
+    "banca": "CEBRASPE",
+    "disciplina": "Língua Portuguesa",
+    "conteudo": "Coesão textual – conectores",
+    "dificuldade": "fácil",
+    "enunciado": "O conector (contudo) expressa relação de",
+    "alternativas": {
+      "A": "causa",
+      "B": "conclusão",
+      "C": "adição",
+      "D": "oposição",
+      "E": "finalidade"
+    },
+    "gabarito": "D",
+    "comentario": "“Contudo” é conjunção adversativa, indicando contraste."
+  },
+  {
+    "id": 5,
+    "banca": "CEBRASPE",
+    "disciplina": "Língua Portuguesa",
+    "conteudo": "Emprego de tempos verbais",
+    "dificuldade": "média",
+    "enunciado": "O pretérito imperfeito do indicativo expressa, em regra, ação",
+    "alternativas": {
+      "A": "pontual e concluída",
+      "B": "hipotética",
+      "C": "habitual ou contínua no passado",
+      "D": "futura em relação ao passado",
+      "E": "condicionada a outra ação"
+    },
+    "gabarito": "C",
+    "comentario": "É usado para ações repetidas ou em desenvolvimento no passado."
+  },
+
+  {
+    "id": 6,
+    "banca": "CEBRASPE",
+    "disciplina": "Língua Portuguesa",
+    "conteudo": "Classes de palavras",
+    "dificuldade": "média",
+    "enunciado": "Na frase (Os servidores permaneceram atentos), a palavra (atentos) exerce função de",
+    "alternativas": {
+      "A": "substantivo",
+      "B": "advérbio",
+      "C": "adjetivo",
+      "D": "verbo",
+      "E": "pronome"
+    },
+    "gabarito": "C",
+    "comentario": "Caracteriza o substantivo 'servidores', logo é adjetivo."
+  },
+
+  {
+    "id": 7,
+    "banca": "CEBRASPE",
+    "disciplina": "Língua Portuguesa",
+    "conteudo": "Coordenação e subordinação",
+    "dificuldade": "média",
+    "enunciado": "A oração introduzida por 'embora' é classificada como",
+    "alternativas": {
+      "A": "coordenada explicativa",
+      "B": "subordinada causal",
+      "C": "subordinada concessiva",
+      "D": "subordinada final",
+      "E": "coordenada adversativa"
+    },
+    "gabarito": "C",
+    "comentario": "“Embora” introduz oração concessiva."
+  },
+
+  {
+    "id": 8,
+    "banca": "CEBRASPE",
+    "disciplina": "Língua Portuguesa",
+    "conteudo": "Pontuação",
+    "dificuldade": "difícil",
+    "enunciado": "O uso da vírgula é obrigatório em",
+    "alternativas": {
+      "A": "sujeito e predicado",
+      "B": "orações subordinadas substantivas",
+      "C": "orações adjetivas restritivas",
+      "D": "orações coordenadas assindéticas",
+      "E": "predicativo do sujeito"
+    },
+    "gabarito": "D",
+    "comentario": "Orações coordenadas sem conjunção devem ser separadas por vírgula."
+  },
+
+  {
+    "id": 9,
+    "banca": "CEBRASPE",
+    "disciplina": "Língua Portuguesa",
+    "conteudo": "Concordância verbal",
+    "dificuldade": "difícil",
+    "enunciado": "Em 'Mais de um servidor faltou à reunião', o verbo está no singular porque",
+    "alternativas": {
+      "A": "o núcleo do sujeito é plural",
+      "B": "há atração pelo predicativo",
+      "C": "a expressão 'mais de um' exige singular",
+      "D": "o verbo é impessoal",
+      "E": "trata-se de voz passiva"
+    },
+    "gabarito": "C",
+    "comentario": "Com 'mais de um', a concordância padrão é no singular."
+  },
+
+  {
+    "id": 10,
+    "banca": "CEBRASPE",
+    "disciplina": "Língua Portuguesa",
+    "conteudo": "Regência verbal",
+    "dificuldade": "média",
+    "enunciado": "O verbo 'assistir', no sentido de 'ver', rege a preposição",
+    "alternativas": {
+      "A": "a",
+      "B": "em",
+      "C": "de",
+      "D": "por",
+      "E": "com"
+    },
+    "gabarito": "A",
+    "comentario": "No sentido de ver, 'assistir' é transitivo indireto e exige 'a'."
+  }
+
+  /* Questões 11 a 50 seguem o mesmo padrão, cobrindo:
+     - crase
+     - colocação pronominal
+     - reescrita
+     - equivalência semântica
+     - substituição vocabular
+     - reorganização sintática
+     - gêneros e níveis de formalidade
+  */
+]
+
+[
+  {
+    "id": 11,
+    "banca": "CEBRASPE",
+    "disciplina": "Língua Portuguesa",
+    "conteudo": "Crase",
+    "dificuldade": "média",
+    "enunciado": "Assinale a alternativa em que o uso do acento indicativo de crase é obrigatório.",
+    "alternativas": {
+      "A": "Entregou o relatório a diretoria.",
+      "B": "Referiu-se a situações delicadas.",
+      "C": "Dirigiu-se à autoridade competente.",
+      "D": "Chegou a tarde ao trabalho.",
+      "E": "Foi a Roma em missão oficial."
+    },
+    "gabarito": "C",
+    "comentario": "Há fusão de preposição exigida pelo verbo com artigo feminino definido."
+  },
+  {
+    "id": 12,
+    "banca": "CEBRASPE",
+    "disciplina": "Língua Portuguesa",
+    "conteudo": "Colocação pronominal",
+    "dificuldade": "difícil",
+    "enunciado": "Segundo a norma-padrão, está correta a colocação do pronome em",
+    "alternativas": {
+      "A": "Não diga-me isso.",
+      "B": "Sempre lembro-me do fato.",
+      "C": "Jamais se esquecerá do ocorrido.",
+      "D": "Expliquei-lhe ontem o problema.",
+      "E": "Faria-me o favor?"
+    },
+    "gabarito": "D",
+    "comentario": "Após verbo no início da oração, admite-se ênclise; as demais violam regra de próclise."
+  },
+  {
+    "id": 13,
+    "banca": "CEBRASPE",
+    "disciplina": "Língua Portuguesa",
+    "conteudo": "Concordância nominal",
+    "dificuldade": "média",
+    "enunciado": "Está correta a concordância em",
+    "alternativas": {
+      "A": "É proibida a entrada.",
+      "B": "É proibido as entradas.",
+      "C": "Segue anexo os documentos.",
+      "D": "Estavam meio cansadas.",
+      "E": "Ficaram bastante satisfeito."
+    },
+    "gabarito": "A",
+    "comentario": "Quando o predicativo é adjetivo, concorda com o sujeito explícito."
+  },
+  {
+    "id": 14,
+    "banca": "CEBRASPE",
+    "disciplina": "Língua Portuguesa",
+    "conteudo": "Regência nominal",
+    "dificuldade": "difícil",
+    "enunciado": "O substantivo que exige a preposição 'a' é",
+    "alternativas": {
+      "A": "amor",
+      "B": "respeito",
+      "C": "necessidade",
+      "D": "aversão",
+      "E": "orgulho"
+    },
+    "gabarito": "B",
+    "comentario": "Diz-se respeito a algo ou alguém."
+  },
+  {
+    "id": 15,
+    "banca": "CEBRASPE",
+    "disciplina": "Língua Portuguesa",
+    "conteudo": "Pontuação",
+    "dificuldade": "difícil",
+    "enunciado": "A vírgula está corretamente empregada em",
+    "alternativas": {
+      "A": "Os auditores, analisaram o processo.",
+      "B": "Os servidores que faltaram, serão advertidos.",
+      "C": "O relatório foi aprovado, embora com ressalvas.",
+      "D": "Chegando ao órgão, foi protocolado o pedido.",
+      "E": "O gestor pediu, providências imediatas."
+    },
+    "gabarito": "C",
+    "comentario": "A vírgula isola oração subordinada adverbial concessiva deslocada."
+  },
+  {
+    "id": 16,
+    "banca": "CEBRASPE",
+    "disciplina": "Língua Portuguesa",
+    "conteudo": "Emprego verbal",
+    "dificuldade": "média",
+    "enunciado": "O futuro do pretérito expressa, corretamente, ideia de",
+    "alternativas": {
+      "A": "certeza",
+      "B": "hipótese",
+      "C": "ordem",
+      "D": "tempo presente",
+      "E": "ação habitual"
+    },
+    "gabarito": "B",
+    "comentario": "É usado para ações condicionadas ou hipotéticas."
+  },
+  {
+    "id": 17,
+    "banca": "CEBRASPE",
+    "disciplina": "Língua Portuguesa",
+    "conteudo": "Classes de palavras",
+    "dificuldade": "média",
+    "enunciado": "A palavra 'mesmo' exerce função pronominal em",
+    "alternativas": {
+      "A": "Ele mesmo assinou.",
+      "B": "O resultado foi o mesmo.",
+      "C": "Chegou mesmo atrasado.",
+      "D": "A decisão é mesmo correta.",
+      "E": "Mesmo cansado, continuou."
+    },
+    "gabarito": "A",
+    "comentario": "Substitui o substantivo, funcionando como pronome enfático."
+  },
+  {
+    "id": 18,
+    "banca": "CEBRASPE",
+    "disciplina": "Língua Portuguesa",
+    "conteudo": "Coordenação",
+    "dificuldade": "fácil",
+    "enunciado": "A conjunção 'logo' introduz ideia de",
+    "alternativas": {
+      "A": "adição",
+      "B": "conclusão",
+      "C": "explicação",
+      "D": "oposição",
+      "E": "alternância"
+    },
+    "gabarito": "B",
+    "comentario": "‘Logo’ é conjunção conclusiva."
+  },
+  {
+    "id": 19,
+    "banca": "CEBRASPE",
+    "disciplina": "Língua Portuguesa",
+    "conteudo": "Subordinação",
+    "dificuldade": "média",
+    "enunciado": "A oração 'que o processo fosse arquivado' é",
+    "alternativas": {
+      "A": "adjetiva explicativa",
+      "B": "substantiva objetiva direta",
+      "C": "substantiva subjetiva",
+      "D": "adverbial causal",
+      "E": "adjetiva restritiva"
+    },
+    "gabarito": "B",
+    "comentario": "Funciona como objeto direto do verbo da oração principal."
+  },
+  {
+    "id": 20,
+    "banca": "CEBRASPE",
+    "disciplina": "Língua Portuguesa",
+    "conteudo": "Semântica",
+    "dificuldade": "média",
+    "enunciado": "A palavra 'ratificar' tem sentido oposto a",
+    "alternativas": {
+      "A": "confirmar",
+      "B": "validar",
+      "C": "anular",
+      "D": "homologar",
+      "E": "aprovar"
+    },
+    "gabarito": "C",
+    "comentario": "Ratificar é confirmar; anular é o antônimo."
+  },
+
+  {
+    "id": 21,
+    "banca": "CEBRASPE",
+    "disciplina": "Língua Portuguesa",
+    "conteudo": "Reescrita de frases",
+    "dificuldade": "difícil",
+    "enunciado": "Mantém-se o sentido original ao reescrever-se 'Embora estivesse cansado, trabalhou' como",
+    "alternativas": {
+      "A": "Trabalhou porque estava cansado.",
+      "B": "Trabalhou, ainda que estivesse cansado.",
+      "C": "Trabalhou quando estava cansado.",
+      "D": "Trabalhou se estivesse cansado.",
+      "E": "Trabalhou conforme estava cansado."
+    },
+    "gabarito": "B",
+    "comentario": "‘Ainda que’ preserva a ideia concessiva."
+  },
+
+  {
+    "id": 22,
+    "banca": "CEBRASPE",
+    "disciplina": "Língua Portuguesa",
+    "conteudo": "Equivalência textual",
+    "dificuldade": "difícil",
+    "enunciado": "A substituição que altera o sentido do período é",
+    "alternativas": {
+      "A": "Todavia por entretanto",
+      "B": "Porque por pois",
+      "C": "Além disso por ademais",
+      "D": "Logo por portanto",
+      "E": "Apesar de por em virtude de"
+    },
+    "gabarito": "E",
+    "comentario": "‘Apesar de’ é concessivo; ‘em virtude de’ é causal."
+  },
+
+  {
+    "id": 23,
+    "banca": "CEBRASPE",
+    "disciplina": "Língua Portuguesa",
+    "conteudo": "Gêneros textuais",
+    "dificuldade": "fácil",
+    "enunciado": "O gênero textual predominante em leis e decretos é",
+    "alternativas": {
+      "A": "narrativo",
+      "B": "descritivo",
+      "C": "argumentativo",
+      "D": "injuntivo",
+      "E": "expositivo"
+    },
+    "gabarito": "D",
+    "comentario": "Textos normativos têm caráter injuntivo."
+  },
+
+  {
+    "id": 24,
+    "banca": "CEBRASPE",
+    "disciplina": "Língua Portuguesa",
+    "conteudo": "Níveis de formalidade",
+    "dificuldade": "média",
+    "enunciado": "É inadequada à redação oficial a expressão",
+    "alternativas": {
+      "A": "dessa forma",
+      "B": "em face do exposto",
+      "C": "assim sendo",
+      "D": "a gente verificou",
+      "E": "nesse contexto"
+    },
+    "gabarito": "D",
+    "comentario": "‘A gente’ é coloquial e inadequado à norma culta formal."
+  },
+
+  {
+    "id": 25,
+    "banca": "CEBRASPE",
+    "disciplina": "Língua Portuguesa",
+    "conteudo": "Colocação pronominal",
+    "dificuldade": "difícil",
+    "enunciado": "Está correta a próclise em",
+    "alternativas": {
+      "A": "Entregarei-lhe o documento.",
+      "B": "Não se esqueça do prazo.",
+      "C": "Fizeram-me um pedido.",
+      "D": "Dir-lhe-ei a verdade.",
+      "E": "Explicou-me tudo."
+    },
+    "gabarito": "B",
+    "comentario": "Palavra negativa exige próclise."
+  }
+
+  /* Questões 26 a 50 seguem o mesmo rigor técnico e completam:
+     - concordância especial
+     - crase facultativa/proibida
+     - pontuação em períodos complexos
+     - reescrita com preservação semântica
+     - análise sintática avançada
+     (serão entregues no próximo bloco, mantendo IDs sequenciais) */
+]
+[
+  {
+    "id": 26,
+    "banca": "CEBRASPE",
+    "disciplina": "Língua Portuguesa",
+    "conteudo": "Concordância verbal",
+    "dificuldade": "difícil",
+    "enunciado": "Em 'Cerca de 30% dos processos foi arquivado', a concordância verbal está",
+    "alternativas": {
+      "A": "incorreta, pois o verbo deveria ir para o plural",
+      "B": "correta, pois o verbo concorda com o numeral",
+      "C": "incorreta, pois o verbo deveria concordar com 'processos'",
+      "D": "correta, pois a concordância é facultativa",
+      "E": "incorreta, pois se trata de sujeito indeterminado"
+    },
+    "gabarito": "D",
+    "comentario": "Com expressões percentuais, a concordância pode ser feita com o numeral ou com o substantivo."
+  },
+  {
+    "id": 27,
+    "banca": "CEBRASPE",
+    "disciplina": "Língua Portuguesa",
+    "conteudo": "Crase",
+    "dificuldade": "difícil",
+    "enunciado": "O uso do acento indicativo de crase é proibido em",
+    "alternativas": {
+      "A": "à medida que o processo avança",
+      "B": "àquele servidor designado",
+      "C": "à tarde realizaremos a reunião",
+      "D": "à custa de esforço coletivo",
+      "E": "à distância mínima exigida"
+    },
+    "gabarito": "C",
+    "comentario": "Não há crase antes de palavras masculinas; 'tarde' aqui funciona como advérbio."
+  },
+  {
+    "id": 28,
+    "banca": "CEBRASPE",
+    "disciplina": "Língua Portuguesa",
+    "conteudo": "Regência verbal",
+    "dificuldade": "média",
+    "enunciado": "O verbo que admite dupla regência, com alteração de sentido, é",
+    "alternativas": {
+      "A": "obedecer",
+      "B": "aspirar",
+      "C": "assistir",
+      "D": "simpatizar",
+      "E": "preferir"
+    },
+    "gabarito": "B",
+    "comentario": "‘Aspirar’ pode significar respirar (TD) ou almejar (TI)."
+  },
+  {
+    "id": 29,
+    "banca": "CEBRASPE",
+    "disciplina": "Língua Portuguesa",
+    "conteudo": "Pontuação",
+    "dificuldade": "difícil",
+    "enunciado": "Está correta a pontuação em",
+    "alternativas": {
+      "A": "Os relatórios que foram enviados ontem, serão analisados.",
+      "B": "Os gestores, ao final da reunião decidiram pelo adiamento.",
+      "C": "Os servidores que compareceram à sessão foram ouvidos.",
+      "D": "O auditor ao analisar o processo, identificou falhas.",
+      "E": "A comissão, deliberou sobre o mérito."
+    },
+    "gabarito": "C",
+    "comentario": "Orações adjetivas restritivas não devem ser isoladas por vírgulas."
+  },
+  {
+    "id": 30,
+    "banca": "CEBRASPE",
+    "disciplina": "Língua Portuguesa",
+    "conteudo": "Colocação pronominal",
+    "dificuldade": "difícil",
+    "enunciado": "Segundo a norma-padrão, está correta a colocação do pronome em",
+    "alternativas": {
+      "A": "Nunca esqueço-me do prazo.",
+      "B": "Entregarei-lhe amanhã os autos.",
+      "C": "Se dirá a verdade ao gestor.",
+      "D": "Explicou-se tudo claramente.",
+      "E": "Me informaram sobre a decisão."
+    },
+    "gabarito": "B",
+    "comentario": "Futuro do presente admite ênclise quando não há fator de próclise."
+  },
+  {
+    "id": 31,
+    "banca": "CEBRASPE",
+    "disciplina": "Língua Portuguesa",
+    "conteudo": "Classes de palavras",
+    "dificuldade": "média",
+    "enunciado": "Na frase 'O controle externo é essencial', a palavra 'externo' é",
+    "alternativas": {
+      "A": "substantivo",
+      "B": "advérbio",
+      "C": "adjetivo",
+      "D": "pronome",
+      "E": "verbo"
+    },
+    "gabarito": "C",
+    "comentario": "Caracteriza o substantivo 'controle'."
+  },
+  {
+    "id": 32,
+    "banca": "CEBRASPE",
+    "disciplina": "Língua Portuguesa",
+    "conteudo": "Subordinação",
+    "dificuldade": "média",
+    "enunciado": "A oração 'quando o relatório foi concluído' é",
+    "alternativas": {
+      "A": "subordinada substantiva",
+      "B": "subordinada adjetiva",
+      "C": "subordinada adverbial temporal",
+      "D": "coordenada explicativa",
+      "E": "coordenada adversativa"
+    },
+    "gabarito": "C",
+    "comentario": "Introduz circunstância de tempo."
+  },
+  {
+    "id": 33,
+    "banca": "CEBRASPE",
+    "disciplina": "Língua Portuguesa",
+    "conteudo": "Semântica",
+    "dificuldade": "média",
+    "enunciado": "A palavra que melhor substitui 'mitigar', sem alterar o sentido, é",
+    "alternativas": {
+      "A": "agravar",
+      "B": "reduzir",
+      "C": "eliminar",
+      "D": "adiar",
+      "E": "anular"
+    },
+    "gabarito": "B",
+    "comentario": "Mitigar significa atenuar, diminuir."
+  },
+  {
+    "id": 34,
+    "banca": "CEBRASPE",
+    "disciplina": "Língua Portuguesa",
+    "conteudo": "Reescrita",
+    "dificuldade": "difícil",
+    "enunciado": "Preserva-se o sentido original ao reescrever 'Somente após a análise o processo foi arquivado' como",
+    "alternativas": {
+      "A": "O processo foi arquivado antes da análise.",
+      "B": "A análise ocorreu após o arquivamento.",
+      "C": "O processo só foi arquivado depois da análise.",
+      "D": "O arquivamento dispensou análise.",
+      "E": "A análise ocorreu simultaneamente ao arquivamento."
+    },
+    "gabarito": "C",
+    "comentario": "Mantém-se a relação temporal e a restrição expressa por 'somente'."
+  },
+  {
+    "id": 35,
+    "banca": "CEBRASPE",
+    "disciplina": "Língua Portuguesa",
+    "conteudo": "Gêneros textuais",
+    "dificuldade": "fácil",
+    "enunciado": "O gênero textual predominante em pareceres técnicos é",
+    "alternativas": {
+      "A": "narrativo",
+      "B": "injuntivo",
+      "C": "argumentativo",
+      "D": "descritivo",
+      "E": "literário"
+    },
+    "gabarito": "C",
+    "comentario": "Pareceres defendem conclusões com base em argumentos técnicos."
+  },
+  {
+    "id": 36,
+    "banca": "CEBRASPE",
+    "disciplina": "Língua Portuguesa",
+    "conteudo": "Concordância nominal",
+    "dificuldade": "difícil",
+    "enunciado": "Está correta a concordância em",
+    "alternativas": {
+      "A": "Seguem incluso os anexos.",
+      "B": "É necessário cautela.",
+      "C": "Foram bastante produtivas as reuniões.",
+      "D": "Estavam meio preocupados.",
+      "E": "Ficou proibida entradas."
+    },
+    "gabarito": "C",
+    "comentario": "‘Bastante’ é advérbio e permanece invariável."
+  },
+  {
+    "id": 37,
+    "banca": "CEBRASPE",
+    "disciplina": "Língua Portuguesa",
+    "conteudo": "Regência nominal",
+    "dificuldade": "média",
+    "enunciado": "O adjetivo que exige a preposição 'com' é",
+    "alternativas": {
+      "A": "apto",
+      "B": "favorável",
+      "C": "compatível",
+      "D": "contrário",
+      "E": "avesso"
+    },
+    "gabarito": "C",
+    "comentario": "Diz-se compatível com algo."
+  },
+  {
+    "id": 38,
+    "banca": "CEBRASPE",
+    "disciplina": "Língua Portuguesa",
+    "conteudo": "Pontuação",
+    "dificuldade": "difícil",
+    "enunciado": "A vírgula é obrigatória em",
+    "alternativas": {
+      "A": "orações subordinadas substantivas",
+      "B": "orações coordenadas sindéticas",
+      "C": "orações adjetivas restritivas",
+      "D": "orações coordenadas assindéticas",
+      "E": "predicativo do objeto"
+    },
+    "gabarito": "D",
+    "comentario": "Orações coordenadas sem conjunção exigem vírgula."
+  },
+  {
+    "id": 39,
+    "banca": "CEBRASPE",
+    "disciplina": "Língua Portuguesa",
+    "conteudo": "Colocação pronominal",
+    "dificuldade": "difícil",
+    "enunciado": "Está correta a mesóclise em",
+    "alternativas": {
+      "A": "Não dir-lhe-ei a verdade.",
+      "B": "Dir-lhe-ei a verdade amanhã.",
+      "C": "Nunca explicar-lhe-ei o fato.",
+      "D": "Já lhe direi a decisão.",
+      "E": "Sempre dir-lhe-ei a verdade."
+    },
+    "gabarito": "B",
+    "comentario": "Mesóclise ocorre com futuro do presente sem fator de próclise."
+  },
+  {
+    "id": 40,
+    "banca": "CEBRASPE",
+    "disciplina": "Língua Portuguesa",
+    "conteudo": "Semântica",
+    "dificuldade": "média",
+    "enunciado": "A expressão 'em tese' significa",
+    "alternativas": {
+      "A": "na prática",
+      "B": "de modo definitivo",
+      "C": "em teoria",
+      "D": "sem exceção",
+      "E": "com urgência"
+    },
+    "gabarito": "C",
+    "comentario": "Indica hipótese teórica, não necessariamente confirmada."
+  },
+  {
+    "id": 41,
+    "banca": "CEBRASPE",
+    "disciplina": "Língua Portuguesa",
+    "conteudo": "Reescrita",
+    "dificuldade": "difícil",
+    "enunciado": "Sem alteração de sentido, 'Tendo em vista o atraso, a sessão foi suspensa' pode ser reescrito como",
+    "alternativas": {
+      "A": "Embora houvesse atraso, a sessão foi suspensa.",
+      "B": "Em razão do atraso, a sessão foi suspensa.",
+      "C": "Se houvesse atraso, a sessão seria suspensa.",
+      "D": "Apesar do atraso, a sessão foi mantida.",
+      "E": "A sessão foi suspensa antes do atraso."
+    },
+    "gabarito": "B",
+    "comentario": "Preserva-se a relação causal."
+  },
+  {
+    "id": 42,
+    "banca": "CEBRASPE",
+    "disciplina": "Língua Portuguesa",
+    "conteudo": "Coesão textual",
+    "dificuldade": "média",
+    "enunciado": "O termo 'nesse sentido' estabelece relação de",
+    "alternativas": {
+      "A": "oposição",
+      "B": "tempo",
+      "C": "conclusão",
+      "D": "explicação",
+      "E": "retomada argumentativa"
+    },
+    "gabarito": "E",
+    "comentario": "Retoma argumento anterior, avançando a ideia."
+  },
+  {
+    "id": 43,
+    "banca": "CEBRASPE",
+    "disciplina": "Língua Portuguesa",
+    "conteudo": "Concordância verbal",
+    "dificuldade": "difícil",
+    "enunciado": "Em 'Fui eu quem elaborou o relatório', a concordância está",
+    "alternativas": {
+      "A": "incorreta",
+      "B": "correta, pois o verbo concorda com 'quem'",
+      "C": "incorreta, pois deveria concordar com 'eu'",
+      "D": "facultativa",
+      "E": "condicionada ao tempo verbal"
+    },
+    "gabarito": "B",
+    "comentario": "Com 'quem', o verbo fica no singular."
+  },
+  {
+    "id": 44,
+    "banca": "CEBRASPE",
+    "disciplina": "Língua Portuguesa",
+    "conteudo": "Crase",
+    "dificuldade": "difícil",
+    "enunciado": "O uso da crase é facultativo em",
+    "alternativas": {
+      "A": "àquela decisão",
+      "B": "à noite",
+      "C": "à moda antiga",
+      "D": "à senhora gestora",
+      "E": "à própria comissão"
+    },
+    "gabarito": "D",
+    "comentario": "Antes de pronomes possessivos femininos, a crase é facultativa."
+  },
+  {
+    "id": 45,
+    "banca": "CEBRASPE",
+    "disciplina": "Língua Portuguesa",
+    "conteudo": "Pontuação",
+    "dificuldade": "difícil",
+    "enunciado": "A supressão da vírgula não altera o sentido em",
+    "alternativas": {
+      "A": "Os gestores, presentes na sessão, votaram.",
+      "B": "Os servidores que faltaram foram advertidos.",
+      "C": "O relatório, que foi aprovado, seguiu.",
+      "D": "A comissão, ao final, decidiu.",
+      "E": "O auditor, experiente, analisou."
+    },
+    "gabarito": "B",
+    "comentario": "Oração adjetiva restritiva não exige vírgula."
+  },
+  {
+    "id": 46,
+    "banca": "CEBRASPE",
+    "disciplina": "Língua Portuguesa",
+    "conteudo": "Semântica",
+    "dificuldade": "média",
+    "enunciado": "A palavra 'oneroso' significa",
+    "alternativas": {
+      "A": "vantajoso",
+      "B": "gratuito",
+      "C": "custoso",
+      "D": "simples",
+      "E": "ineficaz"
+    },
+    "gabarito": "C",
+    "comentario": "Oneroso indica algo que gera custo."
+  },
+  {
+    "id": 47,
+    "banca": "CEBRASPE",
+    "disciplina": "Língua Portuguesa",
+    "conteudo": "Reescrita",
+    "dificuldade": "difícil",
+    "enunciado": "Mantém o sentido de 'O processo só será concluído se houver manifestação' a forma",
+    "alternativas": {
+      "A": "O processo será concluído mesmo sem manifestação.",
+      "B": "A manifestação impede a conclusão do processo.",
+      "C": "Sem manifestação, o processo não será concluído.",
+      "D": "A conclusão independe de manifestação.",
+      "E": "O processo já foi concluído."
+    },
+    "gabarito": "C",
+    "comentario": "Preserva-se a condição necessária."
+  },
+  {
+    "id": 48,
+    "banca": "CEBRASPE",
+    "disciplina": "Língua Portuguesa",
+    "conteudo": "Gêneros textuais",
+    "dificuldade": "fácil",
+    "enunciado": "O gênero textual típico de comunicações internas formais é",
+    "alternativas": {
+      "A": "artigo",
+      "B": "memorando",
+      "C": "crônica",
+      "D": "editorial",
+      "E": "conto"
+    },
+    "gabarito": "B",
+    "comentario": "Memorando é gênero administrativo interno."
+  },
+  {
+    "id": 49,
+    "banca": "CEBRASPE",
+    "disciplina": "Língua Portuguesa",
+    "conteudo": "Níveis de formalidade",
+    "dificuldade": "média",
+    "enunciado": "É adequada à redação oficial a forma",
+    "alternativas": {
+      "A": "a gente constatou",
+      "B": "foi tipo assim",
+      "C": "verificou-se a irregularidade",
+      "D": "tá tudo certo",
+      "E": "pra fins de análise"
+    },
+    "gabarito": "C",
+    "comentario": "Uso de impessoalidade e norma culta."
+  },
+  {
+    "id": 50,
+    "banca": "CEBRASPE",
+    "disciplina": "Língua Portuguesa",
+    "conteudo": "Coesão textual",
+    "dificuldade": "difícil",
+    "enunciado": "O emprego de 'por conseguinte' indica relação de",
+    "alternativas": {
+      "A": "oposição",
+      "B": "explicação",
+      "C": "conclusão",
+      "D": "condição",
+      "E": "exemplificação"
+    },
+    "gabarito": "C",
+    "comentario": "Conector conclusivo clássico da norma formal."
+  }
+]
+
+[
+  {
+    "id": 51,
+    "banca": "CEBRASPE",
+    "disciplina": "Língua Portuguesa",
+    "conteudo": "Compreensão textual",
+    "dificuldade": "média",
+    "enunciado": "Em textos dissertativo-argumentativos, os argumentos servem para",
+    "alternativas": {
+      "A": "relatar fatos de forma imparcial",
+      "B": "comprovar a tese defendida",
+      "C": "introduzir o tema",
+      "D": "encerrar o texto",
+      "E": "enumerar dados sem análise"
+    },
+    "gabarito": "B",
+    "comentario": "Argumentos fundamentam e sustentam a tese."
+  },
+  {
+    "id": 52,
+    "banca": "CEBRASPE",
+    "disciplina": "Língua Portuguesa",
+    "conteudo": "Coesão textual",
+    "dificuldade": "média",
+    "enunciado": "O termo 'além disso' estabelece relação de",
+    "alternativas": {
+      "A": "oposição",
+      "B": "conclusão",
+      "C": "adição",
+      "D": "explicação",
+      "E": "condição"
+    },
+    "gabarito": "C",
+    "comentario": "Conector aditivo."
+  },
+  {
+    "id": 53,
+    "banca": "CEBRASPE",
+    "disciplina": "Língua Portuguesa",
+    "conteudo": "Ortografia",
+    "dificuldade": "média",
+    "enunciado": "Assinale a alternativa correta quanto à grafia.",
+    "alternativas": {
+      "A": "antiinflamatório",
+      "B": "auto-escola",
+      "C": "micro-ondas",
+      "D": "infraestrutura",
+      "E": "co-autor"
+    },
+    "gabarito": "D",
+    "comentario": "Composição sem hífen conforme o Acordo Ortográfico."
+  },
+  {
+    "id": 54,
+    "banca": "CEBRASPE",
+    "disciplina": "Língua Portuguesa",
+    "conteudo": "Emprego verbal",
+    "dificuldade": "difícil",
+    "enunciado": "O uso do presente do indicativo pode expressar",
+    "alternativas": {
+      "A": "ação futura hipotética",
+      "B": "ação habitual ou verdade universal",
+      "C": "ação concluída no passado",
+      "D": "ordem direta",
+      "E": "condição improvável"
+    },
+    "gabarito": "B",
+    "comentario": "Presente gnômico ou habitual."
+  },
+  {
+    "id": 55,
+    "banca": "CEBRASPE",
+    "disciplina": "Língua Portuguesa",
+    "conteudo": "Classes de palavras",
+    "dificuldade": "média",
+    "enunciado": "Em 'É necessário que haja cautela', a palavra 'necessário' é",
+    "alternativas": {
+      "A": "substantivo",
+      "B": "verbo",
+      "C": "adjetivo",
+      "D": "advérbio",
+      "E": "pronome"
+    },
+    "gabarito": "C",
+    "comentario": "Predicativo do sujeito oracional."
+  },
+  {
+    "id": 56,
+    "banca": "CEBRASPE",
+    "disciplina": "Língua Portuguesa",
+    "conteudo": "Concordância verbal",
+    "dificuldade": "difícil",
+    "enunciado": "Está correta a concordância em",
+    "alternativas": {
+      "A": "Fazem cinco anos da auditoria.",
+      "B": "Houveram irregularidades.",
+      "C": "Existem necessidade de ajustes.",
+      "D": "Havia muitos processos pendentes.",
+      "E": "Devem haver providências."
+    },
+    "gabarito": "D",
+    "comentario": "‘Haver’ no sentido existencial é impessoal; ‘havia’ está correto."
+  },
+  {
+    "id": 57,
+    "banca": "CEBRASPE",
+    "disciplina": "Língua Portuguesa",
+    "conteudo": "Regência verbal",
+    "dificuldade": "média",
+    "enunciado": "O verbo que exige preposição 'em' é",
+    "alternativas": {
+      "A": "assistir (ver)",
+      "B": "preferir",
+      "C": "chegar",
+      "D": "obedecer",
+      "E": "implicar"
+    },
+    "gabarito": "C",
+    "comentario": "Chegar rege a preposição 'a', mas admite 'em' em registros menos formais; Cebraspe cobra a exceção contextual."
+  },
+  {
+    "id": 58,
+    "banca": "CEBRASPE",
+    "disciplina": "Língua Portuguesa",
+    "conteudo": "Pontuação",
+    "dificuldade": "difícil",
+    "enunciado": "A vírgula é inadequada em",
+    "alternativas": {
+      "A": "Os relatórios aprovados foram arquivados.",
+      "B": "Os relatórios, aprovados, foram arquivados.",
+      "C": "Os servidores que faltaram foram advertidos.",
+      "D": "O auditor experiente analisou.",
+      "E": "A comissão decidiu rapidamente."
+    },
+    "gabarito": "B",
+    "comentario": "Oração adjetiva restritiva não deve ser isolada."
+  },
+  {
+    "id": 59,
+    "banca": "CEBRASPE",
+    "disciplina": "Língua Portuguesa",
+    "conteudo": "Crase",
+    "dificuldade": "difícil",
+    "enunciado": "Está correto o emprego da crase em",
+    "alternativas": {
+      "A": "à longo prazo",
+      "B": "à partir de hoje",
+      "C": "à vista do exposto",
+      "D": "à pé",
+      "E": "à caráter excepcional"
+    },
+    "gabarito": "C",
+    "comentario": "Locução prepositiva feminina."
+  },
+  {
+    "id": 60,
+    "banca": "CEBRASPE",
+    "disciplina": "Língua Portuguesa",
+    "conteudo": "Colocação pronominal",
+    "dificuldade": "difícil",
+    "enunciado": "Está correta a colocação do pronome em",
+    "alternativas": {
+      "A": "Sempre entregarei-lhe os autos.",
+      "B": "Não entregarei-lhe os autos.",
+      "C": "Entregar-lhe-ei os autos amanhã.",
+      "D": "Jamais entregarei-lhe os autos.",
+      "E": "Me entregaram os autos."
+    },
+    "gabarito": "C",
+    "comentario": "Mesóclise com futuro do presente sem fator de próclise."
+  },
+
+  {
+    "id": 61,
+    "banca": "CEBRASPE",
+    "disciplina": "Língua Portuguesa",
+    "conteudo": "Semântica",
+    "dificuldade": "média",
+    "enunciado": "A palavra 'premente' significa",
+    "alternativas": {
+      "A": "dispensável",
+      "B": "urgente",
+      "C": "eventual",
+      "D": "supérfluo",
+      "E": "secundário"
+    },
+    "gabarito": "B",
+    "comentario": "Vocábulo frequente em textos administrativos."
+  },
+  {
+    "id": 62,
+    "banca": "CEBRASPE",
+    "disciplina": "Língua Portuguesa",
+    "conteudo": "Reescrita",
+    "dificuldade": "difícil",
+    "enunciado": "Preserva o sentido de 'Somente após análise houve decisão' a forma",
+    "alternativas": {
+      "A": "A decisão antecedeu a análise.",
+      "B": "A análise ocorreu depois da decisão.",
+      "C": "A decisão só ocorreu após a análise.",
+      "D": "A análise foi dispensada.",
+      "E": "A decisão independeu da análise."
+    },
+    "gabarito": "C",
+    "comentario": "Mantém a restrição temporal."
+  },
+  {
+    "id": 63,
+    "banca": "CEBRASPE",
+    "disciplina": "Língua Portuguesa",
+    "conteudo": "Gêneros textuais",
+    "dificuldade": "fácil",
+    "enunciado": "O gênero textual típico de atos normativos é",
+    "alternativas": {
+      "A": "narrativo",
+      "B": "descritivo",
+      "C": "injuntivo",
+      "D": "argumentativo",
+      "E": "expositivo"
+    },
+    "gabarito": "C",
+    "comentario": "Textos normativos ordenam condutas."
+  },
+  {
+    "id": 64,
+    "banca": "CEBRASPE",
+    "disciplina": "Língua Portuguesa",
+    "conteudo": "Concordância nominal",
+    "dificuldade": "difícil",
+    "enunciado": "Está correta a concordância em",
+    "alternativas": {
+      "A": "Segue anexa as planilhas.",
+      "B": "É proibida entrada.",
+      "C": "Estavam meio cansados.",
+      "D": "Ficaram bastante satisfeitos.",
+      "E": "Foram incluso os anexos."
+    },
+    "gabarito": "D",
+    "comentario": "‘Bastante’ é advérbio, invariável."
+  },
+  {
+    "id": 65,
+    "banca": "CEBRASPE",
+    "disciplina": "Língua Portuguesa",
+    "conteudo": "Coesão",
+    "dificuldade": "média",
+    "enunciado": "O emprego de 'por outro lado' indica",
+    "alternativas": {
+      "A": "adição",
+      "B": "retificação",
+      "C": "oposição",
+      "D": "conclusão",
+      "E": "tempo"
+    },
+    "gabarito": "C",
+    "comentario": "Conector adversativo."
+  },
+
+  {
+    "id": 66,
+    "banca": "CEBRASPE",
+    "disciplina": "Língua Portuguesa",
+    "conteudo": "Subordinação",
+    "dificuldade": "média",
+    "enunciado": "A oração 'para que o relatório fosse aprovado' expressa ideia de",
+    "alternativas": {
+      "A": "causa",
+      "B": "consequência",
+      "C": "finalidade",
+      "D": "condição",
+      "E": "concessão"
+    },
+    "gabarito": "C",
+    "comentario": "Introduz finalidade."
+  },
+  {
+    "id": 67,
+    "banca": "CEBRASPE",
+    "disciplina": "Língua Portuguesa",
+    "conteudo": "Ortografia",
+    "dificuldade": "média",
+    "enunciado": "Assinale a forma correta.",
+    "alternativas": {
+      "A": "excessão",
+      "B": "cessão",
+      "C": "acessão",
+      "D": "intercessão",
+      "E": "recessão"
+    },
+    "gabarito": "B",
+    "comentario": "Cessão = ato de ceder."
+  },
+  {
+    "id": 68,
+    "banca": "CEBRASPE",
+    "disciplina": "Língua Portuguesa",
+    "conteudo": "Pontuação",
+    "dificuldade": "difícil",
+    "enunciado": "A vírgula é facultativa em",
+    "alternativas": {
+      "A": "orações coordenadas assindéticas",
+      "B": "vocativos",
+      "C": "apostos explicativos",
+      "D": "orações adverbiais deslocadas",
+      "E": "enumeração simples"
+    },
+    "gabarito": "E",
+    "comentario": "Enumerações podem ou não usar vírgula conforme o ritmo."
+  },
+  {
+    "id": 69,
+    "banca": "CEBRASPE",
+    "disciplina": "Língua Portuguesa",
+    "conteudo": "Semântica",
+    "dificuldade": "média",
+    "enunciado": "‘Destarte’ pode ser substituído, sem prejuízo de sentido, por",
+    "alternativas": {
+      "A": "contudo",
+      "B": "assim",
+      "C": "todavia",
+      "D": "apesar disso",
+      "E": "entretanto"
+    },
+    "gabarito": "B",
+    "comentario": "Conector conclusivo."
+  },
+  {
+    "id": 70,
+    "banca": "CEBRASPE",
+    "disciplina": "Língua Portuguesa",
+    "conteudo": "Reescrita",
+    "dificuldade": "difícil",
+    "enunciado": "Mantém o sentido de 'Caso haja irregularidades, o processo será revisto' a forma",
+    "alternativas": {
+      "A": "Havendo irregularidades, o processo será revisto.",
+      "B": "O processo será revisto apesar das irregularidades.",
+      "C": "O processo não será revisto.",
+      "D": "O processo foi revisto.",
+      "E": "As irregularidades impedem a revisão."
+    },
+    "gabarito": "A",
+    "comentario": "Equivalência condicional."
+  }
+
+  /* Questões 71 a 100 continuam no mesmo padrão e completam o bloco */
+]
+[
+  {
+    "id": 71,
+    "banca": "CEBRASPE",
+    "disciplina": "Língua Portuguesa",
+    "conteudo": "Compreensão textual",
+    "dificuldade": "média",
+    "enunciado": "Em textos expositivos, predomina a intenção de",
+    "alternativas": {
+      "A": "convencer o leitor",
+      "B": "emocionar o leitor",
+      "C": "relatar fatos pessoais",
+      "D": "apresentar informações de forma objetiva",
+      "E": "narrar acontecimentos fictícios"
+    },
+    "gabarito": "D",
+    "comentario": "Textos expositivos têm caráter informativo e objetivo."
+  },
+  {
+    "id": 72,
+    "banca": "CEBRASPE",
+    "disciplina": "Língua Portuguesa",
+    "conteudo": "Coesão textual",
+    "dificuldade": "média",
+    "enunciado": "O conector 'portanto' estabelece relação de",
+    "alternativas": {
+      "A": "adição",
+      "B": "oposição",
+      "C": "conclusão",
+      "D": "explicação",
+      "E": "condição"
+    },
+    "gabarito": "C",
+    "comentario": "‘Portanto’ é conjunção conclusiva."
+  },
+  {
+    "id": 73,
+    "banca": "CEBRASPE",
+    "disciplina": "Língua Portuguesa",
+    "conteudo": "Ortografia",
+    "dificuldade": "média",
+    "enunciado": "Assinale a alternativa correta quanto à grafia.",
+    "alternativas": {
+      "A": "excessão",
+      "B": "cessão",
+      "C": "seção",
+      "D": "sessão",
+      "E": "exceção"
+    },
+    "gabarito": "E",
+    "comentario": "‘Exceção’ é a forma correta para indicar exclusão."
+  },
+  {
+    "id": 74,
+    "banca": "CEBRASPE",
+    "disciplina": "Língua Portuguesa",
+    "conteudo": "Emprego verbal",
+    "dificuldade": "difícil",
+    "enunciado": "O pretérito mais-que-perfeito simples expressa ação",
+    "alternativas": {
+      "A": "simultânea a outra passada",
+      "B": "posterior a outra passada",
+      "C": "anterior a outra ação passada",
+      "D": "habitual no passado",
+      "E": "futura em relação ao presente"
+    },
+    "gabarito": "C",
+    "comentario": "Indica ação concluída antes de outra também passada."
+  },
+  {
+    "id": 75,
+    "banca": "CEBRASPE",
+    "disciplina": "Língua Portuguesa",
+    "conteudo": "Classes de palavras",
+    "dificuldade": "média",
+    "enunciado": "Na expressão 'por conseguinte', a palavra 'conseguinte' é",
+    "alternativas": {
+      "A": "substantivo",
+      "B": "adjetivo",
+      "C": "advérbio",
+      "D": "verbo",
+      "E": "pronome"
+    },
+    "gabarito": "B",
+    "comentario": "Funciona como adjetivo em locução prepositiva/conjuntiva."
+  },
+  {
+    "id": 76,
+    "banca": "CEBRASPE",
+    "disciplina": "Língua Portuguesa",
+    "conteudo": "Concordância verbal",
+    "dificuldade": "difícil",
+    "enunciado": "Em 'Mais de um relatório foram analisados', a concordância está",
+    "alternativas": {
+      "A": "incorreta, pois deveria estar no singular",
+      "B": "correta, pois indica ideia de pluralidade",
+      "C": "facultativa, segundo a norma-padrão",
+      "D": "incorreta por se tratar de verbo impessoal",
+      "E": "correta apenas na linguagem coloquial"
+    },
+    "gabarito": "B",
+    "comentario": "Com ‘mais de um’, o plural é admitido quando há ideia de repetição."
+  },
+  {
+    "id": 77,
+    "banca": "CEBRASPE",
+    "disciplina": "Língua Portuguesa",
+    "conteudo": "Regência verbal",
+    "dificuldade": "difícil",
+    "enunciado": "O verbo 'implicar', no sentido de acarretar, é",
+    "alternativas": {
+      "A": "transitivo indireto",
+      "B": "bitransitivo",
+      "C": "intransitivo",
+      "D": "transitivo direto",
+      "E": "pronominal"
+    },
+    "gabarito": "D",
+    "comentario": "Nesse sentido, não exige preposição."
+  },
+  {
+    "id": 78,
+    "banca": "CEBRASPE",
+    "disciplina": "Língua Portuguesa",
+    "conteudo": "Pontuação",
+    "dificuldade": "difícil",
+    "enunciado": "O emprego da vírgula é obrigatório em",
+    "alternativas": {
+      "A": "sujeito simples e predicado",
+      "B": "orações subordinadas substantivas",
+      "C": "orações adjetivas explicativas",
+      "D": "objeto direto deslocado",
+      "E": "predicativo do sujeito"
+    },
+    "gabarito": "C",
+    "comentario": "Orações adjetivas explicativas devem ser isoladas."
+  },
+  {
+    "id": 79,
+    "banca": "CEBRASPE",
+    "disciplina": "Língua Portuguesa",
+    "conteudo": "Crase",
+    "dificuldade": "difícil",
+    "enunciado": "O uso da crase é obrigatório em",
+    "alternativas": {
+      "A": "à distância de cem metros",
+      "B": "à medida que os fatos surgem",
+      "C": "à tarde faremos a reunião",
+      "D": "à pé",
+      "E": "à caráter emergencial"
+    },
+    "gabarito": "B",
+    "comentario": "Locução conjuntiva feminina exige crase."
+  },
+  {
+    "id": 80,
+    "banca": "CEBRASPE",
+    "disciplina": "Língua Portuguesa",
+    "conteudo": "Colocação pronominal",
+    "dificuldade": "difícil",
+    "enunciado": "Segundo a norma-padrão, está correta a frase",
+    "alternativas": {
+      "A": "Nunca informarei-lhe o resultado.",
+      "B": "Informarei-lhe nunca o resultado.",
+      "C": "Nunca lhe informarei o resultado.",
+      "D": "Lhe informarei nunca o resultado.",
+      "E": "Nunca informarei o resultado-lhe."
+    },
+    "gabarito": "C",
+    "comentario": "Palavra negativa exige próclise."
+  },
+  {
+    "id": 81,
+    "banca": "CEBRASPE",
+    "disciplina": "Língua Portuguesa",
+    "conteudo": "Semântica",
+    "dificuldade": "média",
+    "enunciado": "A palavra 'idôneo' pode ser corretamente substituída por",
+    "alternativas": {
+      "A": "inábil",
+      "B": "suspeito",
+      "C": "íntegro",
+      "D": "duvidoso",
+      "E": "incapaz"
+    },
+    "gabarito": "C",
+    "comentario": "Idôneo significa confiável, íntegro."
+  },
+  {
+    "id": 82,
+    "banca": "CEBRASPE",
+    "disciplina": "Língua Portuguesa",
+    "conteudo": "Reescrita",
+    "dificuldade": "difícil",
+    "enunciado": "Mantém o sentido de 'Ainda que houvesse falhas, o relatório foi aprovado' a forma",
+    "alternativas": {
+      "A": "Como havia falhas, o relatório foi aprovado.",
+      "B": "O relatório foi aprovado apesar das falhas.",
+      "C": "O relatório foi reprovado pelas falhas.",
+      "D": "O relatório só foi aprovado se não houvesse falhas.",
+      "E": "As falhas impediram a aprovação."
+    },
+    "gabarito": "B",
+    "comentario": "Preserva-se a concessão."
+  },
+  {
+    "id": 83,
+    "banca": "CEBRASPE",
+    "disciplina": "Língua Portuguesa",
+    "conteudo": "Gêneros textuais",
+    "dificuldade": "fácil",
+    "enunciado": "O gênero textual característico de divulgação científica é",
+    "alternativas": {
+      "A": "conto",
+      "B": "editorial",
+      "C": "artigo",
+      "D": "resenha",
+      "E": "manual"
+    },
+    "gabarito": "C",
+    "comentario": "Artigos divulgam conhecimento técnico ao público."
+  },
+  {
+    "id": 84,
+    "banca": "CEBRASPE",
+    "disciplina": "Língua Portuguesa",
+    "conteudo": "Concordância nominal",
+    "dificuldade": "difícil",
+    "enunciado": "Está correta a concordância em",
+    "alternativas": {
+      "A": "Foram meio confusas as orientações.",
+      "B": "É proibido entrada.",
+      "C": "Estavam bastante satisfeito.",
+      "D": "As análises estavam bastante detalhadas.",
+      "E": "Seguem anexo os documentos."
+    },
+    "gabarito": "D",
+    "comentario": "‘Bastante’ como advérbio é invariável."
+  },
+  {
+    "id": 85,
+    "banca": "CEBRASPE",
+    "disciplina": "Língua Portuguesa",
+    "conteudo": "Coesão textual",
+    "dificuldade": "média",
+    "enunciado": "O termo 'assim' pode exercer valor semântico de",
+    "alternativas": {
+      "A": "tempo",
+      "B": "condição",
+      "C": "modo",
+      "D": "oposição",
+      "E": "causa"
+    },
+    "gabarito": "C",
+    "comentario": "Indica modo ou conclusão, conforme o contexto."
+  },
+  {
+    "id": 86,
+    "banca": "CEBRASPE",
+    "disciplina": "Língua Portuguesa",
+    "conteudo": "Subordinação",
+    "dificuldade": "média",
+    "enunciado": "A oração 'conforme estabelecido no edital' expressa ideia de",
+    "alternativas": {
+      "A": "causa",
+      "B": "finalidade",
+      "C": "conformidade",
+      "D": "condição",
+      "E": "concessão"
+    },
+    "gabarito": "C",
+    "comentario": "Introduz relação de conformidade."
+  },
+  {
+    "id": 87,
+    "banca": "CEBRASPE",
+    "disciplina": "Língua Portuguesa",
+    "conteudo": "Ortografia",
+    "dificuldade": "média",
+    "enunciado": "Assinale a alternativa corretamente grafada.",
+    "alternativas": {
+      "A": "intercessão",
+      "B": "recessão",
+      "C": "acessão",
+      "D": "excessão",
+      "E": "cessão"
+    },
+    "gabarito": "E",
+    "comentario": "Cessão = ato de ceder; demais têm sentidos distintos."
+  },
+  {
+    "id": 88,
+    "banca": "CEBRASPE",
+    "disciplina": "Língua Portuguesa",
+    "conteudo": "Pontuação",
+    "dificuldade": "difícil",
+    "enunciado": "A retirada da vírgula altera o sentido em",
+    "alternativas": {
+      "A": "Os servidores experientes analisaram.",
+      "B": "Os servidores, experientes, analisaram.",
+      "C": "Os gestores decidiram rapidamente.",
+      "D": "O relatório aprovado foi arquivado.",
+      "E": "A comissão técnica decidiu."
+    },
+    "gabarito": "B",
+    "comentario": "A vírgula transforma o adjetivo em explicativo."
+  },
+  {
+    "id": 89,
+    "banca": "CEBRASPE",
+    "disciplina": "Língua Portuguesa",
+    "conteudo": "Semântica",
+    "dificuldade": "média",
+    "enunciado": "A expressão 'a posteriori' significa",
+    "alternativas": {
+      "A": "antes do fato",
+      "B": "durante o fato",
+      "C": "de forma hipotética",
+      "D": "posteriormente",
+      "E": "de imediato"
+    },
+    "gabarito": "D",
+    "comentario": "Locução latina comum em textos técnicos."
+  },
+  {
+    "id": 90,
+    "banca": "CEBRASPE",
+    "disciplina": "Língua Portuguesa",
+    "conteudo": "Reescrita",
+    "dificuldade": "difícil",
+    "enunciado": "Sem alteração de sentido, 'Desde que haja recursos, o projeto será executado' pode ser reescrito como",
+    "alternativas": {
+      "A": "Mesmo havendo recursos, o projeto será executado.",
+      "B": "Se houver recursos, o projeto será executado.",
+      "C": "O projeto será executado apesar da falta de recursos.",
+      "D": "O projeto foi executado.",
+      "E": "A execução independe de recursos."
+    },
+    "gabarito": "B",
+    "comentario": "Equivalência condicional."
+  },
+  {
+    "id": 91,
+    "banca": "CEBRASPE",
+    "disciplina": "Língua Portuguesa",
+    "conteudo": "Gêneros textuais",
+    "dificuldade": "fácil",
+    "enunciado": "O gênero textual típico de divulgação de normas internas é",
+    "alternativas": {
+      "A": "ofício",
+      "B": "memorando",
+      "C": "artigo",
+      "D": "crônica",
+      "E": "resenha"
+    },
+    "gabarito": "B",
+    "comentario": "Memorando é usado para comunicação interna."
+  },
+  {
+    "id": 92,
+    "banca": "CEBRASPE",
+    "disciplina": "Língua Portuguesa",
+    "conteudo": "Concordância verbal",
+    "dificuldade": "difícil",
+    "enunciado": "Em 'Fomos nós quem elaboramos o parecer', a concordância está",
+    "alternativas": {
+      "A": "incorreta",
+      "B": "correta",
+      "C": "facultativa",
+      "D": "condicionada ao tempo verbal",
+      "E": "aceitável apenas na oralidade"
+    },
+    "gabarito": "A",
+    "comentario": "Com 'quem', o verbo deve ficar no singular: elaborou."
+  },
+  {
+    "id": 93,
+    "banca": "CEBRASPE",
+    "disciplina": "Língua Portuguesa",
+    "conteudo": "Crase",
+    "dificuldade": "difícil",
+    "enunciado": "O uso da crase é facultativo em",
+    "alternativas": {
+      "A": "à tarde",
+      "B": "àquela servidora",
+      "C": "à moda antiga",
+      "D": "à minha chefia",
+      "E": "à distância"
+    },
+    "gabarito": "D",
+    "comentario": "Antes de pronome possessivo feminino, a crase é facultativa."
+  },
+  {
+    "id": 94,
+    "banca": "CEBRASPE",
+    "disciplina": "Língua Portuguesa",
+    "conteudo": "Pontuação",
+    "dificuldade": "difícil",
+    "enunciado": "Está corretamente pontuada a frase",
+    "alternativas": {
+      "A": "O relatório que foi aprovado, seguiu.",
+      "B": "O relatório, que foi aprovado seguiu.",
+      "C": "O relatório que foi aprovado seguiu.",
+      "D": "O relatório, que foi aprovado, seguiu.",
+      "E": "O relatório que, foi aprovado seguiu."
+    },
+    "gabarito": "C",
+    "comentario": "Oração adjetiva restritiva não leva vírgula."
+  },
+  {
+    "id": 95,
+    "banca": "CEBRASPE",
+    "disciplina": "Língua Portuguesa",
+    "conteudo": "Semântica",
+    "dificuldade": "média",
+    "enunciado": "A palavra 'dirimir' significa",
+    "alternativas": {
+      "A": "aumentar",
+      "B": "postergar",
+      "C": "resolver",
+      "D": "ignorar",
+      "E": "confundir"
+    },
+    "gabarito": "C",
+    "comentario": "Dirimir = solucionar."
+  },
+  {
+    "id": 96,
+    "banca": "CEBRASPE",
+    "disciplina": "Língua Portuguesa",
+    "conteudo": "Reescrita",
+    "dificuldade": "difícil",
+    "enunciado": "Mantém o sentido de 'O relatório foi aprovado, embora houvesse ressalvas' a forma",
+    "alternativas": {
+      "A": "O relatório foi aprovado porque houve ressalvas.",
+      "B": "O relatório foi aprovado apesar das ressalvas.",
+      "C": "As ressalvas impediram a aprovação.",
+      "D": "O relatório foi rejeitado.",
+      "E": "As ressalvas foram eliminadas."
+    },
+    "gabarito": "B",
+    "comentario": "Equivalência concessiva."
+  },
+  {
+    "id": 97,
+    "banca": "CEBRASPE",
+    "disciplina": "Língua Portuguesa",
+    "conteudo": "Coesão textual",
+    "dificuldade": "média",
+    "enunciado": "O conector 'isto é' introduz",
+    "alternativas": {
+      "A": "oposição",
+      "B": "conclusão",
+      "C": "retificação",
+      "D": "condição",
+      "E": "exemplificação"
+    },
+    "gabarito": "C",
+    "comentario": "Reformula ou esclarece o que foi dito."
+  },
+  {
+    "id": 98,
+    "banca": "CEBRASPE",
+    "disciplina": "Língua Portuguesa",
+    "conteudo": "Concordância nominal",
+    "dificuldade": "difícil",
+    "enunciado": "Está correta a concordância em",
+    "alternativas": {
+      "A": "É proibida a entrada de pessoas.",
+      "B": "É proibido as entradas.",
+      "C": "Foram meio satisfatórias as medidas.",
+      "D": "Estavam bastante confuso.",
+      "E": "Seguem anexo os relatórios."
+    },
+    "gabarito": "A",
+    "comentario": "O adjetivo concorda com o substantivo explícito."
+  },
+  {
+    "id": 99,
+    "banca": "CEBRASPE",
+    "disciplina": "Língua Portuguesa",
+    "conteudo": "Níveis de formalidade",
+    "dificuldade": "média",
+    "enunciado": "É inadequada à redação oficial a forma",
+    "alternativas": {
+      "A": "verificou-se",
+      "B": "constatou-se",
+      "C": "foi identificado",
+      "D": "a gente apurou",
+      "E": "apurou-se"
+    },
+    "gabarito": "D",
+    "comentario": "Expressão coloquial incompatível com linguagem formal."
+  },
+  {
+    "id": 100,
+    "banca": "CEBRASPE",
+    "disciplina": "Língua Portuguesa",
+    "conteudo": "Coesão textual",
+    "dificuldade": "difícil",
+    "enunciado": "O emprego de 'não obstante' indica relação de",
+    "alternativas": {
+      "A": "causa",
+      "B": "conclusão",
+      "C": "oposição/concessão",
+      "D": "finalidade",
+      "E": "explicação"
+    },
+    "gabarito": "C",
+    "comentario": "Conector concessivo típico da linguagem formal."
+  }
+]
+[
+  {
+    "id": 101,
+    "banca": "CEBRASPE",
+    "disciplina": "Língua Portuguesa",
+    "conteudo": "Compreensão textual",
+    "dificuldade": "média",
+    "enunciado": "Em textos argumentativos, a contra-argumentação tem a função de",
+    "alternativas": {
+      "A": "introduzir o tema",
+      "B": "reforçar exclusivamente dados estatísticos",
+      "C": "antecipar e refutar possíveis objeções",
+      "D": "substituir a tese principal",
+      "E": "encerrar o texto de forma neutra"
+    },
+    "gabarito": "C",
+    "comentario": "A contra-argumentação fortalece a tese ao enfrentar objeções."
+  },
+  {
+    "id": 102,
+    "banca": "CEBRASPE",
+    "disciplina": "Língua Portuguesa",
+    "conteudo": "Tipos textuais",
+    "dificuldade": "fácil",
+    "enunciado": "O tipo textual predominante em manuais técnicos é",
+    "alternativas": {
+      "A": "narrativo",
+      "B": "descritivo",
+      "C": "injuntivo",
+      "D": "argumentativo",
+      "E": "expositivo"
+    },
+    "gabarito": "C",
+    "comentario": "Manuais orientam procedimentos."
+  },
+  {
+    "id": 103,
+    "banca": "CEBRASPE",
+    "disciplina": "Língua Portuguesa",
+    "conteudo": "Ortografia oficial",
+    "dificuldade": "média",
+    "enunciado": "Assinale a alternativa corretamente grafada.",
+    "alternativas": {
+      "A": "anti-inflamatório",
+      "B": "microondas",
+      "C": "auto estima",
+      "D": "infraestrutura",
+      "E": "co autor"
+    },
+    "gabarito": "D",
+    "comentario": "Forma consolidada sem hífen, segundo o Acordo Ortográfico."
+  },
+  {
+    "id": 104,
+    "banca": "CEBRASPE",
+    "disciplina": "Língua Portuguesa",
+    "conteudo": "Coesão – referenciação",
+    "dificuldade": "difícil",
+    "enunciado": "No trecho 'O relatório foi aprovado. Esse resultado surpreendeu', o termo 'esse' retoma",
+    "alternativas": {
+      "A": "o relatório",
+      "B": "o processo",
+      "C": "a aprovação do relatório",
+      "D": "o auditor",
+      "E": "o órgão julgador"
+    },
+    "gabarito": "C",
+    "comentario": "Pronome demonstrativo retoma a ideia expressa na oração anterior."
+  },
+  {
+    "id": 105,
+    "banca": "CEBRASPE",
+    "disciplina": "Língua Portuguesa",
+    "conteudo": "Tempos verbais",
+    "dificuldade": "média",
+    "enunciado": "O pretérito perfeito do indicativo expressa ação",
+    "alternativas": {
+      "A": "habitual no passado",
+      "B": "anterior a outra passada",
+      "C": "concluída no passado",
+      "D": "hipotética",
+      "E": "futura"
+    },
+    "gabarito": "C",
+    "comentario": "Indica ação finalizada no passado."
+  },
+
+  {
+    "id": 106,
+    "banca": "CEBRASPE",
+    "disciplina": "Língua Portuguesa",
+    "conteudo": "Classes de palavras",
+    "dificuldade": "média",
+    "enunciado": "Em 'A análise foi extremamente cuidadosa', a palavra 'extremamente' é",
+    "alternativas": {
+      "A": "adjetivo",
+      "B": "substantivo",
+      "C": "advérbio",
+      "D": "pronome",
+      "E": "verbo"
+    },
+    "gabarito": "C",
+    "comentario": "Intensifica o adjetivo 'cuidadosa'."
+  },
+  {
+    "id": 107,
+    "banca": "CEBRASPE",
+    "disciplina": "Língua Portuguesa",
+    "conteudo": "Coordenação",
+    "dificuldade": "fácil",
+    "enunciado": "A conjunção 'e' pode expressar ideia de",
+    "alternativas": {
+      "A": "oposição apenas",
+      "B": "adição apenas",
+      "C": "adição e consequência, conforme o contexto",
+      "D": "condição",
+      "E": "explicação exclusiva"
+    },
+    "gabarito": "C",
+    "comentario": "A conjunção 'e' é semanticamente polivalente."
+  },
+  {
+    "id": 108,
+    "banca": "CEBRASPE",
+    "disciplina": "Língua Portuguesa",
+    "conteudo": "Subordinação",
+    "dificuldade": "média",
+    "enunciado": "A oração 'se o prazo for prorrogado' expressa ideia de",
+    "alternativas": {
+      "A": "consequência",
+      "B": "condição",
+      "C": "causa",
+      "D": "concessão",
+      "E": "finalidade"
+    },
+    "gabarito": "B",
+    "comentario": "Introduz hipótese necessária."
+  },
+  {
+    "id": 109,
+    "banca": "CEBRASPE",
+    "disciplina": "Língua Portuguesa",
+    "conteudo": "Pontuação",
+    "dificuldade": "difícil",
+    "enunciado": "O emprego da vírgula é incorreto em",
+    "alternativas": {
+      "A": "Os servidores que compareceram foram ouvidos.",
+      "B": "Os servidores, que compareceram, foram ouvidos.",
+      "C": "O relatório aprovado foi arquivado.",
+      "D": "A comissão técnica deliberou.",
+      "E": "O auditor experiente analisou o processo."
+    },
+    "gabarito": "B",
+    "comentario": "A vírgula transforma a oração restritiva em explicativa, alterando o sentido."
+  },
+  {
+    "id": 110,
+    "banca": "CEBRASPE",
+    "disciplina": "Língua Portuguesa",
+    "conteudo": "Concordância verbal",
+    "dificuldade": "difícil",
+    "enunciado": "Em 'Grande parte dos relatórios foi revisada', a concordância está",
+    "alternativas": {
+      "A": "incorreta",
+      "B": "correta",
+      "C": "obrigatoriamente plural",
+      "D": "facultativa apenas no plural",
+      "E": "aceitável apenas na oralidade"
+    },
+    "gabarito": "B",
+    "comentario": "O verbo pode concordar com o núcleo singular 'parte'."
+  },
+
+  {
+    "id": 111,
+    "banca": "CEBRASPE",
+    "disciplina": "Língua Portuguesa",
+    "conteudo": "Regência verbal",
+    "dificuldade": "difícil",
+    "enunciado": "O verbo 'preferir' exige a regência",
+    "alternativas": {
+      "A": "preferir algo a algo",
+      "B": "preferir por algo",
+      "C": "preferir em algo",
+      "D": "preferir algo do que outro",
+      "E": "preferir algo com algo"
+    },
+    "gabarito": "A",
+    "comentario": "Regência clássica: preferir X a Y."
+  },
+  {
+    "id": 112,
+    "banca": "CEBRASPE",
+    "disciplina": "Língua Portuguesa",
+    "conteudo": "Crase",
+    "dificuldade": "difícil",
+    "enunciado": "O uso da crase é proibido em",
+    "alternativas": {
+      "A": "àquela decisão",
+      "B": "à tarde",
+      "C": "à vista de todos",
+      "D": "à senhora diretora",
+      "E": "à distância segura"
+    },
+    "gabarito": "B",
+    "comentario": "Não há crase antes de advérbios de tempo isolados."
+  },
+  {
+    "id": 113,
+    "banca": "CEBRASPE",
+    "disciplina": "Língua Portuguesa",
+    "conteudo": "Colocação pronominal",
+    "dificuldade": "difícil",
+    "enunciado": "Está correta a frase",
+    "alternativas": {
+      "A": "Não diga-me isso.",
+      "B": "Jamais se esquecerá do prazo.",
+      "C": "Entregarei-lhe nunca os autos.",
+      "D": "Sempre lembra-me do fato.",
+      "E": "Me avisaram ontem."
+    },
+    "gabarito": "B",
+    "comentario": "Palavra negativa exige próclise."
+  },
+  {
+    "id": 114,
+    "banca": "CEBRASPE",
+    "disciplina": "Língua Portuguesa",
+    "conteudo": "Semântica",
+    "dificuldade": "média",
+    "enunciado": "A palavra 'escopo' significa",
+    "alternativas": {
+      "A": "resultado",
+      "B": "objetivo",
+      "C": "procedimento",
+      "D": "instrumento",
+      "E": "prazo"
+    },
+    "gabarito": "B",
+    "comentario": "Vocábulo frequente em textos técnicos."
+  },
+  {
+    "id": 115,
+    "banca": "CEBRASPE",
+    "disciplina": "Língua Portuguesa",
+    "conteudo": "Reescrita",
+    "dificuldade": "difícil",
+    "enunciado": "Sem alterar o sentido, 'Apesar do atraso, a sessão ocorreu' pode ser reescrito como",
+    "alternativas": {
+      "A": "A sessão ocorreu porque houve atraso.",
+      "B": "A sessão ocorreu, embora houvesse atraso.",
+      "C": "A sessão não ocorreu.",
+      "D": "A sessão ocorreu antes do atraso.",
+      "E": "O atraso impediu a sessão."
+    },
+    "gabarito": "B",
+    "comentario": "Preserva-se a concessão."
+  },
+
+  {
+    "id": 116,
+    "banca": "CEBRASPE",
+    "disciplina": "Língua Portuguesa",
+    "conteudo": "Gêneros textuais",
+    "dificuldade": "fácil",
+    "enunciado": "O gênero textual predominante em relatórios técnicos é",
+    "alternativas": {
+      "A": "narrativo",
+      "B": "argumentativo",
+      "C": "descritivo-expositivo",
+      "D": "literário",
+      "E": "injuntivo"
+    },
+    "gabarito": "C",
+    "comentario": "Relatórios descrevem fatos e expõem análises."
+  },
+  {
+    "id": 117,
+    "banca": "CEBRASPE",
+    "disciplina": "Língua Portuguesa",
+    "conteudo": "Concordância nominal",
+    "dificuldade": "difícil",
+    "enunciado": "Está correta a concordância em",
+    "alternativas": {
+      "A": "É proibido a entrada.",
+      "B": "Foram meio cansadas as equipes.",
+      "C": "Estavam bastante confusos os dados.",
+      "D": "Seguem anexo as planilhas.",
+      "E": "Ficou proibida entradas."
+    },
+    "gabarito": "C",
+    "comentario": "‘Bastante’ é advérbio invariável."
+  },
+  {
+    "id": 118,
+    "banca": "CEBRASPE",
+    "disciplina": "Língua Portuguesa",
+    "conteudo": "Coesão – substituição",
+    "dificuldade": "média",
+    "enunciado": "O uso do pronome 'o' em 'O auditor o analisou' evita a repetição de",
+    "alternativas": {
+      "A": "auditor",
+      "B": "processo",
+      "C": "relatório",
+      "D": "órgão",
+      "E": "parecer"
+    },
+    "gabarito": "C",
+    "comentario": "Pronome retoma termo expresso anteriormente."
+  },
+  {
+    "id": 119,
+    "banca": "CEBRASPE",
+    "disciplina": "Língua Portuguesa",
+    "conteudo": "Pontuação",
+    "dificuldade": "difícil",
+    "enunciado": "O uso da vírgula é obrigatório em",
+    "alternativas": {
+      "A": "orações subordinadas substantivas",
+      "B": "orações adjetivas restritivas",
+      "C": "orações coordenadas sindéticas",
+      "D": "orações coordenadas assindéticas",
+      "E": "predicativo do sujeito"
+    },
+    "gabarito": "D",
+    "comentario": "Orações sem conjunção exigem vírgula."
+  },
+  {
+    "id": 120,
+    "banca": "CEBRASPE",
+    "disciplina": "Língua Portuguesa",
+    "conteudo": "Crase",
+    "dificuldade": "difícil",
+    "enunciado": "O emprego da crase é correto em",
+    "alternativas": {
+      "A": "à nível de controle",
+      "B": "à partir de amanhã",
+      "C": "à medida que avançamos",
+      "D": "à curto prazo",
+      "E": "à pé"
+    },
+    "gabarito": "C",
+    "comentario": "Locução conjuntiva feminina."
+  },
+
+  {
+    "id": 121,
+    "banca": "CEBRASPE",
+    "disciplina": "Língua Portuguesa",
+    "conteudo": "Semântica",
+    "dificuldade": "média",
+    "enunciado": "A palavra 'incipiente' significa",
+    "alternativas": {
+      "A": "avançado",
+      "B": "inicial",
+      "C": "consolidado",
+      "D": "completo",
+      "E": "eficiente"
+    },
+    "gabarito": "B",
+    "comentario": "Indica algo em estágio inicial."
+  },
+  {
+    "id": 122,
+    "banca": "CEBRASPE",
+    "disciplina": "Língua Portuguesa",
+    "conteudo": "Reescrita",
+    "dificuldade": "difícil",
+    "enunciado": "Mantém o sentido de 'Caso não haja recurso, a decisão será mantida' a forma",
+    "alternativas": {
+      "A": "Se houver recurso, a decisão será mantida.",
+      "B": "Na ausência de recurso, a decisão será mantida.",
+      "C": "A decisão será revista.",
+      "D": "O recurso impede a manutenção da decisão.",
+      "E": "A decisão foi alterada."
+    },
+    "gabarito": "B",
+    "comentario": "Equivalência condicional negativa."
+  },
+  {
+    "id": 123,
+    "banca": "CEBRASPE",
+    "disciplina": "Língua Portuguesa",
+    "conteudo": "Gêneros textuais",
+    "dificuldade": "fácil",
+    "enunciado": "O gênero textual utilizado para solicitação formal externa é",
+    "alternativas": {
+      "A": "memorando",
+      "B": "bilhete",
+      "C": "ofício",
+      "D": "resenha",
+      "E": "crônica"
+    },
+    "gabarito": "C",
+    "comentario": "Ofício é comunicação formal externa."
+  },
+  {
+    "id": 124,
+    "banca": "CEBRASPE",
+    "disciplina": "Língua Portuguesa",
+    "conteudo": "Concordância verbal",
+    "dificuldade": "difícil",
+    "enunciado": "Em 'Fomos nós quem decidiu o mérito', a concordância está",
+    "alternativas": {
+      "A": "correta",
+      "B": "incorreta",
+      "C": "facultativa",
+      "D": "aceitável apenas na oralidade",
+      "E": "condicionada ao contexto"
+    },
+    "gabarito": "B",
+    "comentario": "Com 'quem', o verbo deve ficar no singular: decidiu."
+  },
+  {
+    "id": 125,
+    "banca": "CEBRASPE",
+    "disciplina": "Língua Portuguesa",
+    "conteudo": "Coesão textual",
+    "dificuldade": "média",
+    "enunciado": "O conector 'ou seja' introduz relação de",
+    "alternativas": {
+      "A": "oposição",
+      "B": "conclusão",
+      "C": "explicação",
+      "D": "condição",
+      "E": "finalidade"
+    },
+    "gabarito": "C",
+    "comentario": "Conector explicativo."
+  },
+
+  {
+    "id": 126,
+    "banca": "CEBRASPE",
+    "disciplina": "Língua Portuguesa",
+    "conteudo": "Pontuação",
+    "dificuldade": "difícil",
+    "enunciado": "A vírgula é facultativa em",
+    "alternativas": {
+      "A": "aposto explicativo",
+      "B": "vocativo",
+      "C": "enumeração simples",
+      "D": "orações adjetivas explicativas",
+      "E": "orações coordenadas assindéticas"
+    },
+    "gabarito": "C",
+    "comentario": "Enumeração simples admite variação conforme estilo."
+  },
+  {
+    "id": 127,
+    "banca": "CEBRASPE",
+    "disciplina": "Língua Portuguesa",
+    "conteudo": "Regência nominal",
+    "dificuldade": "média",
+    "enunciado": "O adjetivo que exige a preposição 'a' é",
+    "alternativas": {
+      "A": "favorável",
+      "B": "apto",
+      "C": "contrário",
+      "D": "orgulhoso",
+      "E": "contente"
+    },
+    "gabarito": "C",
+    "comentario": "Diz-se contrário a algo."
+  },
+  {
+    "id": 128,
+    "banca": "CEBRASPE",
+    "disciplina": "Língua Portuguesa",
+    "conteudo": "Crase",
+    "dificuldade": "difícil",
+    "enunciado": "Está incorreto o uso da crase em",
+    "alternativas": {
+      "A": "àquela norma",
+      "B": "à medida que avança",
+      "C": "à noite",
+      "D": "à Roma antiga",
+      "E": "à distância segura"
+    },
+    "gabarito": "D",
+    "comentario": "Não se usa crase antes de nomes de cidade sem artigo."
+  },
+  {
+    "id": 129,
+    "banca": "CEBRASPE",
+    "disciplina": "Língua Portuguesa",
+    "conteudo": "Semântica",
+    "dificuldade": "média",
+    "enunciado": "A expressão 'em consonância com' equivale a",
+    "alternativas": {
+      "A": "em desacordo com",
+      "B": "em oposição a",
+      "C": "de acordo com",
+      "D": "apesar de",
+      "E": "em virtude de"
+    },
+    "gabarito": "C",
+    "comentario": "Indica conformidade."
+  },
+  {
+    "id": 130,
+    "banca": "CEBRASPE",
+    "disciplina": "Língua Portuguesa",
+    "conteudo": "Reescrita",
+    "dificuldade": "difícil",
+    "enunciado": "Preserva o sentido de 'O relatório foi aprovado por unanimidade' a forma",
+    "alternativas": {
+      "A": "Todos votaram contra o relatório.",
+      "B": "O relatório foi aprovado pela maioria.",
+      "C": "Todos os votos foram favoráveis ao relatório.",
+      "D": "Houve divergência na aprovação.",
+      "E": "A aprovação foi parcial."
+    },
+    "gabarito": "C",
+    "comentario": "Equivalência semântica direta."
+  },
+
+  {
+    "id": 131,
+    "banca": "CEBRASPE",
+    "disciplina": "Língua Portuguesa",
+    "conteudo": "Gêneros textuais",
+    "dificuldade": "fácil",
+    "enunciado": "O gênero textual que apresenta fatos em ordem cronológica é",
+    "alternativas": {
+      "A": "descritivo",
+      "B": "expositivo",
+      "C": "narrativo",
+      "D": "argumentativo",
+      "E": "injuntivo"
+    },
+    "gabarito": "C",
+    "comentario": "Característica do tipo narrativo."
+  },
+  {
+    "id": 132,
+    "banca": "CEBRASPE",
+    "disciplina": "Língua Portuguesa",
+    "conteudo": "Concordância nominal",
+    "dificuldade": "difícil",
+    "enunciado": "Está correta a concordância em",
+    "alternativas": {
+      "A": "As decisões ficaram meio controversas.",
+      "B": "É proibida entrada de veículos.",
+      "C": "Ficaram bastante confuso os dados.",
+      "D": "Seguem incluso os anexos.",
+      "E": "Foram meio cansado os servidores."
+    },
+    "gabarito": "B",
+    "comentario": "Predicativo concorda com o substantivo expresso."
+  },
+  {
+    "id": 133,
+    "banca": "CEBRASPE",
+    "disciplina": "Língua Portuguesa",
+    "conteudo": "Coesão – sequenciação",
+    "dificuldade": "média",
+    "enunciado": "O conector 'em seguida' indica relação de",
+    "alternativas": {
+      "A": "causa",
+      "B": "conclusão",
+      "C": "tempo",
+      "D": "oposição",
+      "E": "explicação"
+    },
+    "gabarito": "C",
+    "comentario": "Indica sequência temporal."
+  },
+  {
+    "id": 134,
+    "banca": "CEBRASPE",
+    "disciplina": "Língua Portuguesa",
+    "conteudo": "Pontuação",
+    "dificuldade": "difícil",
+    "enunciado": "O uso da vírgula é inadequado em",
+    "alternativas": {
+      "A": "O auditor que analisou o processo emitiu parecer.",
+      "B": "O auditor, que analisou o processo, emitiu parecer.",
+      "C": "Os relatórios aprovados seguiram.",
+      "D": "A comissão técnica deliberou.",
+      "E": "O parecer final foi publicado."
+    },
+    "gabarito": "B",
+    "comentario": "Oração restritiva não deve ser isolada."
+  },
+  {
+    "id": 135,
+    "banca": "CEBRASPE",
+    "disciplina": "Língua Portuguesa",
+    "conteudo": "Crase",
+    "dificuldade": "difícil",
+    "enunciado": "É correto o uso da crase em",
+    "alternativas": {
+      "A": "à curto prazo",
+      "B": "à medida que evolui",
+      "C": "à partir de hoje",
+      "D": "à pé",
+      "E": "à nível técnico"
+    },
+    "gabarito": "B",
+    "comentario": "Locução conjuntiva feminina."
+  },
+
+  {
+    "id": 136,
+    "banca": "CEBRASPE",
+    "disciplina": "Língua Portuguesa",
+    "conteudo": "Semântica",
+    "dificuldade": "média",
+    "enunciado": "A palavra 'onerar' significa",
+    "alternativas": {
+      "A": "aliviar",
+      "B": "custear",
+      "C": "impor ônus",
+      "D": "beneficiar",
+      "E": "simplificar"
+    },
+    "gabarito": "C",
+    "comentario": "Verbo comum em textos jurídicos."
+  },
+  {
+    "id": 137,
+    "banca": "CEBRASPE",
+    "disciplina": "Língua Portuguesa",
+    "conteudo": "Reescrita",
+    "dificuldade": "difícil",
+    "enunciado": "Sem alterar o sentido, 'Logo que terminou a análise, o parecer foi emitido' pode ser reescrito como",
+    "alternativas": {
+      "A": "Antes da análise, o parecer foi emitido.",
+      "B": "Após a análise, o parecer foi emitido.",
+      "C": "Durante a análise, o parecer foi emitido.",
+      "D": "Sem análise, o parecer foi emitido.",
+      "E": "O parecer antecedeu a análise."
+    },
+    "gabarito": "B",
+    "comentario": "Equivalência temporal."
+  },
+  {
+    "id": 138,
+    "banca": "CEBRASPE",
+    "disciplina": "Língua Portuguesa",
+    "conteudo": "Gêneros textuais",
+    "dificuldade": "fácil",
+    "enunciado": "O gênero textual que visa registrar oficialmente decisões colegiadas é",
+    "alternativas": {
+      "A": "ata",
+      "B": "ofício",
+      "C": "memorando",
+      "D": "relatório",
+      "E": "parecer"
+    },
+    "gabarito": "A",
+    "comentario": "Ata registra deliberações formais."
+  },
+  {
+    "id": 139,
+    "banca": "CEBRASPE",
+    "disciplina": "Língua Portuguesa",
+    "conteudo": "Concordância verbal",
+    "dificuldade": "difícil",
+    "enunciado": "Em 'Há dezoito meses ocorreram mudanças', o verbo 'há' está",
+    "alternativas": {
+      "A": "correto",
+      "B": "incorreto",
+      "C": "facultativo",
+      "D": "condicionado ao contexto",
+      "E": "aceitável apenas na oralidade"
+    },
+    "gabarito": "B",
+    "comentario": "‘Há’ indicando tempo decorrido é impessoal e não admite plural."
+  },
+  {
+    "id": 140,
+    "banca": "CEBRASPE",
+    "disciplina": "Língua Portuguesa",
+    "conteudo": "Coesão textual",
+    "dificuldade": "média",
+    "enunciado": "O conector 'ademais' indica",
+    "alternativas": {
+      "A": "oposição",
+      "B": "conclusão",
+      "C": "adição",
+      "D": "condição",
+      "E": "tempo"
+    },
+    "gabarito": "C",
+    "comentario": "Conector aditivo típico da norma formal."
+  },
+
+  {
+    "id": 141,
+    "banca": "CEBRASPE",
+    "disciplina": "Língua Portuguesa",
+    "conteudo": "Pontuação",
+    "dificuldade": "difícil",
+    "enunciado": "A vírgula pode ser empregada facultativamente em",
+    "alternativas": {
+      "A": "vocativos",
+      "B": "apostos explicativos",
+      "C": "enumeração simples",
+      "D": "orações coordenadas assindéticas",
+      "E": "orações adjetivas explicativas"
+    },
+    "gabarito": "C",
+    "comentario": "Enumeração simples admite flexibilidade."
+  },
+  {
+    "id": 142,
+    "banca": "CEBRASPE",
+    "disciplina": "Língua Portuguesa",
+    "conteudo": "Crase",
+    "dificuldade": "difícil",
+    "enunciado": "Está correta a frase",
+    "alternativas": {
+      "A": "À nível de controle, o processo falhou.",
+      "B": "À partir de hoje, vigoram as regras.",
+      "C": "À medida que o prazo avança, cresce a cobrança.",
+      "D": "À pé, o servidor retornou.",
+      "E": "À curto prazo, haverá mudanças."
+    },
+    "gabarito": "C",
+    "comentario": "Locução conjuntiva feminina consagrada."
+  },
+  {
+    "id": 143,
+    "banca": "CEBRASPE",
+    "disciplina": "Língua Portuguesa",
+    "conteudo": "Semântica",
+    "dificuldade": "média",
+    "enunciado": "A palavra 'exaurir' significa",
+    "alternativas": {
+      "A": "iniciar",
+      "B": "retomar",
+      "C": "esgotar",
+      "D": "estimular",
+      "E": "preservar"
+    },
+    "gabarito": "C",
+    "comentario": "Verbo recorrente em textos jurídicos."
+  },
+  {
+    "id": 144,
+    "banca": "CEBRASPE",
+    "disciplina": "Língua Portuguesa",
+    "conteudo": "Reescrita",
+    "dificuldade": "difícil",
+    "enunciado": "Sem alterar o sentido, 'Desde que cumpridas as exigências, o pedido será deferido' pode ser reescrito como",
+    "alternativas": {
+      "A": "Caso sejam cumpridas as exigências, o pedido será deferido.",
+      "B": "Embora cumpridas as exigências, o pedido será deferido.",
+      "C": "O pedido será indeferido.",
+      "D": "As exigências foram dispensadas.",
+      "E": "O deferimento ocorreu antes das exigências."
+    },
+    "gabarito": "A",
+    "comentario": "Equivalência condicional."
+  },
+  {
+    "id": 145,
+    "banca": "CEBRASPE",
+    "disciplina": "Língua Portuguesa",
+    "conteudo": "Gêneros textuais",
+    "dificuldade": "fácil",
+    "enunciado": "O gênero textual usado para apresentar opinião institucional é",
+    "alternativas": {
+      "A": "editorial",
+      "B": "resenha",
+      "C": "relato",
+      "D": "crônica",
+      "E": "bilhete"
+    },
+    "gabarito": "A",
+    "comentario": "Editorial expressa posicionamento institucional."
+  },
+
+  {
+    "id": 146,
+    "banca": "CEBRASPE",
+    "disciplina": "Língua Portuguesa",
+    "conteudo": "Concordância nominal",
+    "dificuldade": "difícil",
+    "enunciado": "Está correta a concordância em",
+    "alternativas": {
+      "A": "As análises ficaram meio inconclusivas.",
+      "B": "É proibido a entrada de pessoas.",
+      "C": "Ficaram bastante confuso os relatórios.",
+      "D": "Seguem incluso os anexos.",
+      "E": "Foram meio cansado os técnicos."
+    },
+    "gabarito": "A",
+    "comentario": "‘Meio’ como advérbio é invariável."
+  },
+  {
+    "id": 147,
+    "banca": "CEBRASPE",
+    "disciplina": "Língua Portuguesa",
+    "conteudo": "Coesão textual",
+    "dificuldade": "média",
+    "enunciado": "O conector 'por conseguinte' indica relação de",
+    "alternativas": {
+      "A": "oposição",
+      "B": "tempo",
+      "C": "conclusão",
+      "D": "condição",
+      "E": "explicação"
+    },
+    "gabarito": "C",
+    "comentario": "Conector conclusivo típico."
+  },
+  {
+    "id": 148,
+    "banca": "CEBRASPE",
+    "disciplina": "Língua Portuguesa",
+    "conteudo": "Pontuação",
+    "dificuldade": "difícil",
+    "enunciado": "A retirada da vírgula altera o sentido em",
+    "alternativas": {
+      "A": "Os servidores experientes analisaram.",
+      "B": "Os servidores, experientes, analisaram.",
+      "C": "O relatório final foi aprovado.",
+      "D": "A comissão deliberou.",
+      "E": "O parecer técnico foi emitido."
+    },
+    "gabarito": "B",
+    "comentario": "A vírgula transforma o adjetivo em explicativo."
+  },
+  {
+    "id": 149,
+    "banca": "CEBRASPE",
+    "disciplina": "Língua Portuguesa",
+    "conteudo": "Crase",
+    "dificuldade": "difícil",
+    "enunciado": "O uso da crase é facultativo em",
+    "alternativas": {
+      "A": "à tarde",
+      "B": "à moda antiga",
+      "C": "à distância",
+      "D": "à minha supervisora",
+      "E": "à medida que avança"
+    },
+    "gabarito": "D",
+    "comentario": "Antes de pronome possessivo feminino, a crase é facultativa."
+  },
+  {
+    "id": 150,
+    "banca": "CEBRASPE",
+    "disciplina": "Língua Portuguesa",
+    "conteudo": "Semântica",
+    "dificuldade": "média",
+    "enunciado": "A palavra 'prerrogativa' significa",
+    "alternativas": {
+      "A": "obrigação",
+      "B": "vantagem indevida",
+      "C": "direito ou privilégio",
+      "D": "sanção",
+      "E": "restrição"
+    },
+    "gabarito": "C",
+    "comentario": "Vocábulo frequente em textos jurídicos e administrativos."
+  }
+]
+[
+  {
+    "id": 151,
+    "banca": "CEBRASPE",
+    "disciplina": "Língua Portuguesa",
+    "conteudo": "Compreensão textual",
+    "dificuldade": "média",
+    "enunciado": "Em textos argumentativos, a conclusão tem por finalidade principal",
+    "alternativas": {
+      "A": "introduzir novos argumentos",
+      "B": "retomar dados estatísticos",
+      "C": "reforçar a tese defendida",
+      "D": "apresentar fatos inéditos",
+      "E": "descrever o contexto inicial"
+    },
+    "gabarito": "C",
+    "comentario": "A conclusão sintetiza e reforça a tese apresentada."
+  },
+  {
+    "id": 152,
+    "banca": "CEBRASPE",
+    "disciplina": "Língua Portuguesa",
+    "conteudo": "Tipos textuais",
+    "dificuldade": "fácil",
+    "enunciado": "O tipo textual caracterizado pela exposição objetiva de informações é o",
+    "alternativas": {
+      "A": "narrativo",
+      "B": "injuntivo",
+      "C": "expositivo",
+      "D": "argumentativo",
+      "E": "descritivo literário"
+    },
+    "gabarito": "C",
+    "comentario": "O texto expositivo visa informar."
+  },
+  {
+    "id": 153,
+    "banca": "CEBRASPE",
+    "disciplina": "Língua Portuguesa",
+    "conteudo": "Ortografia",
+    "dificuldade": "média",
+    "enunciado": "Assinale a alternativa corretamente grafada.",
+    "alternativas": {
+      "A": "sub-existente",
+      "B": "super-homem",
+      "C": "infraestrutura",
+      "D": "anti-rreligioso",
+      "E": "co-obrigação"
+    },
+    "gabarito": "C",
+    "comentario": "Forma consagrada sem hífen."
+  },
+  {
+    "id": 154,
+    "banca": "CEBRASPE",
+    "disciplina": "Língua Portuguesa",
+    "conteudo": "Coesão – referenciação",
+    "dificuldade": "difícil",
+    "enunciado": "No período 'A decisão foi revista. Tal medida gerou controvérsia', o termo 'tal' retoma",
+    "alternativas": {
+      "A": "a controvérsia",
+      "B": "a revisão da decisão",
+      "C": "o período anterior",
+      "D": "a medida futura",
+      "E": "o julgamento"
+    },
+    "gabarito": "B",
+    "comentario": "Pronome demonstrativo retoma ideia anterior."
+  },
+  {
+    "id": 155,
+    "banca": "CEBRASPE",
+    "disciplina": "Língua Portuguesa",
+    "conteudo": "Tempos verbais",
+    "dificuldade": "média",
+    "enunciado": "O futuro do presente pode expressar ideia de",
+    "alternativas": {
+      "A": "ação habitual",
+      "B": "ordem atenuada",
+      "C": "certeza passada",
+      "D": "hipótese improvável",
+      "E": "condição passada"
+    },
+    "gabarito": "B",
+    "comentario": "Emprego frequente em textos normativos."
+  },
+
+  {
+    "id": 156,
+    "banca": "CEBRASPE",
+    "disciplina": "Língua Portuguesa",
+    "conteudo": "Classes de palavras",
+    "dificuldade": "média",
+    "enunciado": "Em 'A medida foi suficientemente eficaz', a palavra 'suficientemente' é",
+    "alternativas": {
+      "A": "adjetivo",
+      "B": "substantivo",
+      "C": "advérbio",
+      "D": "pronome",
+      "E": "verbo"
+    },
+    "gabarito": "C",
+    "comentario": "Modifica o adjetivo 'eficaz'."
+  },
+  {
+    "id": 157,
+    "banca": "CEBRASPE",
+    "disciplina": "Língua Portuguesa",
+    "conteudo": "Coordenação",
+    "dificuldade": "média",
+    "enunciado": "A conjunção 'mas' estabelece relação de",
+    "alternativas": {
+      "A": "adição",
+      "B": "conclusão",
+      "C": "oposição",
+      "D": "explicação",
+      "E": "condição"
+    },
+    "gabarito": "C",
+    "comentario": "Conjunção adversativa clássica."
+  },
+  {
+    "id": 158,
+    "banca": "CEBRASPE",
+    "disciplina": "Língua Portuguesa",
+    "conteudo": "Subordinação",
+    "dificuldade": "média",
+    "enunciado": "A oração 'embora houvesse falhas' expressa ideia de",
+    "alternativas": {
+      "A": "causa",
+      "B": "condição",
+      "C": "finalidade",
+      "D": "concessão",
+      "E": "tempo"
+    },
+    "gabarito": "D",
+    "comentario": "Introduz concessão."
+  },
+  {
+    "id": 159,
+    "banca": "CEBRASPE",
+    "disciplina": "Língua Portuguesa",
+    "conteudo": "Pontuação",
+    "dificuldade": "difícil",
+    "enunciado": "A vírgula é obrigatória em",
+    "alternativas": {
+      "A": "orações subordinadas substantivas",
+      "B": "orações adjetivas restritivas",
+      "C": "orações coordenadas assindéticas",
+      "D": "objeto direto",
+      "E": "predicativo do sujeito"
+    },
+    "gabarito": "C",
+    "comentario": "Orações sem conjunção exigem vírgula."
+  },
+  {
+    "id": 160,
+    "banca": "CEBRASPE",
+    "disciplina": "Língua Portuguesa",
+    "conteudo": "Concordância verbal",
+    "dificuldade": "difícil",
+    "enunciado": "Em 'Mais de um servidor foi advertido', a concordância está",
+    "alternativas": {
+      "A": "incorreta",
+      "B": "correta",
+      "C": "facultativa",
+      "D": "condicionada ao contexto",
+      "E": "aceitável apenas na oralidade"
+    },
+    "gabarito": "B",
+    "comentario": "Regra geral: verbo no singular."
+  },
+
+  {
+    "id": 161,
+    "banca": "CEBRASPE",
+    "disciplina": "Língua Portuguesa",
+    "conteudo": "Regência verbal",
+    "dificuldade": "difícil",
+    "enunciado": "O verbo 'assistir', no sentido de prestar assistência, é",
+    "alternativas": {
+      "A": "transitivo direto",
+      "B": "transitivo indireto",
+      "C": "bitransitivo",
+      "D": "intransitivo",
+      "E": "pronominal"
+    },
+    "gabarito": "B",
+    "comentario": "Exige a preposição 'a'."
+  },
+  {
+    "id": 162,
+    "banca": "CEBRASPE",
+    "disciplina": "Língua Portuguesa",
+    "conteudo": "Crase",
+    "dificuldade": "difícil",
+    "enunciado": "Está correto o uso da crase em",
+    "alternativas": {
+      "A": "à partir de agora",
+      "B": "à curto prazo",
+      "C": "à medida que o processo avança",
+      "D": "à pé",
+      "E": "à nível de controle"
+    },
+    "gabarito": "C",
+    "comentario": "Locução conjuntiva feminina."
+  },
+  {
+    "id": 163,
+    "banca": "CEBRASPE",
+    "disciplina": "Língua Portuguesa",
+    "conteudo": "Colocação pronominal",
+    "dificuldade": "difícil",
+    "enunciado": "Está correta a frase",
+    "alternativas": {
+      "A": "Não entregarei-lhe o parecer.",
+      "B": "Jamais lhe entregarei o parecer.",
+      "C": "Entregarei-lhe nunca o parecer.",
+      "D": "Lhe entregarei o parecer amanhã.",
+      "E": "Me entregaram o parecer."
+    },
+    "gabarito": "B",
+    "comentario": "Palavra negativa exige próclise."
+  },
+  {
+    "id": 164,
+    "banca": "CEBRASPE",
+    "disciplina": "Língua Portuguesa",
+    "conteudo": "Semântica",
+    "dificuldade": "média",
+    "enunciado": "A palavra 'contumaz' significa",
+    "alternativas": {
+      "A": "ocasional",
+      "B": "reincidente",
+      "C": "eventual",
+      "D": "incipiente",
+      "E": "pontual"
+    },
+    "gabarito": "B",
+    "comentario": "Vocábulo frequente em textos jurídicos."
+  },
+  {
+    "id": 165,
+    "banca": "CEBRASPE",
+    "disciplina": "Língua Portuguesa",
+    "conteudo": "Reescrita",
+    "dificuldade": "difícil",
+    "enunciado": "Preserva o sentido de 'Apesar das críticas, a medida foi mantida' a forma",
+    "alternativas": {
+      "A": "A medida foi mantida porque houve críticas.",
+      "B": "A medida foi mantida, embora houvesse críticas.",
+      "C": "As críticas impediram a medida.",
+      "D": "A medida foi revogada.",
+      "E": "A medida não foi mantida."
+    },
+    "gabarito": "B",
+    "comentario": "Equivalência concessiva."
+  },
+
+  {
+    "id": 166,
+    "banca": "CEBRASPE",
+    "disciplina": "Língua Portuguesa",
+    "conteudo": "Gêneros textuais",
+    "dificuldade": "fácil",
+    "enunciado": "O gênero textual usado para comunicação formal interna é",
+    "alternativas": {
+      "A": "ofício",
+      "B": "memorando",
+      "C": "artigo",
+      "D": "editorial",
+      "E": "crônica"
+    },
+    "gabarito": "B",
+    "comentario": "Memorando é comunicação interna."
+  },
+  {
+    "id": 167,
+    "banca": "CEBRASPE",
+    "disciplina": "Língua Portuguesa",
+    "conteudo": "Concordância nominal",
+    "dificuldade": "difícil",
+    "enunciado": "Está correta a concordância em",
+    "alternativas": {
+      "A": "As decisões ficaram meio controversas.",
+      "B": "É proibido a entrada.",
+      "C": "Ficaram bastante confuso os dados.",
+      "D": "Seguem incluso os anexos.",
+      "E": "Foram meio cansado os técnicos."
+    },
+    "gabarito": "A",
+    "comentario": "‘Meio’ como advérbio é invariável."
+  },
+  {
+    "id": 168,
+    "banca": "CEBRASPE",
+    "disciplina": "Língua Portuguesa",
+    "conteudo": "Coesão textual",
+    "dificuldade": "média",
+    "enunciado": "O conector 'entretanto' indica relação de",
+    "alternativas": {
+      "A": "adição",
+      "B": "conclusão",
+      "C": "oposição",
+      "D": "explicação",
+      "E": "tempo"
+    },
+    "gabarito": "C",
+    "comentario": "Conector adversativo."
+  },
+  {
+    "id": 169,
+    "banca": "CEBRASPE",
+    "disciplina": "Língua Portuguesa",
+    "conteudo": "Pontuação",
+    "dificuldade": "difícil",
+    "enunciado": "A retirada da vírgula altera o sentido em",
+    "alternativas": {
+      "A": "Os servidores experientes analisaram.",
+      "B": "Os servidores, experientes, analisaram.",
+      "C": "O relatório final foi aprovado.",
+      "D": "A comissão deliberou.",
+      "E": "O parecer foi emitido."
+    },
+    "gabarito": "B",
+    "comentario": "A vírgula torna o adjetivo explicativo."
+  },
+  {
+    "id": 170,
+    "banca": "CEBRASPE",
+    "disciplina": "Língua Portuguesa",
+    "conteudo": "Crase",
+    "dificuldade": "difícil",
+    "enunciado": "O uso da crase é facultativo em",
+    "alternativas": {
+      "A": "à tarde",
+      "B": "à moda antiga",
+      "C": "à distância",
+      "D": "à minha chefia",
+      "E": "à medida que cresce"
+    },
+    "gabarito": "D",
+    "comentario": "Antes de pronome possessivo feminino."
+  },
+
+  {
+    "id": 171,
+    "banca": "CEBRASPE",
+    "disciplina": "Língua Portuguesa",
+    "conteudo": "Semântica",
+    "dificuldade": "média",
+    "enunciado": "A palavra 'dirimir' pode ser substituída por",
+    "alternativas": {
+      "A": "adiar",
+      "B": "resolver",
+      "C": "negar",
+      "D": "ocultar",
+      "E": "postergar"
+    },
+    "gabarito": "B",
+    "comentario": "Significa solucionar."
+  },
+  {
+    "id": 172,
+    "banca": "CEBRASPE",
+    "disciplina": "Língua Portuguesa",
+    "conteudo": "Reescrita",
+    "dificuldade": "difícil",
+    "enunciado": "Mantém o sentido de 'Logo após a análise, o parecer foi emitido' a forma",
+    "alternativas": {
+      "A": "Antes da análise, o parecer foi emitido.",
+      "B": "Depois da análise, o parecer foi emitido.",
+      "C": "Durante a análise, o parecer foi emitido.",
+      "D": "Sem análise, o parecer foi emitido.",
+      "E": "O parecer antecedeu a análise."
+    },
+    "gabarito": "B",
+    "comentario": "Equivalência temporal."
+  },
+  {
+    "id": 173,
+    "banca": "CEBRASPE",
+    "disciplina": "Língua Portuguesa",
+    "conteudo": "Gêneros textuais",
+    "dificuldade": "fácil",
+    "enunciado": "O gênero textual que registra decisões formais é",
+    "alternativas": {
+      "A": "ata",
+      "B": "ofício",
+      "C": "memorando",
+      "D": "parecer",
+      "E": "relatório"
+    },
+    "gabarito": "A",
+    "comentario": "Ata registra deliberações."
+  },
+  {
+    "id": 174,
+    "banca": "CEBRASPE",
+    "disciplina": "Língua Portuguesa",
+    "conteudo": "Concordância verbal",
+    "dificuldade": "difícil",
+    "enunciado": "Em 'Há anos existem controvérsias', o verbo 'há' está",
+    "alternativas": {
+      "A": "correto",
+      "B": "incorreto",
+      "C": "facultativo",
+      "D": "condicionado ao contexto",
+      "E": "aceitável apenas na oralidade"
+    },
+    "gabarito": "B",
+    "comentario": "‘Haver’ indicando tempo é impessoal."
+  },
+  {
+    "id": 175,
+    "banca": "CEBRASPE",
+    "disciplina": "Língua Portuguesa",
+    "conteudo": "Coesão textual",
+    "dificuldade": "média",
+    "enunciado": "O conector 'assim' pode indicar",
+    "alternativas": {
+      "A": "tempo",
+      "B": "modo ou conclusão",
+      "C": "oposição",
+      "D": "condição",
+      "E": "causa exclusiva"
+    },
+    "gabarito": "B",
+    "comentario": "Valor depende do contexto."
+  },
+
+  {
+    "id": 176,
+    "banca": "CEBRASPE",
+    "disciplina": "Língua Portuguesa",
+    "conteudo": "Pontuação",
+    "dificuldade": "difícil",
+    "enunciado": "A vírgula é inadequada em",
+    "alternativas": {
+      "A": "Os relatórios aprovados seguiram.",
+      "B": "O auditor que analisou o processo emitiu parecer.",
+      "C": "O auditor, que analisou o processo, emitiu parecer.",
+      "D": "A comissão técnica deliberou.",
+      "E": "O parecer foi publicado."
+    },
+    "gabarito": "C",
+    "comentario": "Isolamento indevido de oração restritiva."
+  },
+  {
+    "id": 177,
+    "banca": "CEBRASPE",
+    "disciplina": "Língua Portuguesa",
+    "conteudo": "Crase",
+    "dificuldade": "difícil",
+    "enunciado": "Está correto o uso da crase em",
+    "alternativas": {
+      "A": "à nível hierárquico",
+      "B": "à partir de amanhã",
+      "C": "à medida que cresce a demanda",
+      "D": "à pé",
+      "E": "à curto prazo"
+    },
+    "gabarito": "C",
+    "comentario": "Locução conjuntiva feminina."
+  },
+  {
+    "id": 178,
+    "banca": "CEBRASPE",
+    "disciplina": "Língua Portuguesa",
+    "conteudo": "Semântica",
+    "dificuldade": "média",
+    "enunciado": "A palavra 'premente' significa",
+    "alternativas": {
+      "A": "secundário",
+      "B": "urgente",
+      "C": "eventual",
+      "D": "posterior",
+      "E": "dispensável"
+    },
+    "gabarito": "B",
+    "comentario": "Vocábulo recorrente em textos administrativos."
+  },
+  {
+    "id": 179,
+    "banca": "CEBRASPE",
+    "disciplina": "Língua Portuguesa",
+    "conteudo": "Reescrita",
+    "dificuldade": "difícil",
+    "enunciado": "Sem alterar o sentido, 'Caso seja necessário, o prazo será prorrogado' pode ser reescrito como",
+    "alternativas": {
+      "A": "Se for necessário, o prazo será prorrogado.",
+      "B": "Embora seja necessário, o prazo será prorrogado.",
+      "C": "O prazo não será prorrogado.",
+      "D": "A prorrogação já ocorreu.",
+      "E": "O prazo foi encerrado."
+    },
+    "gabarito": "A",
+    "comentario": "Equivalência condicional."
+  },
+  {
+    "id": 180,
+    "banca": "CEBRASPE",
+    "disciplina": "Língua Portuguesa",
+    "conteudo": "Gêneros textuais",
+    "dificuldade": "fácil",
+    "enunciado": "O gênero textual utilizado para responder oficialmente a solicitações é",
+    "alternativas": {
+      "A": "memorando",
+      "B": "ofício",
+      "C": "ata",
+      "D": "resenha",
+      "E": "crônica"
+    },
+    "gabarito": "B",
+    "comentario": "Ofício é comunicação formal externa."
+  },
+
+  {
+    "id": 181,
+    "banca": "CEBRASPE",
+    "disciplina": "Língua Portuguesa",
+    "conteudo": "Concordância nominal",
+    "dificuldade": "difícil",
+    "enunciado": "Está correta a concordância em",
+    "alternativas": {
+      "A": "As análises ficaram meio inconclusivas.",
+      "B": "É proibido a entrada.",
+      "C": "Ficaram bastante confuso os dados.",
+      "D": "Seguem incluso os anexos.",
+      "E": "Foram meio cansado os servidores."
+    },
+    "gabarito": "A",
+    "comentario": "‘Meio’ advérbio é invariável."
+  },
+  {
+    "id": 182,
+    "banca": "CEBRASPE",
+    "disciplina": "Língua Portuguesa",
+    "conteudo": "Coesão textual",
+    "dificuldade": "média",
+    "enunciado": "O conector 'não obstante' indica",
+    "alternativas": {
+      "A": "adição",
+      "B": "conclusão",
+      "C": "oposição/concessão",
+      "D": "tempo",
+      "E": "explicação"
+    },
+    "gabarito": "C",
+    "comentario": "Conector concessivo."
+  },
+  {
+    "id": 183,
+    "banca": "CEBRASPE",
+    "disciplina": "Língua Portuguesa",
+    "conteudo": "Pontuação",
+    "dificuldade": "difícil",
+    "enunciado": "A vírgula pode ser empregada facultativamente em",
+    "alternativas": {
+      "A": "vocativos",
+      "B": "apostos explicativos",
+      "C": "enumeração simples",
+      "D": "orações adjetivas explicativas",
+      "E": "orações coordenadas assindéticas"
+    },
+    "gabarito": "C",
+    "comentario": "Enumeração simples admite variação."
+  },
+  {
+    "id": 184,
+    "banca": "CEBRASPE",
+    "disciplina": "Língua Portuguesa",
+    "conteudo": "Crase",
+    "dificuldade": "difícil",
+    "enunciado": "O uso da crase é proibido em",
+    "alternativas": {
+      "A": "àquela servidora",
+      "B": "à tarde",
+      "C": "à vista de todos",
+      "D": "à Roma antiga",
+      "E": "à distância mínima"
+    },
+    "gabarito": "D",
+    "comentario": "Nome de cidade sem artigo."
+  },
+  {
+    "id": 185,
+    "banca": "CEBRASPE",
+    "disciplina": "Língua Portuguesa",
+    "conteudo": "Semântica",
+    "dificuldade": "média",
+    "enunciado": "A palavra 'oneroso' significa",
+    "alternativas": {
+      "A": "vantajoso",
+      "B": "gratuito",
+      "C": "custoso",
+      "D": "simples",
+      "E": "inofensivo"
+    },
+    "gabarito": "C",
+    "comentario": "Indica algo que gera ônus."
+  },
+
+  {
+    "id": 186,
+    "banca": "CEBRASPE",
+    "disciplina": "Língua Portuguesa",
+    "conteudo": "Reescrita",
+    "dificuldade": "difícil",
+    "enunciado": "Mantém o sentido de 'Embora tenha havido falhas, o processo foi validado' a forma",
+    "alternativas": {
+      "A": "O processo foi validado porque houve falhas.",
+      "B": "O processo foi validado apesar das falhas.",
+      "C": "As falhas impediram a validação.",
+      "D": "O processo foi invalidado.",
+      "E": "Não houve falhas."
+    },
+    "gabarito": "B",
+    "comentario": "Equivalência concessiva."
+  },
+  {
+    "id": 187,
+    "banca": "CEBRASPE",
+    "disciplina": "Língua Portuguesa",
+    "conteudo": "Gêneros textuais",
+    "dificuldade": "fácil",
+    "enunciado": "O gênero textual que apresenta análise técnica conclusiva é",
+    "alternativas": {
+      "A": "ata",
+      "B": "parecer",
+      "C": "memorando",
+      "D": "ofício",
+      "E": "crônica"
+    },
+    "gabarito": "B",
+    "comentario": "Parecer apresenta análise e conclusão."
+  },
+  {
+    "id": 188,
+    "banca": "CEBRASPE",
+    "disciplina": "Língua Portuguesa",
+    "conteudo": "Concordância verbal",
+    "dificuldade": "difícil",
+    "enunciado": "Em 'Existem muitos processos pendentes', o verbo está",
+    "alternativas": {
+      "A": "incorreto",
+      "B": "correto",
+      "C": "facultativo",
+      "D": "impessoal",
+      "E": "aceitável apenas na oralidade"
+    },
+    "gabarito": "B",
+    "comentario": "‘Existir’ é pessoal e concorda com o sujeito."
+  },
+  {
+    "id": 189,
+    "banca": "CEBRASPE",
+    "disciplina": "Língua Portuguesa",
+    "conteudo": "Coesão textual",
+    "dificuldade": "média",
+    "enunciado": "O conector 'por fim' indica",
+    "alternativas": {
+      "A": "oposição",
+      "B": "adição",
+      "C": "sequência final",
+      "D": "explicação",
+      "E": "condição"
+    },
+    "gabarito": "C",
+    "comentario": "Marca encerramento argumentativo."
+  },
+  {
+    "id": 190,
+    "banca": "CEBRASPE",
+    "disciplina": "Língua Portuguesa",
+    "conteudo": "Pontuação",
+    "dificuldade": "difícil",
+    "enunciado": "Está corretamente pontuada a frase",
+    "alternativas": {
+      "A": "O relatório que foi aprovado, seguiu.",
+      "B": "O relatório, que foi aprovado seguiu.",
+      "C": "O relatório que foi aprovado seguiu.",
+      "D": "O relatório, que foi aprovado, seguiu.",
+      "E": "O relatório que, foi aprovado seguiu."
+    },
+    "gabarito": "C",
+    "comentario": "Oração adjetiva restritiva sem vírgula."
+  },
+
+  {
+    "id": 191,
+    "banca": "CEBRASPE",
+    "disciplina": "Língua Portuguesa",
+    "conteudo": "Crase",
+    "dificuldade": "difícil",
+    "enunciado": "O uso da crase é facultativo em",
+    "alternativas": {
+      "A": "à tarde",
+      "B": "à moda antiga",
+      "C": "à distância",
+      "D": "à minha coordenação",
+      "E": "à medida que cresce"
+    },
+    "gabarito": "D",
+    "comentario": "Pronome possessivo feminino."
+  },
+  {
+    "id": 192,
+    "banca": "CEBRASPE",
+    "disciplina": "Língua Portuguesa",
+    "conteudo": "Semântica",
+    "dificuldade": "média",
+    "enunciado": "A palavra 'prerrogativa' significa",
+    "alternativas": {
+      "A": "obrigação",
+      "B": "direito ou privilégio",
+      "C": "penalidade",
+      "D": "restrição",
+      "E": "conduta"
+    },
+    "gabarito": "B",
+    "comentario": "Vocábulo técnico-jurídico."
+  },
+  {
+    "id": 193,
+    "banca": "CEBRASPE",
+    "disciplina": "Língua Portuguesa",
+    "conteudo": "Reescrita",
+    "dificuldade": "difícil",
+    "enunciado": "Sem alterar o sentido, 'Assim que o relatório foi concluído, iniciou-se a deliberação' pode ser reescrito como",
+    "alternativas": {
+      "A": "Antes da conclusão, iniciou-se a deliberação.",
+      "B": "Após a conclusão do relatório, iniciou-se a deliberação.",
+      "C": "Durante a conclusão, iniciou-se a deliberação.",
+      "D": "Sem relatório, iniciou-se a deliberação.",
+      "E": "A deliberação antecedeu o relatório."
+    },
+    "gabarito": "B",
+    "comentario": "Equivalência temporal."
+  },
+  {
+    "id": 194,
+    "banca": "CEBRASPE",
+    "disciplina": "Língua Portuguesa",
+    "conteudo": "Gêneros textuais",
+    "dificuldade": "fácil",
+    "enunciado": "O gênero textual utilizado para formalizar solicitações internas é",
+    "alternativas": {
+      "A": "ofício",
+      "B": "memorando",
+      "C": "ata",
+      "D": "parecer",
+      "E": "artigo"
+    },
+    "gabarito": "B",
+    "comentario": "Memorando é comunicação interna."
+  },
+  {
+    "id": 195,
+    "banca": "CEBRASPE",
+    "disciplina": "Língua Portuguesa",
+    "conteudo": "Concordância nominal",
+    "dificuldade": "difícil",
+    "enunciado": "Está correta a concordância em",
+    "alternativas": {
+      "A": "As medidas ficaram meio controversas.",
+      "B": "É proibido a entrada.",
+      "C": "Ficaram bastante confuso os pareceres.",
+      "D": "Seguem incluso os anexos.",
+      "E": "Foram meio cansado os analistas."
+    },
+    "gabarito": "A",
+    "comentario": "‘Meio’ advérbio é invariável."
+  },
+
+  {
+    "id": 196,
+    "banca": "CEBRASPE",
+    "disciplina": "Língua Portuguesa",
+    "conteudo": "Coesão textual",
+    "dificuldade": "média",
+    "enunciado": "O conector 'além disso' indica",
+    "alternativas": {
+      "A": "oposição",
+      "B": "conclusão",
+      "C": "adição",
+      "D": "tempo",
+      "E": "condição"
+    },
+    "gabarito": "C",
+    "comentario": "Conector aditivo."
+  },
+  {
+    "id": 197,
+    "banca": "CEBRASPE",
+    "disciplina": "Língua Portuguesa",
+    "conteudo": "Pontuação",
+    "dificuldade": "difícil",
+    "enunciado": "A vírgula é inadequada em",
+    "alternativas": {
+      "A": "O auditor experiente analisou o processo.",
+      "B": "Os relatórios aprovados seguiram.",
+      "C": "O auditor, experiente, analisou o processo.",
+      "D": "A comissão deliberou.",
+      "E": "O parecer foi publicado."
+    },
+    "gabarito": "C",
+    "comentario": "Adjetivo explicativo altera o sentido."
+  },
+  {
+    "id": 198,
+    "banca": "CEBRASPE",
+    "disciplina": "Língua Portuguesa",
+    "conteudo": "Crase",
+    "dificuldade": "difícil",
+    "enunciado": "O uso da crase é correto em",
+    "alternativas": {
+      "A": "à curto prazo",
+      "B": "à partir de hoje",
+      "C": "à medida que o tempo passa",
+      "D": "à pé",
+      "E": "à nível institucional"
+    },
+    "gabarito": "C",
+    "comentario": "Locução conjuntiva feminina."
+  },
+  {
+    "id": 199,
+    "banca": "CEBRASPE",
+    "disciplina": "Língua Portuguesa",
+    "conteudo": "Semântica",
+    "dificuldade": "média",
+    "enunciado": "A palavra 'eximir' significa",
+    "alternativas": {
+      "A": "atribuir",
+      "B": "isentar",
+      "C": "obrigar",
+      "D": "punir",
+      "E": "delegar"
+    },
+    "gabarito": "B",
+    "comentario": "Verbo recorrente em textos normativos."
+  },
+  {
+    "id": 200,
+    "banca": "CEBRASPE",
+    "disciplina": "Língua Portuguesa",
+    "conteudo": "Reescrita",
+    "dificuldade": "difícil",
+    "enunciado": "Preserva o sentido de 'Desde que observadas as normas, o ato é válido' a forma",
+    "alternativas": {
+      "A": "Caso sejam observadas as normas, o ato é válido.",
+      "B": "Embora observadas as normas, o ato é inválido.",
+      "C": "O ato é inválido.",
+      "D": "As normas foram desconsideradas.",
+      "E": "O ato foi praticado."
+    },
+    "gabarito": "A",
+    "comentario": "Equivalência condicional."
+  }
+]
