@@ -1,0 +1,3441 @@
+[
+  {
+    "id": 1,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Administrativo",
+    "conteudo": "Estado, governo e administração pública",
+    "dificuldade": "média",
+    "enunciado": "O conceito de administração pública, em sentido subjetivo, refere-se",
+    "alternativas": {
+      "A": "às atividades exercidas pelo Estado",
+      "B": "aos órgãos, agentes e entidades que exercem função administrativa",
+      "C": "às funções políticas do governo",
+      "D": "ao conjunto de normas administrativas",
+      "E": "às atividades jurisdicionais"
+    },
+    "gabarito": "B",
+    "comentario": "Sentido subjetivo ou orgânico: quem exerce a função administrativa."
+  },
+  {
+    "id": 2,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Administrativo",
+    "conteudo": "Estado, governo e administração pública",
+    "dificuldade": "média",
+    "enunciado": "Governo distingue-se da administração pública porque",
+    "alternativas": {
+      "A": "exerce função técnica",
+      "B": "atua de forma permanente",
+      "C": "possui natureza política",
+      "D": "é exercido por servidores",
+      "E": "submete-se ao regime privado"
+    },
+    "gabarito": "C",
+    "comentario": "Governo exerce função política; administração, função administrativa."
+  },
+  {
+    "id": 3,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Administrativo",
+    "conteudo": "Direito administrativo",
+    "dificuldade": "média",
+    "enunciado": "O direito administrativo tem por objeto",
+    "alternativas": {
+      "A": "as relações entre particulares",
+      "B": "a organização e atuação da administração pública",
+      "C": "a função jurisdicional",
+      "D": "a atividade legislativa típica",
+      "E": "o poder constituinte"
+    },
+    "gabarito": "B",
+    "comentario": "Ramo do direito público que rege a função administrativa."
+  },
+  {
+    "id": 4,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Administrativo",
+    "conteudo": "Fontes do direito administrativo",
+    "dificuldade": "difícil",
+    "enunciado": "Constitui fonte primária do direito administrativo",
+    "alternativas": {
+      "A": "a doutrina",
+      "B": "a jurisprudência",
+      "C": "a lei",
+      "D": "os costumes",
+      "E": "a analogia"
+    },
+    "gabarito": "C",
+    "comentario": "Lei é a principal fonte formal do direito administrativo."
+  },
+  {
+    "id": 5,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Administrativo",
+    "conteudo": "Ato administrativo",
+    "dificuldade": "média",
+    "enunciado": "Ato administrativo é aquele praticado",
+    "alternativas": {
+      "A": "por particular em nome próprio",
+      "B": "com finalidade privada",
+      "C": "pela administração no exercício da função administrativa",
+      "D": "exclusivamente pelo Poder Executivo",
+      "E": "sem submissão à lei"
+    },
+    "gabarito": "C",
+    "comentario": "Elemento central: função administrativa."
+  },
+
+  {
+    "id": 6,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Administrativo",
+    "conteudo": "Requisitos do ato administrativo",
+    "dificuldade": "difícil",
+    "enunciado": "Não constitui requisito (elemento) do ato administrativo",
+    "alternativas": {
+      "A": "competência",
+      "B": "finalidade",
+      "C": "forma",
+      "D": "motivação",
+      "E": "objeto"
+    },
+    "gabarito": "D",
+    "comentario": "Motivação é atributo, não requisito essencial."
+  },
+  {
+    "id": 7,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Administrativo",
+    "conteudo": "Atributos do ato administrativo",
+    "dificuldade": "difícil",
+    "enunciado": "O atributo da presunção de legitimidade implica que",
+    "alternativas": {
+      "A": "o ato é sempre válido",
+      "B": "o ato não pode ser anulado",
+      "C": "o ônus da prova é do administrado",
+      "D": "o ato dispensa motivação",
+      "E": "o Judiciário não pode controlá-lo"
+    },
+    "gabarito": "C",
+    "comentario": "Presunção relativa (juris tantum)."
+  },
+  {
+    "id": 8,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Administrativo",
+    "conteudo": "Classificação dos atos administrativos",
+    "dificuldade": "difícil",
+    "enunciado": "O ato administrativo vinculado caracteriza-se por",
+    "alternativas": {
+      "A": "ampla liberdade decisória",
+      "B": "juízo de conveniência e oportunidade",
+      "C": "liberdade quanto ao mérito",
+      "D": "ausência de discricionariedade",
+      "E": "possibilidade de revogação judicial"
+    },
+    "gabarito": "D",
+    "comentario": "Todos os elementos são previamente definidos em lei."
+  },
+  {
+    "id": 9,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Administrativo",
+    "conteudo": "Extinção do ato administrativo",
+    "dificuldade": "difícil",
+    "enunciado": "A anulação do ato administrativo ocorre quando",
+    "alternativas": {
+      "A": "há conveniência administrativa",
+      "B": "o ato é inconveniente",
+      "C": "há ilegalidade",
+      "D": "há mudança de política pública",
+      "E": "há discricionariedade"
+    },
+    "gabarito": "C",
+    "comentario": "Anulação decorre de ilegalidade, com efeitos ex tunc."
+  },
+  {
+    "id": 10,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Administrativo",
+    "conteudo": "Extinção do ato administrativo",
+    "dificuldade": "difícil",
+    "enunciado": "A revogação do ato administrativo",
+    "alternativas": {
+      "A": "decorre de ilegalidade",
+      "B": "produz efeitos ex tunc",
+      "C": "é controle judicial",
+      "D": "atinge atos vinculados",
+      "E": "decorre de conveniência e oportunidade"
+    },
+    "gabarito": "E",
+    "comentario": "Revogação incide sobre mérito, com efeitos ex nunc."
+  },
+
+  {
+    "id": 11,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Administrativo",
+    "conteudo": "Decadência administrativa",
+    "dificuldade": "difícil",
+    "enunciado": "Segundo a Lei nº 9.784/1999, o prazo para anulação de atos administrativos que gerem efeitos favoráveis é de",
+    "alternativas": {
+      "A": "2 anos",
+      "B": "3 anos",
+      "C": "4 anos",
+      "D": "5 anos",
+      "E": "10 anos"
+    },
+    "gabarito": "D",
+    "comentario": "Art. 54 da Lei 9.784/99."
+  },
+  {
+    "id": 12,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Administrativo",
+    "conteudo": "Agentes públicos",
+    "dificuldade": "média",
+    "enunciado": "Agente público é todo aquele que",
+    "alternativas": {
+      "A": "possui cargo efetivo",
+      "B": "mantém vínculo celetista",
+      "C": "exerce função pública, ainda que transitoriamente",
+      "D": "é servidor concursado",
+      "E": "integra a administração direta"
+    },
+    "gabarito": "C",
+    "comentario": "Conceito amplo adotado pela doutrina."
+  },
+  {
+    "id": 13,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Administrativo",
+    "conteudo": "Cargo, emprego e função pública",
+    "dificuldade": "difícil",
+    "enunciado": "O cargo público caracteriza-se por",
+    "alternativas": {
+      "A": "vínculo contratual",
+      "B": "regime celetista",
+      "C": "criação por lei",
+      "D": "natureza temporária",
+      "E": "ausência de atribuições"
+    },
+    "gabarito": "C",
+    "comentario": "Cargo público é criado por lei e regido por estatuto."
+  },
+  {
+    "id": 14,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Administrativo",
+    "conteudo": "Provimento",
+    "dificuldade": "difícil",
+    "enunciado": "Não constitui forma de provimento",
+    "alternativas": {
+      "A": "nomeação",
+      "B": "promoção",
+      "C": "readaptação",
+      "D": "reversão",
+      "E": "demissão"
+    },
+    "gabarito": "E",
+    "comentario": "Demissão é forma de vacância."
+  },
+  {
+    "id": 15,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Administrativo",
+    "conteudo": "Vacância",
+    "dificuldade": "média",
+    "enunciado": "Constitui hipótese de vacância",
+    "alternativas": {
+      "A": "promoção",
+      "B": "readaptação",
+      "C": "reintegração",
+      "D": "exoneração",
+      "E": "reversão"
+    },
+    "gabarito": "D",
+    "comentario": "Exoneração gera vacância do cargo."
+  },
+
+  {
+    "id": 16,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Administrativo",
+    "conteudo": "Efetividade, estabilidade e vitaliciedade",
+    "dificuldade": "difícil",
+    "enunciado": "A estabilidade do servidor público é adquirida após",
+    "alternativas": {
+      "A": "dois anos de exercício",
+      "B": "três anos de efetivo exercício e avaliação especial",
+      "C": "aprovação em concurso público",
+      "D": "nomeação",
+      "E": "posse"
+    },
+    "gabarito": "B",
+    "comentario": "Art. 41 da CF: estabilidade após 3 anos e avaliação especial."
+  },
+  {
+    "id": 17,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Administrativo",
+    "conteudo": "Efetividade, estabilidade e vitaliciedade",
+    "dificuldade": "difícil",
+    "enunciado": "A vitaliciedade aplica-se, como regra, aos",
+    "alternativas": {
+      "A": "servidores estatutários",
+      "B": "empregados públicos",
+      "C": "magistrados e membros do Ministério Público",
+      "D": "servidores temporários",
+      "E": "ocupantes de cargo em comissão"
+    },
+    "gabarito": "C",
+    "comentario": "Vitaliciedade é exceção constitucional."
+  },
+  {
+    "id": 18,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Administrativo",
+    "conteudo": "Remuneração",
+    "dificuldade": "difícil",
+    "enunciado": "A remuneração dos servidores públicos",
+    "alternativas": {
+      "A": "pode ser reduzida por ato administrativo",
+      "B": "é irredutível, salvo exceções constitucionais",
+      "C": "é fixada por decreto",
+      "D": "independe de lei",
+      "E": "não se submete ao teto constitucional"
+    },
+    "gabarito": "B",
+    "comentario": "Irredutibilidade com exceções previstas na CF."
+  },
+  {
+    "id": 19,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Administrativo",
+    "conteudo": "Direitos e deveres",
+    "dificuldade": "média",
+    "enunciado": "Constitui dever do servidor público",
+    "alternativas": {
+      "A": "exercer atribuições fora do cargo",
+      "B": "manter conduta compatível com a moralidade administrativa",
+      "C": "recusar ordens legais",
+      "D": "atuar conforme interesse pessoal",
+      "E": "agir sem observância da hierarquia"
+    },
+    "gabarito": "B",
+    "comentario": "Dever funcional ligado ao princípio da moralidade."
+  },
+  {
+    "id": 20,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Administrativo",
+    "conteudo": "Responsabilidade do agente público",
+    "dificuldade": "difícil",
+    "enunciado": "A responsabilidade do agente público pode ser",
+    "alternativas": {
+      "A": "apenas penal",
+      "B": "exclusivamente civil",
+      "C": "civil, penal e administrativa, de forma independente",
+      "D": "somente administrativa",
+      "E": "sempre solidária com o Estado"
+    },
+    "gabarito": "C",
+    "comentario": "As instâncias são independentes."
+  },
+
+  {
+    "id": 21,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Administrativo",
+    "conteudo": "Processo administrativo disciplinar",
+    "dificuldade": "difícil",
+    "enunciado": "No processo administrativo disciplinar, assegura-se ao acusado",
+    "alternativas": {
+      "A": "defesa técnica obrigatória por advogado",
+      "B": "ampla defesa e contraditório",
+      "C": "julgamento exclusivamente judicial",
+      "D": "decisão discricionária",
+      "E": "presunção absoluta de culpa"
+    },
+    "gabarito": "B",
+    "comentario": "Garantias constitucionais aplicáveis ao PAD."
+  },
+  {
+    "id": 22,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Administrativo",
+    "conteudo": "Poder hierárquico",
+    "dificuldade": "média",
+    "enunciado": "O poder hierárquico permite à Administração",
+    "alternativas": {
+      "A": "criar leis",
+      "B": "aplicar sanções a particulares",
+      "C": "ordenar, fiscalizar e revisar atos de subordinados",
+      "D": "editar atos normativos gerais",
+      "E": "exercer atividade jurisdicional"
+    },
+    "gabarito": "C",
+    "comentario": "Decorre da relação de subordinação interna."
+  },
+  {
+    "id": 23,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Administrativo",
+    "conteudo": "Poder disciplinar",
+    "dificuldade": "difícil",
+    "enunciado": "O poder disciplinar da Administração",
+    "alternativas": {
+      "A": "alcança apenas servidores",
+      "B": "não se aplica a particulares",
+      "C": "permite apuração e punição de infrações funcionais",
+      "D": "é exclusivo do Judiciário",
+      "E": "não admite controle judicial"
+    },
+    "gabarito": "C",
+    "comentario": "Alcança servidores e particulares em vínculo especial."
+  },
+  {
+    "id": 24,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Administrativo",
+    "conteudo": "Poder regulamentar",
+    "dificuldade": "difícil",
+    "enunciado": "O poder regulamentar permite",
+    "alternativas": {
+      "A": "criar obrigações não previstas em lei",
+      "B": "editar decretos para fiel execução da lei",
+      "C": "editar leis delegadas",
+      "D": "exercer função jurisdicional",
+      "E": "afastar a lei"
+    },
+    "gabarito": "B",
+    "comentario": "Regulamentos não inovam a ordem jurídica."
+  },
+  {
+    "id": 25,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Administrativo",
+    "conteudo": "Poder de polícia",
+    "dificuldade": "difícil",
+    "enunciado": "O poder de polícia administrativa caracteriza-se por",
+    "alternativas": {
+      "A": "atividade jurisdicional",
+      "B": "restrição ao uso de bens e direitos em prol do interesse público",
+      "C": "atuação apenas repressiva",
+      "D": "delegação irrestrita a particulares",
+      "E": "natureza contratual"
+    },
+    "gabarito": "B",
+    "comentario": "Limitação administrativa ao exercício de direitos."
+  },
+
+  {
+    "id": 26,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Administrativo",
+    "conteudo": "Uso e abuso do poder",
+    "dificuldade": "difícil",
+    "enunciado": "O excesso de poder ocorre quando o agente",
+    "alternativas": {
+      "A": "atua dentro da competência",
+      "B": "atua sem competência ou além dela",
+      "C": "age com desvio de finalidade",
+      "D": "observa a legalidade",
+      "E": "atua de forma vinculada"
+    },
+    "gabarito": "B",
+    "comentario": "Excesso: vício de competência."
+  },
+  {
+    "id": 27,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Administrativo",
+    "conteudo": "Uso e abuso do poder",
+    "dificuldade": "difícil",
+    "enunciado": "O desvio de finalidade ocorre quando o agente",
+    "alternativas": {
+      "A": "atua fora da competência",
+      "B": "atua com finalidade diversa da prevista em lei",
+      "C": "age com erro formal",
+      "D": "atua sem dolo",
+      "E": "pratica ato vinculado"
+    },
+    "gabarito": "B",
+    "comentario": "Vício relacionado à finalidade."
+  },
+  {
+    "id": 28,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Administrativo",
+    "conteudo": "Regime jurídico-administrativo",
+    "dificuldade": "difícil",
+    "enunciado": "O regime jurídico-administrativo caracteriza-se pela",
+    "alternativas": {
+      "A": "igualdade entre Estado e particular",
+      "B": "supremacia e indisponibilidade do interesse público",
+      "C": "liberdade contratual absoluta",
+      "D": "ausência de prerrogativas",
+      "E": "submissão ao direito privado"
+    },
+    "gabarito": "B",
+    "comentario": "Pilares clássicos do regime administrativo."
+  },
+  {
+    "id": 29,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Administrativo",
+    "conteudo": "Princípios da administração pública",
+    "dificuldade": "média",
+    "enunciado": "Não constitui princípio expresso do art. 37 da CF",
+    "alternativas": {
+      "A": "legalidade",
+      "B": "impessoalidade",
+      "C": "moralidade",
+      "D": "eficiência",
+      "E": "supremacia do interesse público"
+    },
+    "gabarito": "E",
+    "comentario": "Supremacia é princípio implícito."
+  },
+  {
+    "id": 30,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Administrativo",
+    "conteudo": "Responsabilidade civil do Estado",
+    "dificuldade": "difícil",
+    "enunciado": "A responsabilidade civil do Estado por ato comissivo é",
+    "alternativas": {
+      "A": "subjetiva",
+      "B": "objetiva, com base no risco administrativo",
+      "C": "solidária automática",
+      "D": "excludente de culpa",
+      "E": "inexistente"
+    },
+    "gabarito": "B",
+    "comentario": "Art. 37, §6º, CF."
+  },
+
+  {
+    "id": 31,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Administrativo",
+    "conteudo": "Responsabilidade por omissão",
+    "dificuldade": "difícil",
+    "enunciado": "A responsabilidade do Estado por omissão, em regra, é",
+    "alternativas": {
+      "A": "objetiva",
+      "B": "subjetiva",
+      "C": "inexistente",
+      "D": "solidária",
+      "E": "automática"
+    },
+    "gabarito": "B",
+    "comentario": "Exige comprovação de culpa."
+  },
+  {
+    "id": 32,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Administrativo",
+    "conteudo": "Excludentes de responsabilidade",
+    "dificuldade": "difícil",
+    "enunciado": "Constitui causa excludente da responsabilidade estatal",
+    "alternativas": {
+      "A": "culpa administrativa",
+      "B": "dano material",
+      "C": "culpa exclusiva da vítima",
+      "D": "nexo causal",
+      "E": "ato comissivo"
+    },
+    "gabarito": "C",
+    "comentario": "Rompe o nexo causal."
+  },
+  {
+    "id": 33,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Administrativo",
+    "conteudo": "Direito de regresso",
+    "dificuldade": "difícil",
+    "enunciado": "O direito de regresso do Estado contra o agente",
+    "alternativas": {
+      "A": "é automático",
+      "B": "independe de culpa",
+      "C": "exige dolo ou culpa",
+      "D": "é vedado",
+      "E": "é facultativo"
+    },
+    "gabarito": "C",
+    "comentario": "Art. 37, §6º, CF."
+  },
+  {
+    "id": 34,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Administrativo",
+    "conteudo": "Serviços públicos",
+    "dificuldade": "média",
+    "enunciado": "Serviço público é atividade",
+    "alternativas": {
+      "A": "econômica privada",
+      "B": "prestada exclusivamente pelo Estado",
+      "C": "destinada à satisfação de necessidades coletivas",
+      "D": "jurisdicional",
+      "E": "política"
+    },
+    "gabarito": "C",
+    "comentario": "Conceito clássico de serviço público."
+  },
+  {
+    "id": 35,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Administrativo",
+    "conteudo": "Delegação de serviços públicos",
+    "dificuldade": "difícil",
+    "enunciado": "A concessão de serviço público",
+    "alternativas": {
+      "A": "dispensa licitação",
+      "B": "é contrato administrativo",
+      "C": "é ato unilateral",
+      "D": "não admite prazo",
+      "E": "é gratuita"
+    },
+    "gabarito": "B",
+    "comentario": "Contrato administrativo precedido de licitação."
+  },
+
+  {
+    "id": 36,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Administrativo",
+    "conteudo": "Organização administrativa",
+    "dificuldade": "média",
+    "enunciado": "A descentralização administrativa ocorre quando",
+    "alternativas": {
+      "A": "há distribuição interna de competências",
+      "B": "há criação de órgãos",
+      "C": "há transferência de atividade para outra pessoa jurídica",
+      "D": "há hierarquia",
+      "E": "há desconcentração"
+    },
+    "gabarito": "C",
+    "comentario": "Criação de entidades da administração indireta."
+  },
+  {
+    "id": 37,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Administrativo",
+    "conteudo": "Administração indireta",
+    "dificuldade": "difícil",
+    "enunciado": "As autarquias",
+    "alternativas": {
+      "A": "possuem personalidade de direito privado",
+      "B": "são criadas por contrato",
+      "C": "possuem personalidade jurídica de direito público",
+      "D": "não se submetem a controle",
+      "E": "não integram a administração pública"
+    },
+    "gabarito": "C",
+    "comentario": "Entidades autárquicas são de direito público."
+  },
+  {
+    "id": 38,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Administrativo",
+    "conteudo": "Empresas estatais",
+    "dificuldade": "difícil",
+    "enunciado": "A empresa pública distingue-se da sociedade de economia mista porque",
+    "alternativas": {
+      "A": "não integra a administração indireta",
+      "B": "admite capital exclusivamente público",
+      "C": "não possui personalidade jurídica",
+      "D": "é sempre prestadora de serviço público",
+      "E": "é regida integralmente pelo direito público"
+    },
+    "gabarito": "B",
+    "comentario": "Capital 100% público."
+  },
+  {
+    "id": 39,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Administrativo",
+    "conteudo": "Controle da administração",
+    "dificuldade": "difícil",
+    "enunciado": "O controle exercido pelo Poder Legislativo sobre a administração",
+    "alternativas": {
+      "A": "é exclusivamente político",
+      "B": "ocorre com auxílio dos Tribunais de Contas",
+      "C": "dispensa previsão constitucional",
+      "D": "é sempre preventivo",
+      "E": "é jurisdicional"
+    },
+    "gabarito": "B",
+    "comentario": "Controle externo com auxílio do TCU/TCE."
+  },
+  {
+    "id": 40,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Administrativo",
+    "conteudo": "Controle judicial",
+    "dificuldade": "difícil",
+    "enunciado": "O controle judicial da administração",
+    "alternativas": {
+      "A": "alcança o mérito administrativo",
+      "B": "alcança legalidade e legitimidade",
+      "C": "substitui a administração",
+      "D": "é discricionário",
+      "E": "é vedado"
+    },
+    "gabarito": "B",
+    "comentario": "Judiciário não aprecia conveniência e oportunidade."
+  },
+
+  {
+    "id": 41,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Administrativo",
+    "conteudo": "Improbidade administrativa",
+    "dificuldade": "difícil",
+    "enunciado": "Segundo a Lei nº 14.230/2021, a configuração do ato de improbidade exige",
+    "alternativas": {
+      "A": "culpa",
+      "B": "responsabilidade objetiva",
+      "C": "dolo",
+      "D": "dano presumido",
+      "E": "mera ilegalidade"
+    },
+    "gabarito": "C",
+    "comentario": "A improbidade passou a exigir dolo."
+  },
+  {
+    "id": 42,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Administrativo",
+    "conteudo": "Licitações",
+    "dificuldade": "média",
+    "enunciado": "A licitação tem por finalidade",
+    "alternativas": {
+      "A": "favorecer a administração",
+      "B": "assegurar a proposta mais vantajosa",
+      "C": "impedir a contratação direta",
+      "D": "beneficiar grandes empresas",
+      "E": "substituir contratos administrativos"
+    },
+    "gabarito": "B",
+    "comentario": "Art. 11 da Lei 14.133/21."
+  },
+  {
+    "id": 43,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Administrativo",
+    "conteudo": "Dispensa e inexigibilidade",
+    "dificuldade": "difícil",
+    "enunciado": "A inexigibilidade de licitação ocorre quando",
+    "alternativas": {
+      "A": "a lei dispensa",
+      "B": "há inviabilidade de competição",
+      "C": "há baixo valor",
+      "D": "há urgência",
+      "E": "o administrador decide"
+    },
+    "gabarito": "B",
+    "comentario": "Competição juridicamente impossível."
+  },
+  {
+    "id": 44,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Administrativo",
+    "conteudo": "Modalidades de licitação",
+    "dificuldade": "média",
+    "enunciado": "Constitui modalidade de licitação prevista na Lei nº 14.133/2021",
+    "alternativas": {
+      "A": "convite",
+      "B": "tomada de preços",
+      "C": "concorrência",
+      "D": "leilão judicial",
+      "E": "consulta"
+    },
+    "gabarito": "C",
+    "comentario": "Convite e tomada de preços foram extintos."
+  },
+  {
+    "id": 45,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Administrativo",
+    "conteudo": "Pregão",
+    "dificuldade": "difícil",
+    "enunciado": "O pregão destina-se, preferencialmente, à contratação de",
+    "alternativas": {
+      "A": "obras de engenharia",
+      "B": "serviços técnicos especializados",
+      "C": "bens e serviços comuns",
+      "D": "concessões",
+      "E": "parcerias público-privadas"
+    },
+    "gabarito": "C",
+    "comentario": "Critério: padronização."
+  },
+
+  {
+    "id": 46,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Administrativo",
+    "conteudo": "Contratos administrativos",
+    "dificuldade": "difícil",
+    "enunciado": "Constitui cláusula exorbitante",
+    "alternativas": {
+      "A": "equilíbrio econômico-financeiro",
+      "B": "rescisão unilateral",
+      "C": "comutatividade",
+      "D": "bilateralidade",
+      "E": "consensualidade"
+    },
+    "gabarito": "B",
+    "comentario": "Prerrogativa da Administração."
+  },
+  {
+    "id": 47,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Administrativo",
+    "conteudo": "Execução contratual",
+    "dificuldade": "difícil",
+    "enunciado": "A alteração unilateral do contrato pela Administração",
+    "alternativas": {
+      "A": "é vedada",
+      "B": "depende de autorização judicial",
+      "C": "é admitida nos limites legais",
+      "D": "rompe o contrato",
+      "E": "é sempre nula"
+    },
+    "gabarito": "C",
+    "comentario": "Limites quantitativos e qualitativos."
+  },
+  {
+    "id": 48,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Administrativo",
+    "conteudo": "Rescisão contratual",
+    "dificuldade": "difícil",
+    "enunciado": "A rescisão unilateral do contrato administrativo",
+    "alternativas": {
+      "A": "é vedada",
+      "B": "é cláusula exorbitante",
+      "C": "exige acordo entre as partes",
+      "D": "é sempre judicial",
+      "E": "não admite indenização"
+    },
+    "gabarito": "B",
+    "comentario": "Prerrogativa administrativa."
+  },
+  {
+    "id": 49,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Administrativo",
+    "conteudo": "Convênios administrativos",
+    "dificuldade": "média",
+    "enunciado": "O convênio administrativo caracteriza-se por",
+    "alternativas": {
+      "A": "oposição de interesses",
+      "B": "objetivos comuns entre os partícipes",
+      "C": "natureza contratual típica",
+      "D": "cláusulas exorbitantes",
+      "E": "licitação obrigatória"
+    },
+    "gabarito": "B",
+    "comentario": "Há cooperação, não contraposição."
+  },
+  {
+    "id": 50,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Administrativo",
+    "conteudo": "Consórcios administrativos",
+    "dificuldade": "difícil",
+    "enunciado": "Os consórcios públicos",
+    "alternativas": {
+      "A": "não possuem personalidade jurídica",
+      "B": "integram a administração direta",
+      "C": "podem ter personalidade de direito público ou privado",
+      "D": "são contratos comuns",
+      "E": "não admitem controle"
+    },
+    "gabarito": "C",
+    "comentario": "Lei nº 11.107/2005."
+  },
+
+  {
+    "id": 51,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Administrativo",
+    "conteudo": "Estado, governo e administração pública",
+    "dificuldade": "média",
+    "enunciado": "A administração pública em sentido objetivo refere-se",
+    "alternativas": {
+      "A": "às funções administrativas exercidas pelo Estado",
+      "B": "aos órgãos que integram a estrutura estatal",
+      "C": "ao conjunto de agentes públicos",
+      "D": "às funções políticas de governo",
+      "E": "à função jurisdicional"
+    },
+    "gabarito": "A",
+    "comentario": "Sentido objetivo = atividade administrativa."
+  },
+  {
+    "id": 52,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Administrativo",
+    "conteudo": "Fontes do direito administrativo",
+    "dificuldade": "difícil",
+    "enunciado": "A jurisprudência, no direito administrativo brasileiro,",
+    "alternativas": {
+      "A": "é fonte primária",
+      "B": "não possui relevância",
+      "C": "pode vincular a Administração em certos casos",
+      "D": "substitui a lei",
+      "E": "é inaplicável à Administração"
+    },
+    "gabarito": "C",
+    "comentario": "Ex.: súmulas vinculantes e precedentes obrigatórios."
+  },
+  {
+    "id": 53,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Administrativo",
+    "conteudo": "Ato administrativo",
+    "dificuldade": "difícil",
+    "enunciado": "A competência administrativa é, como regra,",
+    "alternativas": {
+      "A": "delegável e avocável",
+      "B": "irrenunciável",
+      "C": "transmissível livremente",
+      "D": "facultativa",
+      "E": "exclusiva do chefe do Poder Executivo"
+    },
+    "gabarito": "B",
+    "comentario": "Competência decorre da lei e é irrenunciável."
+  },
+  {
+    "id": 54,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Administrativo",
+    "conteudo": "Atributos do ato administrativo",
+    "dificuldade": "difícil",
+    "enunciado": "O atributo da autoexecutoriedade permite que a Administração",
+    "alternativas": {
+      "A": "sempre atue sem controle judicial",
+      "B": "execute o ato independentemente de lei",
+      "C": "imponha sanções penais",
+      "D": "execute diretamente certos atos, sem ordem judicial",
+      "E": "afaste direitos fundamentais"
+    },
+    "gabarito": "D",
+    "comentario": "Nem todo ato é autoexecutório."
+  },
+  {
+    "id": 55,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Administrativo",
+    "conteudo": "Extinção do ato administrativo",
+    "dificuldade": "difícil",
+    "enunciado": "A convalidação do ato administrativo",
+    "alternativas": {
+      "A": "alcança vício de finalidade",
+      "B": "alcança vício insanável",
+      "C": "é forma de revogação",
+      "D": "produz efeitos ex nunc",
+      "E": "corrige vícios sanáveis"
+    },
+    "gabarito": "E",
+    "comentario": "Vícios de competência e forma, via de regra."
+  },
+
+  {
+    "id": 56,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Administrativo",
+    "conteudo": "Decadência administrativa",
+    "dificuldade": "difícil",
+    "enunciado": "O prazo decadencial para anulação de ato favorável não se aplica quando houver",
+    "alternativas": {
+      "A": "erro formal",
+      "B": "vício sanável",
+      "C": "má-fé do beneficiário",
+      "D": "ato discricionário",
+      "E": "ato complexo"
+    },
+    "gabarito": "C",
+    "comentario": "Má-fé afasta decadência."
+  },
+  {
+    "id": 57,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Administrativo",
+    "conteudo": "Agentes públicos",
+    "dificuldade": "média",
+    "enunciado": "Os agentes políticos caracterizam-se por",
+    "alternativas": {
+      "A": "vínculo celetista",
+      "B": "investidura por concurso",
+      "C": "subordinação hierárquica típica",
+      "D": "exercício de funções governamentais",
+      "E": "regime estatutário comum"
+    },
+    "gabarito": "D",
+    "comentario": "Chefes do Executivo, ministros, parlamentares etc."
+  },
+  {
+    "id": 58,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Administrativo",
+    "conteudo": "Provimento",
+    "dificuldade": "difícil",
+    "enunciado": "A reintegração do servidor ocorre quando",
+    "alternativas": {
+      "A": "há readaptação funcional",
+      "B": "o servidor retorna por conveniência",
+      "C": "há reversão voluntária",
+      "D": "há invalidação da demissão",
+      "E": "o cargo é extinto"
+    },
+    "gabarito": "D",
+    "comentario": "Reintegração decorre de ilegalidade na demissão."
+  },
+  {
+    "id": 59,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Administrativo",
+    "conteudo": "Estabilidade",
+    "dificuldade": "difícil",
+    "enunciado": "Servidor estável pode perder o cargo",
+    "alternativas": {
+      "A": "por decisão administrativa simples",
+      "B": "apenas por exoneração",
+      "C": "por sentença judicial transitada em julgado",
+      "D": "por vontade da chefia",
+      "E": "por interesse pessoal"
+    },
+    "gabarito": "C",
+    "comentario": "Hipótese expressa do art. 41 da CF."
+  },
+  {
+    "id": 60,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Administrativo",
+    "conteudo": "Responsabilidade do agente",
+    "dificuldade": "difícil",
+    "enunciado": "A absolvição criminal do servidor repercute na esfera administrativa quando",
+    "alternativas": {
+      "A": "afastar tipicidade",
+      "B": "reconhecer inexistência do fato ou negativa de autoria",
+      "C": "houver prescrição",
+      "D": "for por falta de provas",
+      "E": "ocorrer transação penal"
+    },
+    "gabarito": "B",
+    "comentario": "Efeito vinculante excepcional."
+  },
+
+  {
+    "id": 61,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Administrativo",
+    "conteudo": "Poderes administrativos",
+    "dificuldade": "média",
+    "enunciado": "O poder regulamentar é exercido, em regra, por meio de",
+    "alternativas": {
+      "A": "leis delegadas",
+      "B": "medidas provisórias",
+      "C": "portarias internas",
+      "D": "decretos",
+      "E": "resoluções judiciais"
+    },
+    "gabarito": "D",
+    "comentario": "Decretos regulamentares."
+  },
+  {
+    "id": 62,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Administrativo",
+    "conteudo": "Abuso de poder",
+    "dificuldade": "difícil",
+    "enunciado": "O abuso de poder pode ocorrer",
+    "alternativas": {
+      "A": "apenas em atos vinculados",
+      "B": "apenas em atos discricionários",
+      "C": "tanto em atos vinculados quanto discricionários",
+      "D": "somente por excesso",
+      "E": "somente por omissão"
+    },
+    "gabarito": "C",
+    "comentario": "Excesso ou desvio de finalidade."
+  },
+  {
+    "id": 63,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Administrativo",
+    "conteudo": "Responsabilidade civil do Estado",
+    "dificuldade": "difícil",
+    "enunciado": "Na teoria do risco administrativo, o Estado",
+    "alternativas": {
+      "A": "responde mesmo sem nexo causal",
+      "B": "não admite excludentes",
+      "C": "responde objetivamente, com excludentes",
+      "D": "responde apenas se houver culpa",
+      "E": "não admite direito de regresso"
+    },
+    "gabarito": "C",
+    "comentario": "Difere do risco integral."
+  },
+  {
+    "id": 64,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Administrativo",
+    "conteudo": "Serviços públicos",
+    "dificuldade": "difícil",
+    "enunciado": "A permissão de serviço público",
+    "alternativas": {
+      "A": "é contrato administrativo típico",
+      "B": "é ato unilateral, precário",
+      "C": "dispensa licitação",
+      "D": "gera direito adquirido",
+      "E": "é irrevogável"
+    },
+    "gabarito": "B",
+    "comentario": "Maior precariedade em relação à concessão."
+  },
+  {
+    "id": 65,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Administrativo",
+    "conteudo": "Organização administrativa",
+    "dificuldade": "média",
+    "enunciado": "A desconcentração administrativa ocorre",
+    "alternativas": {
+      "A": "com criação de entidades",
+      "B": "entre pessoas jurídicas distintas",
+      "C": "com transferência de titularidade",
+      "D": "dentro da mesma pessoa jurídica",
+      "E": "por delegação contratual"
+    },
+    "gabarito": "D",
+    "comentario": "Distribuição interna de competências."
+  },
+
+  {
+    "id": 66,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Administrativo",
+    "conteudo": "Administração indireta",
+    "dificuldade": "difícil",
+    "enunciado": "As fundações públicas podem possuir",
+    "alternativas": {
+      "A": "somente personalidade privada",
+      "B": "somente personalidade pública",
+      "C": "personalidade pública ou privada",
+      "D": "natureza híbrida sem personalidade",
+      "E": "natureza contratual"
+    },
+    "gabarito": "C",
+    "comentario": "Depende da lei instituidora."
+  },
+  {
+    "id": 67,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Administrativo",
+    "conteudo": "Terceiro setor",
+    "dificuldade": "difícil",
+    "enunciado": "As organizações sociais",
+    "alternativas": {
+      "A": "integram a administração indireta",
+      "B": "são autarquias",
+      "C": "não se submetem a controle",
+      "D": "celebram contrato de gestão",
+      "E": "possuem natureza pública"
+    },
+    "gabarito": "D",
+    "comentario": "Lei nº 9.637/1998."
+  },
+  {
+    "id": 68,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Administrativo",
+    "conteudo": "Controle da administração",
+    "dificuldade": "difícil",
+    "enunciado": "O controle interno da administração",
+    "alternativas": {
+      "A": "é exercido pelo Judiciário",
+      "B": "é exclusivo do Legislativo",
+      "C": "é exercido dentro de cada Poder",
+      "D": "dispensa previsão legal",
+      "E": "é sempre posterior"
+    },
+    "gabarito": "C",
+    "comentario": "Art. 74 da CF."
+  },
+  {
+    "id": 69,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Administrativo",
+    "conteudo": "Improbidade administrativa",
+    "dificuldade": "difícil",
+    "enunciado": "Após a Lei nº 14.230/2021, é correto afirmar que",
+    "alternativas": {
+      "A": "a culpa grave caracteriza improbidade",
+      "B": "o dolo é presumido",
+      "C": "há responsabilidade objetiva",
+      "D": "somente o dolo configura improbidade",
+      "E": "a improbidade foi revogada"
+    },
+    "gabarito": "D",
+    "comentario": "Mudança central da reforma."
+  },
+  {
+    "id": 70,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Administrativo",
+    "conteudo": "Sanções por improbidade",
+    "dificuldade": "difícil",
+    "enunciado": "As sanções por improbidade administrativa",
+    "alternativas": {
+      "A": "são automáticas",
+      "B": "exigem condenação penal",
+      "C": "são aplicadas cumulativamente em qualquer caso",
+      "D": "devem observar proporcionalidade",
+      "E": "independem de dolo"
+    },
+    "gabarito": "D",
+    "comentario": "Princípio expresso após a reforma."
+  },
+
+  {
+    "id": 71,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Administrativo",
+    "conteudo": "Licitações",
+    "dificuldade": "média",
+    "enunciado": "Segundo a Lei nº 14.133/2021, a licitação é",
+    "alternativas": {
+      "A": "sempre obrigatória",
+      "B": "dispensável por vontade do gestor",
+      "C": "regra para contratações públicas",
+      "D": "facultativa",
+      "E": "excepcional"
+    },
+    "gabarito": "C",
+    "comentario": "Contratação direta é exceção."
+  },
+  {
+    "id": 72,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Administrativo",
+    "conteudo": "Dispensa de licitação",
+    "dificuldade": "difícil",
+    "enunciado": "A dispensa de licitação ocorre quando",
+    "alternativas": {
+      "A": "há inviabilidade de competição",
+      "B": "a lei autoriza, mesmo havendo competição",
+      "C": "o gestor entende conveniente",
+      "D": "o valor é elevado",
+      "E": "há contrato administrativo"
+    },
+    "gabarito": "B",
+    "comentario": "Competição possível, mas dispensada por lei."
+  },
+  {
+    "id": 73,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Administrativo",
+    "conteudo": "Modalidades de licitação",
+    "dificuldade": "difícil",
+    "enunciado": "A modalidade diálogo competitivo destina-se a",
+    "alternativas": {
+      "A": "compras comuns",
+      "B": "obras simples",
+      "C": "contratações de baixa complexidade",
+      "D": "soluções inovadoras ou complexas",
+      "E": "contratações emergenciais"
+    },
+    "gabarito": "D",
+    "comentario": "Inovação da Lei 14.133/21."
+  },
+  {
+    "id": 74,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Administrativo",
+    "conteudo": "Procedimento licitatório",
+    "dificuldade": "difícil",
+    "enunciado": "A revogação da licitação decorre de",
+    "alternativas": {
+      "A": "ilegalidade",
+      "B": "vício insanável",
+      "C": "interesse público superveniente",
+      "D": "nulidade absoluta",
+      "E": "controle judicial"
+    },
+    "gabarito": "C",
+    "comentario": "Revogação = mérito administrativo."
+  },
+  {
+    "id": 75,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Administrativo",
+    "conteudo": "Contratos administrativos",
+    "dificuldade": "difícil",
+    "enunciado": "O equilíbrio econômico-financeiro do contrato",
+    "alternativas": {
+      "A": "é favor do particular",
+      "B": "é cláusula implícita",
+      "C": "pode ser afastado",
+      "D": "não admite revisão",
+      "E": "é direito absoluto"
+    },
+    "gabarito": "B",
+    "comentario": "Garantia constitucional do contratado."
+  },
+
+  {
+    "id": 76,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Administrativo",
+    "conteudo": "Execução contratual",
+    "dificuldade": "difícil",
+    "enunciado": "O atraso injustificado no pagamento",
+    "alternativas": {
+      "A": "não gera consequências",
+      "B": "autoriza rescisão automática",
+      "C": "pode ensejar recomposição do equilíbrio",
+      "D": "é risco do contratado",
+      "E": "é irrelevante juridicamente"
+    },
+    "gabarito": "C",
+    "comentario": "Fato da Administração."
+  },
+  {
+    "id": 77,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Administrativo",
+    "conteudo": "Convênios",
+    "dificuldade": "média",
+    "enunciado": "Nos convênios administrativos há",
+    "alternativas": {
+      "A": "interesses opostos",
+      "B": "remuneração",
+      "C": "contraprestação típica",
+      "D": "cooperação entre os partícipes",
+      "E": "lucro"
+    },
+    "gabarito": "D",
+    "comentario": "Não há finalidade lucrativa."
+  },
+  {
+    "id": 78,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Administrativo",
+    "conteudo": "Consórcios públicos",
+    "dificuldade": "difícil",
+    "enunciado": "Os consórcios públicos podem ser formados por",
+    "alternativas": {
+      "A": "entes federativos apenas",
+      "B": "empresas privadas",
+      "C": "pessoas físicas",
+      "D": "entidades do terceiro setor",
+      "E": "particulares em geral"
+    },
+    "gabarito": "A",
+    "comentario": "União, estados, DF e municípios."
+  },
+  {
+    "id": 79,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Administrativo",
+    "conteudo": "Controle judicial",
+    "dificuldade": "difícil",
+    "enunciado": "O Judiciário pode controlar ato discricionário quanto",
+    "alternativas": {
+      "A": "ao mérito",
+      "B": "à conveniência",
+      "C": "à oportunidade",
+      "D": "à legalidade",
+      "E": "à escolha política"
+    },
+    "gabarito": "D",
+    "comentario": "Controle de legalidade sempre é possível."
+  },
+  {
+    "id": 80,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Administrativo",
+    "conteudo": "Controle legislativo",
+    "dificuldade": "difícil",
+    "enunciado": "O controle externo da administração pública é exercido pelo Legislativo com auxílio",
+    "alternativas": {
+      "A": "do Ministério Público",
+      "B": "do Judiciário",
+      "C": "dos Tribunais de Contas",
+      "D": "da Controladoria-Geral",
+      "E": "das autarquias"
+    },
+    "gabarito": "C",
+    "comentario": "Modelo constitucional de controle externo."
+  },
+
+  {
+    "id": 81,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Administrativo",
+    "conteudo": "Improbidade administrativa",
+    "dificuldade": "difícil",
+    "enunciado": "A ação de improbidade administrativa",
+    "alternativas": {
+      "A": "não admite acordo",
+      "B": "admite acordo de não persecução cível",
+      "C": "exige condenação penal prévia",
+      "D": "é imprescritível",
+      "E": "é sempre coletiva"
+    },
+    "gabarito": "B",
+    "comentario": "Inovação da Lei 14.230/21."
+  },
+  {
+    "id": 82,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Administrativo",
+    "conteudo": "Prescrição",
+    "dificuldade": "difícil",
+    "enunciado": "A prescrição da ação de improbidade",
+    "alternativas": {
+      "A": "foi extinta",
+      "B": "é imprescritível",
+      "C": "passou a ter prazos definidos em lei",
+      "D": "depende de dolo",
+      "E": "é sempre quinquenal"
+    },
+    "gabarito": "C",
+    "comentario": "Regime profundamente alterado."
+  },
+  {
+    "id": 83,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Administrativo",
+    "conteudo": "Licitações",
+    "dificuldade": "difícil",
+    "enunciado": "O critério de julgamento por maior retorno econômico",
+    "alternativas": {
+      "A": "é vedado",
+      "B": "é exclusivo de concessões",
+      "C": "aplica-se a contratos de eficiência",
+      "D": "é regra geral",
+      "E": "substitui o menor preço"
+    },
+    "gabarito": "C",
+    "comentario": "Previsto na Lei 14.133/21."
+  },
+  {
+    "id": 84,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Administrativo",
+    "conteudo": "Sanções administrativas",
+    "dificuldade": "difícil",
+    "enunciado": "As sanções administrativas devem observar",
+    "alternativas": {
+      "A": "legalidade e proporcionalidade",
+      "B": "discricionariedade absoluta",
+      "C": "mera conveniência",
+      "D": "exclusão do contraditório",
+      "E": "responsabilidade objetiva"
+    },
+    "gabarito": "A",
+    "comentario": "Princípios constitucionais."
+  },
+  {
+    "id": 85,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Administrativo",
+    "conteudo": "Contratos administrativos",
+    "dificuldade": "difícil",
+    "enunciado": "A rescisão unilateral do contrato pela Administração",
+    "alternativas": {
+      "A": "é vedada",
+      "B": "é sempre judicial",
+      "C": "é cláusula exorbitante",
+      "D": "exige acordo",
+      "E": "é inexistente"
+    },
+    "gabarito": "C",
+    "comentario": "Prerrogativa administrativa."
+  },
+
+  {
+    "id": 86,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Administrativo",
+    "conteudo": "Execução contratual",
+    "dificuldade": "difícil",
+    "enunciado": "A alteração unilateral quantitativa do contrato",
+    "alternativas": {
+      "A": "é ilimitada",
+      "B": "é vedada",
+      "C": "admite limites legais",
+      "D": "depende de acordo",
+      "E": "exige autorização judicial"
+    },
+    "gabarito": "C",
+    "comentario": "Limites percentuais legais."
+  },
+  {
+    "id": 87,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Administrativo",
+    "conteudo": "Serviços públicos",
+    "dificuldade": "difícil",
+    "enunciado": "O princípio da continuidade do serviço público",
+    "alternativas": {
+      "A": "impede greve",
+      "B": "admite interrupção injustificada",
+      "C": "impõe prestação regular e contínua",
+      "D": "não admite exceções",
+      "E": "afasta responsabilidade estatal"
+    },
+    "gabarito": "C",
+    "comentario": "Admite exceções legais."
+  },
+  {
+    "id": 88,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Administrativo",
+    "conteudo": "Responsabilidade do Estado",
+    "dificuldade": "difícil",
+    "enunciado": "Na responsabilidade objetiva do Estado, NÃO é necessário provar",
+    "alternativas": {
+      "A": "conduta",
+      "B": "dano",
+      "C": "nexo causal",
+      "D": "culpa",
+      "E": "ato administrativo"
+    },
+    "gabarito": "D",
+    "comentario": "Culpa é dispensada."
+  },
+  {
+    "id": 89,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Administrativo",
+    "conteudo": "Direito de regresso",
+    "dificuldade": "difícil",
+    "enunciado": "O direito de regresso do Estado",
+    "alternativas": {
+      "A": "é vedado",
+      "B": "é automático",
+      "C": "exige dolo ou culpa do agente",
+      "D": "independe de indenização prévia",
+      "E": "é imprescritível"
+    },
+    "gabarito": "C",
+    "comentario": "Responsabilização subjetiva do agente."
+  },
+  {
+    "id": 90,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Administrativo",
+    "conteudo": "Controle da administração",
+    "dificuldade": "difícil",
+    "enunciado": "O controle administrativo caracteriza-se por ser",
+    "alternativas": {
+      "A": "exclusivamente externo",
+      "B": "interno e hierárquico",
+      "C": "apenas judicial",
+      "D": "exclusivamente político",
+      "E": "sempre posterior"
+    },
+    "gabarito": "B",
+    "comentario": "Autotutela administrativa."
+  },
+
+  {
+    "id": 91,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Administrativo",
+    "conteudo": "Autotutela",
+    "dificuldade": "difícil",
+    "enunciado": "O princípio da autotutela autoriza a Administração a",
+    "alternativas": {
+      "A": "revogar atos ilegais",
+      "B": "anular atos inconvenientes",
+      "C": "anular atos ilegais e revogar atos válidos",
+      "D": "substituir o Judiciário",
+      "E": "descumprir a lei"
+    },
+    "gabarito": "C",
+    "comentario": "Súmulas 346 e 473 do STF."
+  },
+  {
+    "id": 92,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Administrativo",
+    "conteudo": "Licitações",
+    "dificuldade": "difícil",
+    "enunciado": "A adjudicação do objeto da licitação",
+    "alternativas": {
+      "A": "gera direito adquirido ao contrato",
+      "B": "impede revogação",
+      "C": "é ato final do procedimento",
+      "D": "dispensa homologação",
+      "E": "é irreversível"
+    },
+    "gabarito": "C",
+    "comentario": "Ainda depende de homologação."
+  },
+  {
+    "id": 93,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Administrativo",
+    "conteudo": "Homologação",
+    "dificuldade": "difícil",
+    "enunciado": "A homologação da licitação",
+    "alternativas": {
+      "A": "substitui adjudicação",
+      "B": "é controle de legalidade",
+      "C": "é controle de mérito",
+      "D": "é sempre vinculada",
+      "E": "é dispensável"
+    },
+    "gabarito": "B",
+    "comentario": "Autoridade superior controla legalidade."
+  },
+  {
+    "id": 94,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Administrativo",
+    "conteudo": "Sanções contratuais",
+    "dificuldade": "difícil",
+    "enunciado": "As sanções contratuais aplicadas ao contratado",
+    "alternativas": {
+      "A": "dispensam contraditório",
+      "B": "exigem processo administrativo",
+      "C": "são penais",
+      "D": "dependem de decisão judicial",
+      "E": "são automáticas"
+    },
+    "gabarito": "B",
+    "comentario": "Garantias do devido processo."
+  },
+  {
+    "id": 95,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Administrativo",
+    "conteudo": "Pregão",
+    "dificuldade": "média",
+    "enunciado": "No pregão, a fase de lances ocorre",
+    "alternativas": {
+      "A": "antes da habilitação",
+      "B": "após a adjudicação",
+      "C": "após a homologação",
+      "D": "após a assinatura do contrato",
+      "E": "antes da publicação do edital"
+    },
+    "gabarito": "A",
+    "comentario": "Inversão de fases."
+  },
+
+  {
+    "id": 96,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Administrativo",
+    "conteudo": "Sistema de registro de preços",
+    "dificuldade": "difícil",
+    "enunciado": "O sistema de registro de preços",
+    "alternativas": {
+      "A": "obriga a contratação",
+      "B": "dispensa licitação",
+      "C": "gera expectativa de contratação",
+      "D": "substitui o contrato",
+      "E": "é exclusivo da União"
+    },
+    "gabarito": "C",
+    "comentario": "Não há obrigação de contratar."
+  },
+  {
+    "id": 97,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Administrativo",
+    "conteudo": "Contratos administrativos",
+    "dificuldade": "difícil",
+    "enunciado": "A formalização do contrato administrativo",
+    "alternativas": {
+      "A": "dispensa instrumento escrito",
+      "B": "é sempre verbal",
+      "C": "exige instrumento formal, salvo exceções legais",
+      "D": "é facultativa",
+      "E": "é irrelevante"
+    },
+    "gabarito": "C",
+    "comentario": "Regra geral: forma escrita."
+  },
+  {
+    "id": 98,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Administrativo",
+    "conteudo": "Inexecução contratual",
+    "dificuldade": "difícil",
+    "enunciado": "A inexecução total do contrato pode ensejar",
+    "alternativas": {
+      "A": "apenas advertência",
+      "B": "rescisão contratual",
+      "C": "isenção de sanções",
+      "D": "indenização automática ao contratado",
+      "E": "continuidade obrigatória"
+    },
+    "gabarito": "B",
+    "comentario": "Sanções proporcionais."
+  },
+  {
+    "id": 99,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Administrativo",
+    "conteudo": "Revisão contratual",
+    "dificuldade": "difícil",
+    "enunciado": "A teoria da imprevisão aplica-se quando",
+    "alternativas": {
+      "A": "há inadimplemento voluntário",
+      "B": "ocorre fato previsível",
+      "C": "ocorre fato extraordinário e imprevisível",
+      "D": "há culpa do contratado",
+      "E": "há atraso de pagamento"
+    },
+    "gabarito": "C",
+    "comentario": "Fato imprevisível rompe equação inicial."
+  },
+  {
+    "id": 100,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Administrativo",
+    "conteudo": "Contratos administrativos",
+    "dificuldade": "difícil",
+    "enunciado": "Os contratos administrativos regem-se",
+    "alternativas": {
+      "A": "exclusivamente pelo direito privado",
+      "B": "apenas pela autonomia da vontade",
+      "C": "pelas cláusulas contratuais e normas de direito público",
+      "D": "apenas pelo Código Civil",
+      "E": "por usos e costumes"
+    },
+    "gabarito": "C",
+    "comentario": "Predominância do regime jurídico-administrativo."
+  },
+
+  {
+    "id": 101,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Administrativo",
+    "conteudo": "Ato administrativo",
+    "dificuldade": "difícil",
+    "enunciado": "O motivo do ato administrativo corresponde",
+    "alternativas": {
+      "A": "à finalidade pública",
+      "B": "ao resultado pretendido",
+      "C": "à forma prescrita em lei",
+      "D": "ao pressuposto de fato e de direito",
+      "E": "à competência do agente"
+    },
+    "gabarito": "D",
+    "comentario": "Motivo = situação de fato + fundamento jurídico."
+  },
+  {
+    "id": 102,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Administrativo",
+    "conteudo": "Ato administrativo",
+    "dificuldade": "difícil",
+    "enunciado": "A motivação do ato administrativo",
+    "alternativas": {
+      "A": "é sempre dispensável",
+      "B": "é requisito essencial",
+      "C": "é atributo do ato",
+      "D": "é elemento acidental",
+      "E": "afasta controle judicial"
+    },
+    "gabarito": "C",
+    "comentario": "Motivação é atributo; pode ser exigida em certos atos."
+  },
+  {
+    "id": 103,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Administrativo",
+    "conteudo": "Atributos do ato administrativo",
+    "dificuldade": "difícil",
+    "enunciado": "A imperatividade do ato administrativo",
+    "alternativas": {
+      "A": "decorre do consenso",
+      "B": "depende de autorização judicial",
+      "C": "impõe obrigações independentemente da concordância",
+      "D": "é exclusiva de contratos",
+      "E": "é atributo de todo ato"
+    },
+    "gabarito": "C",
+    "comentario": "Não está presente em atos negociais."
+  },
+  {
+    "id": 104,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Administrativo",
+    "conteudo": "Extinção do ato administrativo",
+    "dificuldade": "difícil",
+    "enunciado": "A cassação do ato administrativo ocorre quando",
+    "alternativas": {
+      "A": "há ilegalidade originária",
+      "B": "o ato é inconveniente",
+      "C": "o particular descumpre condição imposta",
+      "D": "há vício insanável",
+      "E": "há decadência"
+    },
+    "gabarito": "C",
+    "comentario": "Descumprimento pelo beneficiário."
+  },
+  {
+    "id": 105,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Administrativo",
+    "conteudo": "Agentes públicos",
+    "dificuldade": "média",
+    "enunciado": "Os servidores temporários",
+    "alternativas": {
+      "A": "possuem estabilidade",
+      "B": "ocupam cargos efetivos",
+      "C": "são agentes políticos",
+      "D": "submetem-se a regime estatutário",
+      "E": "exercem função pública sem vínculo permanente"
+    },
+    "gabarito": "E",
+    "comentario": "Art. 37, IX, CF."
+  },
+
+  {
+    "id": 106,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Administrativo",
+    "conteudo": "Cargo, emprego e função pública",
+    "dificuldade": "difícil",
+    "enunciado": "O emprego público rege-se, em regra, pelo",
+    "alternativas": {
+      "A": "estatuto",
+      "B": "regime celetista",
+      "C": "regime jurídico único",
+      "D": "ato administrativo",
+      "E": "direito constitucional"
+    },
+    "gabarito": "B",
+    "comentario": "Empregados públicos seguem a CLT."
+  },
+  {
+    "id": 107,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Administrativo",
+    "conteudo": "Provimento",
+    "dificuldade": "difícil",
+    "enunciado": "A reversão do servidor aposentado ocorre quando",
+    "alternativas": {
+      "A": "há nulidade da aposentadoria",
+      "B": "há reintegração",
+      "C": "o cargo é extinto",
+      "D": "o servidor é exonerado",
+      "E": "o servidor pede readaptação"
+    },
+    "gabarito": "A",
+    "comentario": "Aposentadoria inválida gera reversão."
+  },
+  {
+    "id": 108,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Administrativo",
+    "conteudo": "Processo administrativo disciplinar",
+    "dificuldade": "difícil",
+    "enunciado": "No PAD, a comissão processante deve ser composta por",
+    "alternativas": {
+      "A": "agentes políticos",
+      "B": "servidores estáveis",
+      "C": "empregados públicos",
+      "D": "particulares",
+      "E": "autoridade máxima"
+    },
+    "gabarito": "B",
+    "comentario": "Exigência legal de estabilidade."
+  },
+  {
+    "id": 109,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Administrativo",
+    "conteudo": "Poder disciplinar",
+    "dificuldade": "difícil",
+    "enunciado": "O poder disciplinar",
+    "alternativas": {
+      "A": "alcança apenas servidores efetivos",
+      "B": "não admite delegação",
+      "C": "pressupõe hierarquia",
+      "D": "é vinculado",
+      "E": "decorre da supremacia do interesse público"
+    },
+    "gabarito": "E",
+    "comentario": "Fundamento do poder sancionador."
+  },
+  {
+    "id": 110,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Administrativo",
+    "conteudo": "Poder regulamentar",
+    "dificuldade": "difícil",
+    "enunciado": "O regulamento autônomo",
+    "alternativas": {
+      "A": "é vedado no Brasil",
+      "B": "substitui a lei",
+      "C": "é previsto expressamente na CF",
+      "D": "depende de autorização legislativa",
+      "E": "cria obrigações gerais"
+    },
+    "gabarito": "C",
+    "comentario": "Hipóteses do art. 84, VI, CF."
+  },
+
+  {
+    "id": 111,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Administrativo",
+    "conteudo": "Poder de polícia",
+    "dificuldade": "difícil",
+    "enunciado": "O ciclo do poder de polícia compreende",
+    "alternativas": {
+      "A": "legislação, consentimento, fiscalização e sanção",
+      "B": "regulamentação e execução",
+      "C": "ato administrativo e contrato",
+      "D": "autorização e permissão",
+      "E": "controle e delegação"
+    },
+    "gabarito": "A",
+    "comentario": "Ciclo clássico do poder de polícia."
+  },
+  {
+    "id": 112,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Administrativo",
+    "conteudo": "Uso e abuso do poder",
+    "dificuldade": "difícil",
+    "enunciado": "O abuso de poder gera",
+    "alternativas": {
+      "A": "ato inexistente",
+      "B": "ato válido",
+      "C": "ato anulável",
+      "D": "ato nulo",
+      "E": "ato irrevogável"
+    },
+    "gabarito": "D",
+    "comentario": "Abuso = ilegalidade → nulidade."
+  },
+  {
+    "id": 113,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Administrativo",
+    "conteudo": "Responsabilidade civil do Estado",
+    "dificuldade": "difícil",
+    "enunciado": "Na responsabilidade por ato lícito do Estado",
+    "alternativas": {
+      "A": "não há indenização",
+      "B": "há indenização se houver dano especial e anormal",
+      "C": "exige dolo",
+      "D": "não há nexo causal",
+      "E": "há culpa exclusiva da vítima"
+    },
+    "gabarito": "B",
+    "comentario": "Ex.: desapropriação indireta."
+  },
+  {
+    "id": 114,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Administrativo",
+    "conteudo": "Excludentes de responsabilidade",
+    "dificuldade": "difícil",
+    "enunciado": "O caso fortuito externo",
+    "alternativas": {
+      "A": "não afasta responsabilidade",
+      "B": "é inerente ao risco",
+      "C": "afasta o nexo causal",
+      "D": "gera responsabilidade objetiva",
+      "E": "impõe indenização"
+    },
+    "gabarito": "C",
+    "comentario": "Rompe o nexo causal."
+  },
+  {
+    "id": 115,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Administrativo",
+    "conteudo": "Reparação do dano",
+    "dificuldade": "difícil",
+    "enunciado": "A indenização paga pelo Estado",
+    "alternativas": {
+      "A": "impede ação regressiva",
+      "B": "exige culpa do Estado",
+      "C": "é sempre integral",
+      "D": "exclui responsabilidade do agente",
+      "E": "autoriza ação regressiva"
+    },
+    "gabarito": "E",
+    "comentario": "Desde que haja dolo ou culpa."
+  },
+
+  {
+    "id": 116,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Administrativo",
+    "conteudo": "Serviços públicos",
+    "dificuldade": "difícil",
+    "enunciado": "O princípio da modicidade tarifária visa",
+    "alternativas": {
+      "A": "lucro do concessionário",
+      "B": "equilíbrio fiscal",
+      "C": "acesso amplo ao serviço",
+      "D": "gratuidade",
+      "E": "tarifa fixa"
+    },
+    "gabarito": "C",
+    "comentario": "Tarifa acessível ao usuário."
+  },
+  {
+    "id": 117,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Administrativo",
+    "conteudo": "Delegação de serviços públicos",
+    "dificuldade": "difícil",
+    "enunciado": "A autorização de serviço público",
+    "alternativas": {
+      "A": "é contrato",
+      "B": "é ato unilateral e precário",
+      "C": "gera direito adquirido",
+      "D": "exige licitação",
+      "E": "é irrevogável"
+    },
+    "gabarito": "B",
+    "comentario": "Maior precariedade entre as formas."
+  },
+  {
+    "id": 118,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Administrativo",
+    "conteudo": "Organização administrativa",
+    "dificuldade": "difícil",
+    "enunciado": "A centralização administrativa ocorre quando",
+    "alternativas": {
+      "A": "há criação de entidades",
+      "B": "há delegação contratual",
+      "C": "o serviço é prestado pelo próprio ente",
+      "D": "há descentralização",
+      "E": "há desconcentração"
+    },
+    "gabarito": "C",
+    "comentario": "Execução direta pelo ente."
+  },
+  {
+    "id": 119,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Administrativo",
+    "conteudo": "Administração indireta",
+    "dificuldade": "difícil",
+    "enunciado": "As sociedades de economia mista",
+    "alternativas": {
+      "A": "possuem capital exclusivamente público",
+      "B": "não integram a administração",
+      "C": "são criadas por contrato",
+      "D": "possuem capital público e privado",
+      "E": "têm personalidade de direito público"
+    },
+    "gabarito": "D",
+    "comentario": "Capital misto e forma societária."
+  },
+  {
+    "id": 120,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Administrativo",
+    "conteudo": "Terceiro setor",
+    "dificuldade": "difícil",
+    "enunciado": "As OSCIPs",
+    "alternativas": {
+      "A": "integram a administração indireta",
+      "B": "celebram contrato de gestão",
+      "C": "celebram termo de parceria",
+      "D": "possuem personalidade pública",
+      "E": "são autarquias"
+    },
+    "gabarito": "C",
+    "comentario": "Lei nº 9.790/1999."
+  },
+
+  {
+    "id": 121,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Administrativo",
+    "conteudo": "Controle da administração",
+    "dificuldade": "difícil",
+    "enunciado": "O controle prévio caracteriza-se por",
+    "alternativas": {
+      "A": "ocorrer após o ato",
+      "B": "ocorrer antes da prática do ato",
+      "C": "ser sempre judicial",
+      "D": "ser exclusivamente externo",
+      "E": "não possuir previsão legal"
+    },
+    "gabarito": "B",
+    "comentario": "Ex.: análise prévia de legalidade."
+  },
+  {
+    "id": 122,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Administrativo",
+    "conteudo": "Controle judicial",
+    "dificuldade": "difícil",
+    "enunciado": "O controle judicial dos atos administrativos",
+    "alternativas": {
+      "A": "alcança mérito",
+      "B": "substitui a Administração",
+      "C": "alcança legalidade e constitucionalidade",
+      "D": "é discricionário",
+      "E": "é político"
+    },
+    "gabarito": "C",
+    "comentario": "Controle de legalidade é a regra."
+  },
+  {
+    "id": 123,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Administrativo",
+    "conteudo": "Improbidade administrativa",
+    "dificuldade": "difícil",
+    "enunciado": "A Lei nº 14.230/2021",
+    "alternativas": {
+      "A": "manteve a culpa como elemento",
+      "B": "instituiu responsabilidade objetiva",
+      "C": "revogou a Lei de Improbidade",
+      "D": "exigiu dolo para configuração",
+      "E": "eliminou sanções"
+    },
+    "gabarito": "D",
+    "comentario": "Mudança estrutural da LIA."
+  },
+  {
+    "id": 124,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Administrativo",
+    "conteudo": "Prescrição",
+    "dificuldade": "difícil",
+    "enunciado": "A prescrição intercorrente na improbidade",
+    "alternativas": {
+      "A": "não existe",
+      "B": "foi vedada",
+      "C": "foi expressamente prevista",
+      "D": "depende de culpa",
+      "E": "é imprescritível"
+    },
+    "gabarito": "C",
+    "comentario": "Inovação legal expressa."
+  },
+  {
+    "id": 125,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Administrativo",
+    "conteudo": "Licitações",
+    "dificuldade": "difícil",
+    "enunciado": "O princípio do planejamento na Lei 14.133/21",
+    "alternativas": {
+      "A": "é implícito",
+      "B": "foi expressamente positivado",
+      "C": "é exclusivo da fase externa",
+      "D": "dispensa estudo técnico",
+      "E": "é facultativo"
+    },
+    "gabarito": "B",
+    "comentario": "Planejamento é eixo estruturante."
+  },
+
+  {
+    "id": 126,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Administrativo",
+    "conteudo": "Modalidades de licitação",
+    "dificuldade": "difícil",
+    "enunciado": "O leilão na Lei 14.133/21 destina-se",
+    "alternativas": {
+      "A": "à contratação de serviços comuns",
+      "B": "à alienação de bens",
+      "C": "a obras públicas",
+      "D": "a serviços técnicos",
+      "E": "a parcerias público-privadas"
+    },
+    "gabarito": "B",
+    "comentario": "Alienação de bens móveis e imóveis."
+  },
+  {
+    "id": 127,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Administrativo",
+    "conteudo": "Procedimento licitatório",
+    "dificuldade": "difícil",
+    "enunciado": "A anulação da licitação decorre de",
+    "alternativas": {
+      "A": "conveniência administrativa",
+      "B": "interesse público superveniente",
+      "C": "ilegalidade",
+      "D": "oportunidade",
+      "E": "planejamento"
+    },
+    "gabarito": "C",
+    "comentario": "Anulação = ilegalidade."
+  },
+  {
+    "id": 128,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Administrativo",
+    "conteudo": "Sanções licitatórias",
+    "dificuldade": "difícil",
+    "enunciado": "A declaração de inidoneidade",
+    "alternativas": {
+      "A": "tem efeitos restritos ao órgão",
+      "B": "é sanção penal",
+      "C": "impede contratar com toda a Administração",
+      "D": "é automática",
+      "E": "dispensa contraditório"
+    },
+    "gabarito": "C",
+    "comentario": "Efeito amplo."
+  },
+  {
+    "id": 129,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Administrativo",
+    "conteudo": "Contratos administrativos",
+    "dificuldade": "difícil",
+    "enunciado": "A teoria do fato do príncipe",
+    "alternativas": {
+      "A": "decorre de ato do contratado",
+      "B": "decorre de ato geral do Estado",
+      "C": "exige imprevisibilidade",
+      "D": "não gera recomposição",
+      "E": "é culpa do particular"
+    },
+    "gabarito": "B",
+    "comentario": "Ato estatal geral que impacta o contrato."
+  },
+  {
+    "id": 130,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Administrativo",
+    "conteudo": "Rescisão contratual",
+    "dificuldade": "difícil",
+    "enunciado": "A rescisão por culpa da Administração",
+    "alternativas": {
+      "A": "não gera indenização",
+      "B": "gera direito à indenização",
+      "C": "é vedada",
+      "D": "é automática",
+      "E": "dispensa motivação"
+    },
+    "gabarito": "B",
+    "comentario": "Proteção do contratado."
+  },
+
+  {
+    "id": 131,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Administrativo",
+    "conteudo": "Convênios",
+    "dificuldade": "média",
+    "enunciado": "Nos convênios administrativos",
+    "alternativas": {
+      "A": "há remuneração",
+      "B": "há lucro",
+      "C": "há interesses contrapostos",
+      "D": "há cooperação",
+      "E": "há cláusulas exorbitantes"
+    },
+    "gabarito": "D",
+    "comentario": "Essência cooperativa."
+  },
+  {
+    "id": 132,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Administrativo",
+    "conteudo": "Consórcios públicos",
+    "dificuldade": "difícil",
+    "enunciado": "O consórcio público com personalidade de direito público",
+    "alternativas": {
+      "A": "integra a administração indireta",
+      "B": "integra a administração direta",
+      "C": "é empresa estatal",
+      "D": "é entidade privada",
+      "E": "não se submete a controle"
+    },
+    "gabarito": "A",
+    "comentario": "Autarquia interfederativa."
+  },
+  {
+    "id": 133,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Administrativo",
+    "conteudo": "Controle externo",
+    "dificuldade": "difícil",
+    "enunciado": "O controle exercido pelos Tribunais de Contas",
+    "alternativas": {
+      "A": "é jurisdicional",
+      "B": "substitui o Judiciário",
+      "C": "tem natureza administrativa",
+      "D": "é político",
+      "E": "é privado"
+    },
+    "gabarito": "C",
+    "comentario": "Função administrativa de controle."
+  },
+  {
+    "id": 134,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Administrativo",
+    "conteudo": "Improbidade administrativa",
+    "dificuldade": "difícil",
+    "enunciado": "A perda da função pública por improbidade",
+    "alternativas": {
+      "A": "é automática",
+      "B": "depende de trânsito em julgado",
+      "C": "dispensa dolo",
+      "D": "é sanção administrativa",
+      "E": "é vedada"
+    },
+    "gabarito": "B",
+    "comentario": "Efeito da condenação definitiva."
+  },
+  {
+    "id": 135,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Administrativo",
+    "conteudo": "Sanções por improbidade",
+    "dificuldade": "difícil",
+    "enunciado": "A dosimetria das sanções por improbidade deve considerar",
+    "alternativas": {
+      "A": "gravidade e circunstâncias do fato",
+      "B": "apenas o dano",
+      "C": "mera ilegalidade",
+      "D": "responsabilidade objetiva",
+      "E": "vontade política"
+    },
+    "gabarito": "A",
+    "comentario": "Princípio da proporcionalidade."
+  },
+
+  {
+    "id": 136,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Administrativo",
+    "conteudo": "Licitações",
+    "dificuldade": "difícil",
+    "enunciado": "A contratação integrada é admitida quando",
+    "alternativas": {
+      "A": "o objeto é simples",
+      "B": "há vedação legal",
+      "C": "o objeto envolve inovação tecnológica",
+      "D": "o valor é baixo",
+      "E": "é serviço comum"
+    },
+    "gabarito": "C",
+    "comentario": "Hipótese legal específica."
+  },
+  {
+    "id": 137,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Administrativo",
+    "conteudo": "Sistema de registro de preços",
+    "dificuldade": "difícil",
+    "enunciado": "A ata de registro de preços",
+    "alternativas": {
+      "A": "é contrato",
+      "B": "obriga a contratação",
+      "C": "gera mera expectativa",
+      "D": "é irrevogável",
+      "E": "dispensa licitação"
+    },
+    "gabarito": "C",
+    "comentario": "Não obriga a contratar."
+  },
+  {
+    "id": 138,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Administrativo",
+    "conteudo": "Contratos administrativos",
+    "dificuldade": "difícil",
+    "enunciado": "A fiscalização do contrato administrativo compete",
+    "alternativas": {
+      "A": "ao contratado",
+      "B": "ao Tribunal de Contas",
+      "C": "à Administração contratante",
+      "D": "ao Judiciário",
+      "E": "ao Ministério Público"
+    },
+    "gabarito": "C",
+    "comentario": "Dever da Administração."
+  },
+  {
+    "id": 139,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Administrativo",
+    "conteudo": "Inexecução contratual",
+    "dificuldade": "difícil",
+    "enunciado": "A aplicação de sanção contratual exige",
+    "alternativas": {
+      "A": "decisão judicial",
+      "B": "processo administrativo",
+      "C": "mera comunicação",
+      "D": "ato discricionário",
+      "E": "urgência"
+    },
+    "gabarito": "B",
+    "comentario": "Contraditório e ampla defesa."
+  },
+  {
+    "id": 140,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Administrativo",
+    "conteudo": "Revisão contratual",
+    "dificuldade": "difícil",
+    "enunciado": "A recomposição do equilíbrio econômico-financeiro",
+    "alternativas": {
+      "A": "é faculdade",
+      "B": "é dever da Administração",
+      "C": "é vedada",
+      "D": "é automática",
+      "E": "depende de culpa"
+    },
+    "gabarito": "B",
+    "comentario": "Garantia do contratado."
+  },
+
+  {
+    "id": 141,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Administrativo",
+    "conteudo": "Serviços públicos",
+    "dificuldade": "difícil",
+    "enunciado": "A encampação do serviço público",
+    "alternativas": {
+      "A": "decorre de inadimplemento",
+      "B": "é forma de caducidade",
+      "C": "ocorre por interesse público",
+      "D": "dispensa indenização",
+      "E": "é automática"
+    },
+    "gabarito": "C",
+    "comentario": "Retomada por interesse público."
+  },
+  {
+    "id": 142,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Administrativo",
+    "conteudo": "Delegação de serviços públicos",
+    "dificuldade": "difícil",
+    "enunciado": "A caducidade da concessão ocorre",
+    "alternativas": {
+      "A": "por interesse público",
+      "B": "por inadimplemento do concessionário",
+      "C": "sem processo",
+      "D": "com indenização integral",
+      "E": "por ato discricionário"
+    },
+    "gabarito": "B",
+    "comentario": "Sanção contratual."
+  },
+  {
+    "id": 143,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Administrativo",
+    "conteudo": "Organização administrativa",
+    "dificuldade": "média",
+    "enunciado": "A concentração administrativa refere-se",
+    "alternativas": {
+      "A": "à criação de entidades",
+      "B": "à distribuição interna",
+      "C": "à reunião de competências em um órgão",
+      "D": "à descentralização",
+      "E": "à delegação contratual"
+    },
+    "gabarito": "C",
+    "comentario": "Oposto de desconcentração."
+  },
+  {
+    "id": 144,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Administrativo",
+    "conteudo": "Controle da administração",
+    "dificuldade": "difícil",
+    "enunciado": "O controle concomitante ocorre",
+    "alternativas": {
+      "A": "antes do ato",
+      "B": "durante a execução",
+      "C": "após a conclusão",
+      "D": "apenas judicialmente",
+      "E": "apenas externamente"
+    },
+    "gabarito": "B",
+    "comentario": "Controle simultâneo."
+  },
+  {
+    "id": 145,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Administrativo",
+    "conteudo": "Controle legislativo",
+    "dificuldade": "difícil",
+    "enunciado": "O sustar atos do Executivo é competência",
+    "alternativas": {
+      "A": "do Judiciário",
+      "B": "do Tribunal de Contas",
+      "C": "do Legislativo",
+      "D": "do Ministério Público",
+      "E": "da Controladoria"
+    },
+    "gabarito": "C",
+    "comentario": "Art. 49, V, CF."
+  },
+
+  {
+    "id": 146,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Administrativo",
+    "conteudo": "Licitações",
+    "dificuldade": "difícil",
+    "enunciado": "A matriz de riscos tem por finalidade",
+    "alternativas": {
+      "A": "transferir todos os riscos ao contratado",
+      "B": "eliminar riscos",
+      "C": "alocar riscos entre as partes",
+      "D": "impedir revisão contratual",
+      "E": "substituir garantias"
+    },
+    "gabarito": "C",
+    "comentario": "Planejamento contratual."
+  },
+  {
+    "id": 147,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Administrativo",
+    "conteudo": "Contratos administrativos",
+    "dificuldade": "difícil",
+    "enunciado": "A garantia contratual",
+    "alternativas": {
+      "A": "é obrigatória em todos os contratos",
+      "B": "é vedada",
+      "C": "é facultativa, nos termos da lei",
+      "D": "substitui sanções",
+      "E": "é automática"
+    },
+    "gabarito": "C",
+    "comentario": "Depende do edital."
+  },
+  {
+    "id": 148,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Administrativo",
+    "conteudo": "Execução contratual",
+    "dificuldade": "difícil",
+    "enunciado": "A subcontratação",
+    "alternativas": {
+      "A": "é sempre vedada",
+      "B": "é livre",
+      "C": "depende de autorização",
+      "D": "dispensa previsão editalícia",
+      "E": "substitui o contratado"
+    },
+    "gabarito": "C",
+    "comentario": "Regra da Lei 14.133/21."
+  },
+  {
+    "id": 149,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Administrativo",
+    "conteudo": "Contratos administrativos",
+    "dificuldade": "difícil",
+    "enunciado": "A rescisão amigável do contrato",
+    "alternativas": {
+      "A": "é vedada",
+      "B": "exige interesse público",
+      "C": "depende de acordo entre as partes",
+      "D": "é automática",
+      "E": "dispensa formalização"
+    },
+    "gabarito": "C",
+    "comentario": "Hipótese legal."
+  },
+  {
+    "id": 150,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Administrativo",
+    "conteudo": "Contratos administrativos",
+    "dificuldade": "difícil",
+    "enunciado": "Os contratos administrativos admitem",
+    "alternativas": {
+      "A": "autonomia privada plena",
+      "B": "cláusulas exorbitantes",
+      "C": "renúncia ao interesse público",
+      "D": "igualdade absoluta",
+      "E": "regime exclusivamente civil"
+    },
+    "gabarito": "B",
+    "comentario": "Marca do regime jurídico-administrativo."
+  },
+
+  {
+    "id": 151,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Administrativo",
+    "conteudo": "Ato administrativo",
+    "dificuldade": "difícil",
+    "enunciado": "O objeto do ato administrativo corresponde",
+    "alternativas": {
+      "A": "à finalidade pública",
+      "B": "à competência do agente",
+      "C": "ao efeito jurídico produzido",
+      "D": "à forma prescrita em lei",
+      "E": "ao motivo do ato"
+    },
+    "gabarito": "C",
+    "comentario": "Objeto é o conteúdo jurídico imediato do ato."
+  },
+  {
+    "id": 152,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Administrativo",
+    "conteudo": "Ato administrativo",
+    "dificuldade": "difícil",
+    "enunciado": "O vício de competência",
+    "alternativas": {
+      "A": "é insanável",
+      "B": "admite convalidação, em regra",
+      "C": "gera ato inexistente",
+      "D": "impede efeitos",
+      "E": "decorre de desvio de finalidade"
+    },
+    "gabarito": "B",
+    "comentario": "Competência é vício sanável, salvo se exclusiva."
+  },
+  {
+    "id": 153,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Administrativo",
+    "conteudo": "Extinção do ato administrativo",
+    "dificuldade": "difícil",
+    "enunciado": "A invalidação do ato administrativo",
+    "alternativas": {
+      "A": "é sempre discricionária",
+      "B": "produz efeitos ex nunc",
+      "C": "pressupõe conveniência",
+      "D": "decorre de ilegalidade",
+      "E": "não admite controle judicial"
+    },
+    "gabarito": "D",
+    "comentario": "Invalidação (anulação) decorre de ilegalidade."
+  },
+  {
+    "id": 154,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Administrativo",
+    "conteudo": "Decadência administrativa",
+    "dificuldade": "difícil",
+    "enunciado": "A decadência administrativa visa",
+    "alternativas": {
+      "A": "punir o administrador",
+      "B": "impedir o controle judicial",
+      "C": "assegurar segurança jurídica",
+      "D": "afastar a legalidade",
+      "E": "proteger o interesse privado"
+    },
+    "gabarito": "C",
+    "comentario": "Limitação temporal à autotutela."
+  },
+  {
+    "id": 155,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Administrativo",
+    "conteudo": "Agentes públicos",
+    "dificuldade": "média",
+    "enunciado": "Os cargos em comissão destinam-se",
+    "alternativas": {
+      "A": "a atividades técnicas",
+      "B": "exclusivamente a servidores efetivos",
+      "C": "a funções de direção, chefia e assessoramento",
+      "D": "a funções permanentes",
+      "E": "à execução de políticas públicas"
+    },
+    "gabarito": "C",
+    "comentario": "Art. 37, V, CF."
+  },
+
+  {
+    "id": 156,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Administrativo",
+    "conteudo": "Estabilidade",
+    "dificuldade": "difícil",
+    "enunciado": "A perda do cargo por insuficiência de desempenho exige",
+    "alternativas": {
+      "A": "processo administrativo e lei complementar",
+      "B": "decisão judicial",
+      "C": "ato discricionário",
+      "D": "avaliação informal",
+      "E": "mera chefia"
+    },
+    "gabarito": "A",
+    "comentario": "Art. 41, §1º, III, CF."
+  },
+  {
+    "id": 157,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Administrativo",
+    "conteudo": "Responsabilidade do agente",
+    "dificuldade": "difícil",
+    "enunciado": "A responsabilidade administrativa do servidor",
+    "alternativas": {
+      "A": "depende de condenação penal",
+      "B": "é objetiva",
+      "C": "é sempre solidária",
+      "D": "independe das demais instâncias",
+      "E": "é imprescritível"
+    },
+    "gabarito": "D",
+    "comentario": "Independência das instâncias."
+  },
+  {
+    "id": 158,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Administrativo",
+    "conteudo": "PAD",
+    "dificuldade": "difícil",
+    "enunciado": "A instauração do PAD",
+    "alternativas": {
+      "A": "é discricionária",
+      "B": "dispensa indícios",
+      "C": "é ato vinculado diante de infração",
+      "D": "exige decisão judicial",
+      "E": "é sempre facultativa"
+    },
+    "gabarito": "C",
+    "comentario": "Dever-poder disciplinar."
+  },
+  {
+    "id": 159,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Administrativo",
+    "conteudo": "Poder disciplinar",
+    "dificuldade": "difícil",
+    "enunciado": "A aplicação de penalidade disciplinar",
+    "alternativas": {
+      "A": "dispensa motivação",
+      "B": "exige contraditório",
+      "C": "é ato discricionário puro",
+      "D": "não admite recurso",
+      "E": "é automática"
+    },
+    "gabarito": "B",
+    "comentario": "Devido processo legal administrativo."
+  },
+  {
+    "id": 160,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Administrativo",
+    "conteudo": "Poder de polícia",
+    "dificuldade": "difícil",
+    "enunciado": "A delegação do poder de polícia",
+    "alternativas": {
+      "A": "é sempre vedada",
+      "B": "é ampla e irrestrita",
+      "C": "pode ocorrer quanto a atos materiais",
+      "D": "alcança poder sancionador",
+      "E": "é exclusiva de autarquias"
+    },
+    "gabarito": "C",
+    "comentario": "Jurisprudência do STF/STJ."
+  },
+
+  {
+    "id": 161,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Administrativo",
+    "conteudo": "Abuso do poder",
+    "dificuldade": "difícil",
+    "enunciado": "O abuso de poder",
+    "alternativas": {
+      "A": "convalida o ato",
+      "B": "gera nulidade absoluta",
+      "C": "gera revogação",
+      "D": "é vício sanável",
+      "E": "afasta controle judicial"
+    },
+    "gabarito": "B",
+    "comentario": "Abuso implica ilegalidade grave."
+  },
+  {
+    "id": 162,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Administrativo",
+    "conteudo": "Regime jurídico-administrativo",
+    "dificuldade": "difícil",
+    "enunciado": "A indisponibilidade do interesse público significa que",
+    "alternativas": {
+      "A": "o Estado pode dispor livremente",
+      "B": "o gestor não pode renunciar a interesses legalmente protegidos",
+      "C": "não há discricionariedade",
+      "D": "todo ato é vinculado",
+      "E": "o interesse privado prevalece"
+    },
+    "gabarito": "B",
+    "comentario": "Limitação à atuação do administrador."
+  },
+  {
+    "id": 163,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Administrativo",
+    "conteudo": "Responsabilidade civil do Estado",
+    "dificuldade": "difícil",
+    "enunciado": "Na responsabilidade objetiva do Estado, a teoria adotada é a do",
+    "alternativas": {
+      "A": "risco integral",
+      "B": "risco administrativo",
+      "C": "risco profissional",
+      "D": "risco subjetivo",
+      "E": "risco presumido"
+    },
+    "gabarito": "B",
+    "comentario": "Admite excludentes."
+  },
+  {
+    "id": 164,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Administrativo",
+    "conteudo": "Responsabilidade por omissão",
+    "dificuldade": "difícil",
+    "enunciado": "A responsabilidade do Estado por omissão específica é",
+    "alternativas": {
+      "A": "objetiva",
+      "B": "inexistente",
+      "C": "subjetiva",
+      "D": "automática",
+      "E": "solidária"
+    },
+    "gabarito": "C",
+    "comentario": "Exige demonstração de culpa."
+  },
+  {
+    "id": 165,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Administrativo",
+    "conteudo": "Direito de regresso",
+    "dificuldade": "difícil",
+    "enunciado": "O direito de regresso do Estado é",
+    "alternativas": {
+      "A": "obrigatório em qualquer hipótese",
+      "B": "facultativo e condicionado",
+      "C": "automático",
+      "D": "imprescritível",
+      "E": "vedado"
+    },
+    "gabarito": "B",
+    "comentario": "Depende de dolo ou culpa do agente."
+  },
+
+  {
+    "id": 166,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Administrativo",
+    "conteudo": "Serviços públicos",
+    "dificuldade": "difícil",
+    "enunciado": "O princípio da universalidade dos serviços públicos",
+    "alternativas": {
+      "A": "garante acesso a todos os usuários",
+      "B": "impõe gratuidade",
+      "C": "elimina tarifas",
+      "D": "é absoluto",
+      "E": "dispensa regulação"
+    },
+    "gabarito": "A",
+    "comentario": "Acesso amplo, respeitadas regras."
+  },
+  {
+    "id": 167,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Administrativo",
+    "conteudo": "Delegação de serviços públicos",
+    "dificuldade": "difícil",
+    "enunciado": "A encampação da concessão exige",
+    "alternativas": {
+      "A": "inadimplemento",
+      "B": "indenização prévia",
+      "C": "processo judicial",
+      "D": "ato discricionário simples",
+      "E": "licitação"
+    },
+    "gabarito": "B",
+    "comentario": "Retomada por interesse público."
+  },
+  {
+    "id": 168,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Administrativo",
+    "conteudo": "Organização administrativa",
+    "dificuldade": "média",
+    "enunciado": "A administração direta é composta por",
+    "alternativas": {
+      "A": "autarquias",
+      "B": "empresas estatais",
+      "C": "órgãos dos entes federativos",
+      "D": "fundações públicas",
+      "E": "consórcios públicos"
+    },
+    "gabarito": "C",
+    "comentario": "Órgãos sem personalidade jurídica."
+  },
+  {
+    "id": 169,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Administrativo",
+    "conteudo": "Administração indireta",
+    "dificuldade": "difícil",
+    "enunciado": "As empresas públicas",
+    "alternativas": {
+      "A": "possuem capital misto",
+      "B": "integram a administração direta",
+      "C": "possuem personalidade de direito privado",
+      "D": "são autarquias",
+      "E": "não se submetem a controle"
+    },
+    "gabarito": "C",
+    "comentario": "Capital 100% público, regime privado."
+  },
+  {
+    "id": 170,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Administrativo",
+    "conteudo": "Terceiro setor",
+    "dificuldade": "difícil",
+    "enunciado": "Os serviços sociais autônomos",
+    "alternativas": {
+      "A": "integram a administração indireta",
+      "B": "são autarquias",
+      "C": "são pessoas jurídicas de direito privado",
+      "D": "não sofrem controle",
+      "E": "são empresas estatais"
+    },
+    "gabarito": "C",
+    "comentario": "Sistema S."
+  },
+
+  {
+    "id": 171,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Administrativo",
+    "conteudo": "Controle da administração",
+    "dificuldade": "difícil",
+    "enunciado": "O controle finalístico incide sobre",
+    "alternativas": {
+      "A": "órgãos da administração direta",
+      "B": "entidades da administração indireta",
+      "C": "particulares",
+      "D": "contratos privados",
+      "E": "atos legislativos"
+    },
+    "gabarito": "B",
+    "comentario": "Supervisão ministerial."
+  },
+  {
+    "id": 172,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Administrativo",
+    "conteudo": "Controle judicial",
+    "dificuldade": "difícil",
+    "enunciado": "O mandado de segurança contra ato administrativo exige",
+    "alternativas": {
+      "A": "direito líquido e certo",
+      "B": "dano material",
+      "C": "culpa do agente",
+      "D": "ato discricionário",
+      "E": "mérito administrativo"
+    },
+    "gabarito": "A",
+    "comentario": "Lei 12.016/2009."
+  },
+  {
+    "id": 173,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Administrativo",
+    "conteudo": "Improbidade administrativa",
+    "dificuldade": "difícil",
+    "enunciado": "Após a Lei 14.230/2021, a improbidade administrativa",
+    "alternativas": {
+      "A": "admite culpa grave",
+      "B": "é responsabilidade objetiva",
+      "C": "exige dolo específico",
+      "D": "foi extinta",
+      "E": "é imprescritível"
+    },
+    "gabarito": "C",
+    "comentario": "Dolo qualificado."
+  },
+  {
+    "id": 174,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Administrativo",
+    "conteudo": "Sanções por improbidade",
+    "dificuldade": "difícil",
+    "enunciado": "A perda dos direitos políticos por improbidade",
+    "alternativas": {
+      "A": "é automática",
+      "B": "depende de sentença transitada em julgado",
+      "C": "dispensa processo",
+      "D": "é sanção administrativa",
+      "E": "não existe mais"
+    },
+    "gabarito": "B",
+    "comentario": "Efeito da condenação definitiva."
+  },
+  {
+    "id": 175,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Administrativo",
+    "conteudo": "Licitações",
+    "dificuldade": "difícil",
+    "enunciado": "O princípio da segregação de funções",
+    "alternativas": {
+      "A": "é implícito",
+      "B": "foi positivado na Lei 14.133/21",
+      "C": "é exclusivo da fase externa",
+      "D": "dispensa controle",
+      "E": "é facultativo"
+    },
+    "gabarito": "B",
+    "comentario": "Princípio expresso."
+  },
+
+  {
+    "id": 176,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Administrativo",
+    "conteudo": "Dispensa e inexigibilidade",
+    "dificuldade": "difícil",
+    "enunciado": "A contratação direta por inexigibilidade pressupõe",
+    "alternativas": {
+      "A": "baixo valor",
+      "B": "urgência",
+      "C": "inviabilidade de competição",
+      "D": "conveniência",
+      "E": "autorização judicial"
+    },
+    "gabarito": "C",
+    "comentario": "Competição juridicamente impossível."
+  },
+  {
+    "id": 177,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Administrativo",
+    "conteudo": "Modalidades de licitação",
+    "dificuldade": "difícil",
+    "enunciado": "O concurso, como modalidade de licitação, destina-se",
+    "alternativas": {
+      "A": "à alienação de bens",
+      "B": "à escolha de trabalho técnico, científico ou artístico",
+      "C": "a serviços comuns",
+      "D": "a obras de engenharia",
+      "E": "a bens padronizados"
+    },
+    "gabarito": "B",
+    "comentario": "Premiação ou remuneração."
+  },
+  {
+    "id": 178,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Administrativo",
+    "conteudo": "Procedimento licitatório",
+    "dificuldade": "difícil",
+    "enunciado": "A homologação do certame",
+    "alternativas": {
+      "A": "é ato vinculado",
+      "B": "é controle de legalidade",
+      "C": "substitui adjudicação",
+      "D": "gera contrato",
+      "E": "dispensa motivação"
+    },
+    "gabarito": "B",
+    "comentario": "Controle final de legalidade."
+  },
+  {
+    "id": 179,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Administrativo",
+    "conteudo": "Contratos administrativos",
+    "dificuldade": "difícil",
+    "enunciado": "O reajuste contratual visa",
+    "alternativas": {
+      "A": "restabelecer equilíbrio rompido",
+      "B": "corrigir inflação periódica",
+      "C": "indenizar fato imprevisível",
+      "D": "punir a Administração",
+      "E": "rever cláusulas"
+    },
+    "gabarito": "B",
+    "comentario": "Correção monetária periódica."
+  },
+  {
+    "id": 180,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Administrativo",
+    "conteudo": "Revisão contratual",
+    "dificuldade": "difícil",
+    "enunciado": "A recomposição por fato da Administração ocorre quando",
+    "alternativas": {
+      "A": "há ato geral do Estado",
+      "B": "há inadimplemento do contratado",
+      "C": "a Administração descumpre o contrato",
+      "D": "há imprevisibilidade",
+      "E": "há força maior"
+    },
+    "gabarito": "C",
+    "comentario": "Conduta estatal específica."
+  },
+
+  {
+    "id": 181,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Administrativo",
+    "conteudo": "Convênios",
+    "dificuldade": "média",
+    "enunciado": "Nos convênios administrativos, a prestação de contas é",
+    "alternativas": {
+      "A": "dispensável",
+      "B": "facultativa",
+      "C": "obrigatória",
+      "D": "exclusiva do concedente",
+      "E": "desnecessária"
+    },
+    "gabarito": "C",
+    "comentario": "Controle da aplicação dos recursos."
+  },
+  {
+    "id": 182,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Administrativo",
+    "conteudo": "Consórcios públicos",
+    "dificuldade": "difícil",
+    "enunciado": "O consórcio público",
+    "alternativas": {
+      "A": "dispensa lei autorizativa",
+      "B": "é criado por contrato apenas",
+      "C": "exige protocolo de intenções ratificado por lei",
+      "D": "integra a administração direta",
+      "E": "não pode contratar"
+    },
+    "gabarito": "C",
+    "comentario": "Lei nº 11.107/2005."
+  },
+  {
+    "id": 183,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Administrativo",
+    "conteudo": "Controle externo",
+    "dificuldade": "difícil",
+    "enunciado": "As decisões dos Tribunais de Contas",
+    "alternativas": {
+      "A": "são jurisdicionais",
+      "B": "não admitem controle judicial",
+      "C": "podem ser objeto de controle judicial",
+      "D": "são irrecorríveis",
+      "E": "substituem sentença"
+    },
+    "gabarito": "C",
+    "comentario": "Súmula 473/STF aplicada por analogia."
+  },
+  {
+    "id": 184,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Administrativo",
+    "conteudo": "Controle administrativo",
+    "dificuldade": "difícil",
+    "enunciado": "A revisão de atos administrativos pela própria Administração decorre do princípio da",
+    "alternativas": {
+      "A": "legalidade",
+      "B": "autotutela",
+      "C": "eficiência",
+      "D": "moralidade",
+      "E": "publicidade"
+    },
+    "gabarito": "B",
+    "comentario": "Súmulas 346 e 473 do STF."
+  },
+  {
+    "id": 185,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Administrativo",
+    "conteudo": "Improbidade administrativa",
+    "dificuldade": "difícil",
+    "enunciado": "O acordo de não persecução cível",
+    "alternativas": {
+      "A": "é vedado",
+      "B": "dispensa homologação",
+      "C": "exige previsão legal",
+      "D": "é obrigatório",
+      "E": "substitui sanções penais"
+    },
+    "gabarito": "C",
+    "comentario": "Previsto na Lei 14.230/21."
+  },
+
+  {
+    "id": 186,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Administrativo",
+    "conteudo": "Licitações",
+    "dificuldade": "difícil",
+    "enunciado": "A contratação integrada",
+    "alternativas": {
+      "A": "é regra geral",
+      "B": "transfere riscos ao contratado conforme matriz",
+      "C": "dispensa projeto básico",
+      "D": "é vedada",
+      "E": "é exclusiva de serviços comuns"
+    },
+    "gabarito": "B",
+    "comentario": "Riscos alocados contratualmente."
+  },
+  {
+    "id": 187,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Administrativo",
+    "conteudo": "Sanções licitatórias",
+    "dificuldade": "difícil",
+    "enunciado": "A aplicação de sanções licitatórias exige",
+    "alternativas": {
+      "A": "decisão judicial",
+      "B": "processo administrativo",
+      "C": "ato automático",
+      "D": "mera comunicação",
+      "E": "urgência"
+    },
+    "gabarito": "B",
+    "comentario": "Contraditório e ampla defesa."
+  },
+  {
+    "id": 188,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Administrativo",
+    "conteudo": "Contratos administrativos",
+    "dificuldade": "difícil",
+    "enunciado": "A extinção do contrato por término do prazo",
+    "alternativas": {
+      "A": "é rescisão",
+      "B": "é anulação",
+      "C": "é caducidade",
+      "D": "é forma normal de extinção",
+      "E": "gera indenização automática"
+    },
+    "gabarito": "D",
+    "comentario": "Extinção natural."
+  },
+  {
+    "id": 189,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Administrativo",
+    "conteudo": "Execução contratual",
+    "dificuldade": "difícil",
+    "enunciado": "A fiscalização contratual",
+    "alternativas": {
+      "A": "é faculdade",
+      "B": "é dever da Administração",
+      "C": "é exclusiva do TCU",
+      "D": "é opcional",
+      "E": "dispensa designação formal"
+    },
+    "gabarito": "B",
+    "comentario": "Dever legal do gestor."
+  },
+  {
+    "id": 190,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Administrativo",
+    "conteudo": "Revisão contratual",
+    "dificuldade": "difícil",
+    "enunciado": "A teoria da imprevisão exige",
+    "alternativas": {
+      "A": "culpa do contratado",
+      "B": "fato previsível",
+      "C": "fato extraordinário e imprevisível",
+      "D": "ato lícito do Estado",
+      "E": "inadimplemento"
+    },
+    "gabarito": "C",
+    "comentario": "Evento fora da álea normal."
+  },
+
+  {
+    "id": 191,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Administrativo",
+    "conteudo": "Serviços públicos",
+    "dificuldade": "difícil",
+    "enunciado": "A tarifa de serviço público",
+    "alternativas": {
+      "A": "é tributo",
+      "B": "é preço público",
+      "C": "é taxa",
+      "D": "é contribuição",
+      "E": "é multa"
+    },
+    "gabarito": "B",
+    "comentario": "Preço público, não tributo."
+  },
+  {
+    "id": 192,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Administrativo",
+    "conteudo": "Delegação de serviços públicos",
+    "dificuldade": "difícil",
+    "enunciado": "A permissão de serviço público",
+    "alternativas": {
+      "A": "gera direito adquirido",
+      "B": "é precária",
+      "C": "exige indenização prévia",
+      "D": "é irrevogável",
+      "E": "é contrato bilateral"
+    },
+    "gabarito": "B",
+    "comentario": "Natureza precária."
+  },
+  {
+    "id": 193,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Administrativo",
+    "conteudo": "Organização administrativa",
+    "dificuldade": "média",
+    "enunciado": "A criação de autarquia depende de",
+    "alternativas": {
+      "A": "decreto",
+      "B": "contrato",
+      "C": "lei específica",
+      "D": "portaria",
+      "E": "licitação"
+    },
+    "gabarito": "C",
+    "comentario": "Art. 37, XIX, CF."
+  },
+  {
+    "id": 194,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Administrativo",
+    "conteudo": "Administração indireta",
+    "dificuldade": "difícil",
+    "enunciado": "As fundações públicas de direito público",
+    "alternativas": {
+      "A": "não integram a administração",
+      "B": "são empresas estatais",
+      "C": "equiparam-se às autarquias",
+      "D": "possuem capital privado",
+      "E": "são contratos"
+    },
+    "gabarito": "C",
+    "comentario": "Autarquias fundacionais."
+  },
+  {
+    "id": 195,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Administrativo",
+    "conteudo": "Controle da administração",
+    "dificuldade": "difícil",
+    "enunciado": "O controle político-administrativo é exercido, principalmente, pelo",
+    "alternativas": {
+      "A": "Judiciário",
+      "B": "Tribunal de Contas",
+      "C": "Legislativo",
+      "D": "Ministério Público",
+      "E": "Executivo"
+    },
+    "gabarito": "C",
+    "comentario": "Controle externo político."
+  },
+
+  {
+    "id": 196,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Administrativo",
+    "conteudo": "Improbidade administrativa",
+    "dificuldade": "difícil",
+    "enunciado": "A ação de improbidade administrativa",
+    "alternativas": {
+      "A": "é imprescritível",
+      "B": "não admite acordo",
+      "C": "admite prescrição intercorrente",
+      "D": "exige culpa",
+      "E": "é automática"
+    },
+    "gabarito": "C",
+    "comentario": "Previsão expressa na reforma."
+  },
+  {
+    "id": 197,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Administrativo",
+    "conteudo": "Licitações",
+    "dificuldade": "difícil",
+    "enunciado": "O princípio da transparência na Lei 14.133/21",
+    "alternativas": {
+      "A": "é implícito",
+      "B": "é restrito à fase externa",
+      "C": "exige divulgação ampla dos atos",
+      "D": "afasta sigilo",
+      "E": "é facultativo"
+    },
+    "gabarito": "C",
+    "comentario": "Publicidade como regra."
+  },
+  {
+    "id": 198,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Administrativo",
+    "conteudo": "Contratos administrativos",
+    "dificuldade": "difícil",
+    "enunciado": "A extinção unilateral do contrato pela Administração",
+    "alternativas": {
+      "A": "é vedada",
+      "B": "é cláusula exorbitante",
+      "C": "é sempre judicial",
+      "D": "depende de acordo",
+      "E": "é inexistente"
+    },
+    "gabarito": "B",
+    "comentario": "Prerrogativa administrativa."
+  },
+  {
+    "id": 199,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Administrativo",
+    "conteudo": "Execução contratual",
+    "dificuldade": "difícil",
+    "enunciado": "O atraso no pagamento por parte da Administração",
+    "alternativas": {
+      "A": "é risco do contratado",
+      "B": "não gera efeitos",
+      "C": "pode gerar recomposição do equilíbrio",
+      "D": "gera rescisão automática",
+      "E": "é irrelevante"
+    },
+    "gabarito": "C",
+    "comentario": "Fato da Administração."
+  },
+  {
+    "id": 200,
+    "banca": "CEBRASPE",
+    "disciplina": "Direito Administrativo",
+    "conteudo": "Contratos administrativos",
+    "dificuldade": "difícil",
+    "enunciado": "Os contratos administrativos caracterizam-se, principalmente, pela",
+    "alternativas": {
+      "A": "igualdade absoluta entre as partes",
+      "B": "prevalência da autonomia privada",
+      "C": "presença de cláusulas exorbitantes",
+      "D": "submissão exclusiva ao direito civil",
+      "E": "ausência de controle"
+    },
+    "gabarito": "C",
+    "comentario": "Elemento distintivo do regime público."
+  }
+]
